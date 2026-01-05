@@ -1,0 +1,5 @@
+N M
+K
+p_spread
+burn_ticks
+seed
