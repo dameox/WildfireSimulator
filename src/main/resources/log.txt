@@ -1,1 +1,7 @@
 2026-01-05 13:25:52: Hello to the FREE WORLD!
+2026-01-06 15:05:40: loading instructions
+2026-01-06 15:05:40: loaded instructions with values: n=2, m=3, k=4, spread=0.324, burnTicks=2, seed=176479263498769876
+2026-01-06 15:05:40: Started simulation
+2026-01-06 15:08:02: loading instructions
+2026-01-06 15:08:02: loaded instructions with values: n=2, m=3, k=4, spread=0.324, burnTicks=2, seed=176479263498769876
+2026-01-06 15:08:02: Started simulation

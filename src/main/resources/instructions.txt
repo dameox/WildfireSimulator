@@ -1,5 +1,5 @@
-N M
-K
-p_spread
-burn_ticks
-seed
+2 3
+4
+0.324
+2
+176479263498769876
