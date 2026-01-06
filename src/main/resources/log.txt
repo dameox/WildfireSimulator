@@ -5,3 +5,156 @@
 2026-01-06 15:08:02: loading instructions
 2026-01-06 15:08:02: loaded instructions with values: n=2, m=3, k=4, spread=0.324, burnTicks=2, seed=176479263498769876
 2026-01-06 15:08:02: Started simulation
+2026-01-06 15:19:33: loading instructions
+2026-01-06 15:19:33: loaded instructions with values: n=2, m=3, k=4, spread=0.324, burnTicks=2, seed=176479263498769876
+2026-01-06 15:19:33: Started simulation
+2026-01-06 15:25:06: loading instructions
+2026-01-06 15:25:06: loaded instructions with values: n=2, m=3, k=4, spread=0.324, burnTicks=2, seed=176479263498769876
+2026-01-06 15:25:06: Started simulation
+2026-01-06 15:26:25: loading instructions
+2026-01-06 15:26:25: loaded instructions with values: n=2, m=3, k=4, spread=0.324, burnTicks=2, seed=176479263498769876
+2026-01-06 15:26:25: Started simulation
+2026-01-06 15:26:46: loading instructions
+2026-01-06 15:26:46: loaded instructions with values: n=10, m=2, k=4, spread=0.324, burnTicks=2, seed=176479263498769876
+2026-01-06 15:26:46: Started simulation
+2026-01-06 15:27:15: loading instructions
+2026-01-06 15:27:15: loaded instructions with values: n=10, m=2, k=4, spread=0.324, burnTicks=2, seed=176479263498769876
+2026-01-06 15:27:15: Started simulation
+2026-01-06 15:28:10: loading instructions
+2026-01-06 15:28:10: loaded instructions with values: n=10, m=2, k=4, spread=0.324, burnTicks=2, seed=176479263498769876
+2026-01-06 15:28:10: Started simulation
+2026-01-06 15:28:21: loading instructions
+2026-01-06 15:28:21: loaded instructions with values: n=10, m=10, k=1, spread=0.3, burnTicks=5, seed=0
+2026-01-06 15:28:21: Started simulation
+2026-01-06 15:45:47: loading instructions
+2026-01-06 15:45:47: loaded instructions with values: n=10, m=2, k=4, spread=0.324, burnTicks=2, seed=176479263498769876
+2026-01-06 15:45:47: Started simulation
+2026-01-06 15:46:19: loading instructions
+2026-01-06 15:46:19: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=176479263498769876
+2026-01-06 15:46:19: Started simulation
+2026-01-06 15:51:20: loading instructions
+2026-01-06 15:51:20: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=176479263498769876
+2026-01-06 15:51:20: Started simulation
+2026-01-06 16:26:20: loading instructions
+2026-01-06 16:26:20: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=176479263498769876
+2026-01-06 16:27:40: loading instructions
+2026-01-06 16:27:40: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=176479263498769876
+2026-01-06 16:28:29: loading instructions
+2026-01-06 16:28:29: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=176479263498769876
+2026-01-06 16:28:29: Started simulation
+2026-01-06 16:28:42: loading instructions
+2026-01-06 16:28:42: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=176479263498769876
+2026-01-06 16:28:42: Started simulation
+2026-01-06 16:30:53: loading instructions
+2026-01-06 16:30:53: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=176479263498769876
+2026-01-06 16:30:53: Started simulation
+2026-01-06 16:36:02: loading instructions
+2026-01-06 16:36:02: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=176479263498769876
+2026-01-06 16:36:02: Started simulation
+2026-01-06 16:37:26: loading instructions
+2026-01-06 16:37:26: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=176479263498769876
+2026-01-06 16:37:26: Started simulation
+2026-01-06 16:46:25: loading instructions
+2026-01-06 16:46:25: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=11321323211
+2026-01-06 16:46:25: Started simulation
+2026-01-06 16:46:31: loading instructions
+2026-01-06 16:46:31: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=11321323211
+2026-01-06 16:46:31: Started simulation
+2026-01-06 16:46:45: loading instructions
+2026-01-06 16:46:45: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=2288748380347200
+2026-01-06 16:46:45: Started simulation
+2026-01-06 16:47:29: loading instructions
+2026-01-06 16:47:29: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=2288792152128500
+2026-01-06 16:47:29: Started simulation
+2026-01-06 16:47:36: loading instructions
+2026-01-06 16:47:36: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=2288799694628900
+2026-01-06 16:47:36: Started simulation
+2026-01-06 16:48:21: loading instructions
+2026-01-06 16:48:21: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=2288844282895500
+2026-01-06 16:48:36: loading instructions
+2026-01-06 16:48:36: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=2288859828988200
+2026-01-06 16:48:36: Started simulation
+2026-01-06 16:48:59: loading instructions
+2026-01-06 16:48:59: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=2288882385241300
+2026-01-06 16:48:59: Started simulation
+2026-01-06 16:49:45: loading instructions
+2026-01-06 16:49:45: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=0
+2026-01-06 16:49:45: Started simulation
+2026-01-06 16:49:50: loading instructions
+2026-01-06 16:49:50: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=0
+2026-01-06 16:49:50: Started simulation
+2026-01-06 16:49:56: loading instructions
+2026-01-06 16:49:56: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=0
+2026-01-06 16:49:56: Started simulation
+2026-01-06 16:49:59: loading instructions
+2026-01-06 16:49:59: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=0
+2026-01-06 16:49:59: Started simulation
+2026-01-06 16:50:00: loading instructions
+2026-01-06 16:50:00: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=0
+2026-01-06 16:50:00: Started simulation
+2026-01-06 16:50:13: loading instructions
+2026-01-06 16:50:13: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=112
+2026-01-06 16:50:13: Started simulation
+2026-01-06 16:50:16: loading instructions
+2026-01-06 16:50:16: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=112
+2026-01-06 16:50:16: Started simulation
+2026-01-06 16:50:18: loading instructions
+2026-01-06 16:50:18: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=112
+2026-01-06 16:50:18: Started simulation
+2026-01-06 16:50:25: loading instructions
+2026-01-06 16:50:25: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=2288968277105800
+2026-01-06 16:50:25: Started simulation
+2026-01-06 16:50:28: loading instructions
+2026-01-06 16:50:28: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=2288971874729600
+2026-01-06 16:50:28: Started simulation
+2026-01-06 16:50:30: loading instructions
+2026-01-06 16:50:30: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=2288974068585600
+2026-01-06 16:50:30: Started simulation
+2026-01-06 16:50:32: loading instructions
+2026-01-06 16:50:32: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=2288975899684900
+2026-01-06 16:50:32: Started simulation
+2026-01-06 16:50:34: loading instructions
+2026-01-06 16:50:34: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=2288977562595700
+2026-01-06 16:50:34: Started simulation
+2026-01-06 16:50:35: loading instructions
+2026-01-06 16:50:35: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=2288978865446400
+2026-01-06 16:50:35: Started simulation
+2026-01-06 16:51:59: loading instructions
+2026-01-06 16:51:59: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=2289062593209500
+2026-01-06 16:51:59: Started simulation
+2026-01-06 16:52:03: loading instructions
+2026-01-06 16:52:03: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=2289066195434900
+2026-01-06 16:52:03: Started simulation
+2026-01-06 16:52:06: loading instructions
+2026-01-06 16:52:06: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=2289069280856400
+2026-01-06 16:52:06: Started simulation
+2026-01-06 16:52:08: loading instructions
+2026-01-06 16:52:09: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=2289072100074000
+2026-01-06 16:52:09: Started simulation
+2026-01-06 16:52:14: loading instructions
+2026-01-06 16:52:14: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=2289077675845700
+2026-01-06 16:52:14: Started simulation
+2026-01-06 16:53:23: loading instructions
+2026-01-06 16:53:23: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=2289146342798400
+2026-01-06 16:53:23: Started simulation
+2026-01-06 16:53:27: loading instructions
+2026-01-06 16:53:27: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=2289150661716800
+2026-01-06 16:53:27: Started simulation
+2026-01-06 16:53:29: loading instructions
+2026-01-06 16:53:29: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=2289153067818000
+2026-01-06 16:53:29: Started simulation
+2026-01-06 16:53:32: loading instructions
+2026-01-06 16:53:32: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=2289155578750800
+2026-01-06 16:53:32: Started simulation
+2026-01-06 16:53:34: loading instructions
+2026-01-06 16:53:34: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=2289157962209800
+2026-01-06 16:53:34: Started simulation
+2026-01-06 16:59:31: loading instructions
+2026-01-06 16:59:31: loaded instructions with values: n=3, m=3, k=4, spread=0.324, burnTicks=2, seed=2289514240024900
+2026-01-06 16:59:31: Started simulation
+2026-01-06 17:00:17: loading instructions
+2026-01-06 17:00:17: loaded instructions with values: n=3, m=3, k=9, spread=0.324, burnTicks=2, seed=2289560357371500
+2026-01-06 17:00:17: Started simulation
+2026-01-06 17:00:28: loading instructions
+2026-01-06 17:00:28: loaded instructions with values: n=3, m=3, k=2, spread=0.324, burnTicks=2, seed=2289571250356900
+2026-01-06 17:00:28: Started simulation

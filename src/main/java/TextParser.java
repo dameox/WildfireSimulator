@@ -8,7 +8,7 @@ public class TextParser {
     static int k = 1;
     static float spread = 0.3f;
     static int burnTicks = 5;
-    static long seed = 0;
+    static long seed = System.nanoTime();
 
     public static void loadInstruction(){
         Logger.log("loading instructions");
@@ -23,6 +23,9 @@ public class TextParser {
             if(sc.hasNextFloat()){ burnTicks = sc.nextInt();}
             if(sc.hasNextLong()){ seed = sc.nextLong();}
             sc.close();
+            if(k>(n*m)){
+                k=n*m;
+            }
             Logger.log("loaded instructions with values: n="+n+", m="+m+", k="+k +", spread="+spread+", burnTicks="+burnTicks +", seed="+seed);
         }catch(FileNotFoundException e){
             Logger.log("Error: File not found");

@@ -1,3 +1,3 @@
 public class Tile {
-    TileState tileState;
+    TileState tileState = TileState.EMPTY;
 }
