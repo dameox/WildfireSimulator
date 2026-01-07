@@ -158,3 +158,240 @@
 2026-01-06 17:00:28: loading instructions
 2026-01-06 17:00:28: loaded instructions with values: n=3, m=3, k=2, spread=0.324, burnTicks=2, seed=2289571250356900
 2026-01-06 17:00:28: Started simulation
+2026-01-06 17:03:24: loading instructions
+2026-01-06 17:03:24: loaded instructions with values: n=3, m=3, k=2, spread=0.324, burnTicks=2, seed=2289747197634400
+2026-01-06 17:03:24: Started simulation
+2026-01-06 22:59:20: loading instructions
+2026-01-06 22:59:20: loaded instructions with values: n=3, m=3, k=2, spread=0.324, burnTicks=2, seed=2311107284234900
+2026-01-06 22:59:20: Started simulation
+2026-01-06 22:59:26: loading instructions
+2026-01-06 22:59:26: loaded instructions with values: n=3, m=3, k=2, spread=0.324, burnTicks=2, seed=2311112463465600
+2026-01-06 22:59:26: Started simulation
+2026-01-06 22:59:27: loading instructions
+2026-01-06 22:59:27: loaded instructions with values: n=3, m=3, k=2, spread=0.324, burnTicks=2, seed=2311114328066100
+2026-01-06 22:59:27: Started simulation
+2026-01-06 22:59:29: loading instructions
+2026-01-06 22:59:29: loaded instructions with values: n=3, m=3, k=2, spread=0.324, burnTicks=2, seed=2311115987088300
+2026-01-06 22:59:29: Started simulation
+2026-01-06 22:59:32: loading instructions
+2026-01-06 22:59:32: loaded instructions with values: n=3, m=3, k=2, spread=0.324, burnTicks=2, seed=2311118389451400
+2026-01-06 22:59:32: Started simulation
+2026-01-06 22:59:36: loading instructions
+2026-01-06 22:59:36: loaded instructions with values: n=3, m=3, k=2, spread=0.324, burnTicks=2, seed=2311122528053200
+2026-01-06 22:59:36: Started simulation
+2026-01-06 22:59:50: loading instructions
+2026-01-06 22:59:50: loaded instructions with values: n=10, m=10, k=2, spread=0.324, burnTicks=2, seed=2311137322098200
+2026-01-06 22:59:50: Started simulation
+2026-01-06 23:00:01: loading instructions
+2026-01-06 23:00:01: loaded instructions with values: n=10, m=10, k=7, spread=0.324, burnTicks=2, seed=2311147748273100
+2026-01-06 23:00:01: Started simulation
+2026-01-06 23:30:51: loading instructions
+2026-01-06 23:30:51: loaded instructions with values: n=10, m=10, k=7, spread=0.324, burnTicks=2, seed=2312997484048800
+2026-01-06 23:30:51: Started simulation
+2026-01-07 14:05:05: loading instructions
+2026-01-07 14:05:05: loaded instructions with values: n=10, m=10, k=7, spread=0.324, burnTicks=2, seed=2365454987557900
+2026-01-07 14:05:05: Started simulation
+2026-01-07 14:25:05: loading instructions
+2026-01-07 14:25:05: loaded instructions with values: n=10, m=10, k=7, spread=0.324, burnTicks=2, seed=2366655310183700
+2026-01-07 14:25:05: Started simulation
+2026-01-07 14:26:01: loading instructions
+2026-01-07 14:26:01: loaded instructions with values: n=10, m=10, k=7, spread=0.324, burnTicks=2, seed=2366711514469700
+2026-01-07 14:26:01: Started simulation
+2026-01-07 14:26:23: loading instructions
+2026-01-07 14:26:23: loaded instructions with values: n=10, m=10, k=7, spread=0.324, burnTicks=2, seed=2366732998157100
+2026-01-07 14:26:23: Started simulation
+2026-01-07 14:26:42: loading instructions
+2026-01-07 14:26:42: loaded instructions with values: n=10, m=10, k=7, spread=0.324, burnTicks=2, seed=2366752231264700
+2026-01-07 14:26:42: Started simulation
+2026-01-07 14:26:55: loading instructions
+2026-01-07 14:26:55: loaded instructions with values: n=10, m=10, k=7, spread=0.324, burnTicks=2, seed=2366765674198300
+2026-01-07 14:26:55: Started simulation
+2026-01-07 14:27:13: loading instructions
+2026-01-07 14:27:13: loaded instructions with values: n=10, m=10, k=7, spread=0.324, burnTicks=2, seed=2366783185006900
+2026-01-07 14:27:13: Started simulation
+2026-01-07 14:27:35: loading instructions
+2026-01-07 14:27:35: loaded instructions with values: n=10, m=10, k=7, spread=0.324, burnTicks=2, seed=2366805393272400
+2026-01-07 14:27:35: Started simulation
+2026-01-07 14:27:46: loading instructions
+2026-01-07 14:27:46: loaded instructions with values: n=10, m=10, k=7, spread=0.324, burnTicks=2, seed=2366816179483300
+2026-01-07 14:27:46: Started simulation
+2026-01-07 14:30:45: loading instructions
+2026-01-07 14:30:45: loaded instructions with values: n=10, m=10, k=7, spread=0.324, burnTicks=2, seed=2366995206719700
+2026-01-07 14:31:22: loading instructions
+2026-01-07 14:31:22: loaded instructions with values: n=10, m=10, k=7, spread=0.324, burnTicks=2, seed=2367032376709900
+2026-01-07 14:31:22: Started simulation
+2026-01-07 14:37:48: loading instructions
+2026-01-07 14:37:48: loaded instructions with values: n=10, m=10, k=7, spread=0.324, burnTicks=2, seed=2367418290656700
+2026-01-07 14:37:48: Started simulation
+2026-01-07 14:37:48: loading instructions
+2026-01-07 14:37:48: loaded instructions with values: n=10, m=10, k=7, spread=0.324, burnTicks=2, seed=2367418778664100
+2026-01-07 14:37:48: Started simulation
+2026-01-07 14:39:34: loading instructions
+2026-01-07 14:39:34: loaded instructions with values: n=10, m=10, k=7, spread=0.324, burnTicks=2, seed=2367524850715300
+2026-01-07 14:39:34: Started simulation
+2026-01-07 14:39:52: loading instructions
+2026-01-07 14:39:52: loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=2, seed=2367542645532700
+2026-01-07 14:39:52: Started simulation
+2026-01-07 14:40:43: loading instructions
+2026-01-07 14:40:43: loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=2, seed=2367593188040000
+2026-01-07 14:40:43: Started simulation
+2026-01-07 14:44:17: loading instructions
+2026-01-07 14:44:17: loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=2, seed=2367807783353100
+2026-01-07 14:44:17: Started simulation
+2026-01-07 14:48:50: loading instructions
+2026-01-07 14:48:50: loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=2, seed=2368080209287400
+2026-01-07 14:48:50: Started simulation
+2026-01-07 14:49:56: loading instructions
+2026-01-07 14:49:56: loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=4, seed=2368146147547800
+2026-01-07 14:49:56: Started simulation
+2026-01-07 14:51:06: loading instructions
+2026-01-07 14:51:06: loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=4, seed=2368216698080800
+2026-01-07 14:51:06: Started simulation
+2026-01-07 14:52:04: loading instructions
+2026-01-07 14:52:04: loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=4, seed=2368274138474400
+2026-01-07 14:52:04: Started simulation
+2026-01-07 15:01:53: loading instructions
+2026-01-07 15:01:53: Loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=4, seed=2368863363744500
+2026-01-07 15:01:53: Generating forest...
+2026-01-07 15:01:53: Generating grass tiles
+2026-01-07 15:01:53: Generating beautiful trees
+2026-01-07 15:01:53: Successfully generated forest
+2026-01-07 15:01:53: Starting ignition...
+2026-01-07 15:01:53: Finished ignition
+2026-01-07 15:01:53: Started simulation
+2026-01-07 15:01:53: Spreading fire...
+2026-01-07 15:01:53: Updating burn time
+2026-01-07 15:01:53: Finished updating burn time
+2026-01-07 15:01:53: Finished spreading fire
+2026-01-07 15:01:53: Spreading fire...
+2026-01-07 15:01:53: Updating burn time
+2026-01-07 15:01:53: Finished updating burn time
+2026-01-07 15:01:53: Finished spreading fire
+2026-01-07 15:01:53: Spreading fire...
+2026-01-07 15:01:53: Updating burn time
+2026-01-07 15:01:53: Finished updating burn time
+2026-01-07 15:01:53: Finished spreading fire
+2026-01-07 15:01:53: Spreading fire...
+2026-01-07 15:01:53: Updating burn time
+2026-01-07 15:01:53: Finished updating burn time
+2026-01-07 15:01:53: Finished spreading fire
+2026-01-07 15:01:53: Spreading fire...
+2026-01-07 15:01:53: Updating burn time
+2026-01-07 15:01:53: Finished updating burn time
+2026-01-07 15:01:53: Finished spreading fire
+2026-01-07 15:01:53: Spreading fire...
+2026-01-07 15:01:53: Updating burn time
+2026-01-07 15:01:53: Finished updating burn time
+2026-01-07 15:01:53: Finished spreading fire
+2026-01-07 15:01:53: Spreading fire...
+2026-01-07 15:01:53: Updating burn time
+2026-01-07 15:01:53: Finished updating burn time
+2026-01-07 15:01:53: Finished spreading fire
+2026-01-07 15:01:53: Spreading fire...
+2026-01-07 15:01:53: Updating burn time
+2026-01-07 15:01:53: Finished updating burn time
+2026-01-07 15:01:53: Finished spreading fire
+2026-01-07 15:01:53: Spreading fire...
+2026-01-07 15:01:53: Updating burn time
+2026-01-07 15:01:53: Finished updating burn time
+2026-01-07 15:01:53: Finished spreading fire
+2026-01-07 15:01:53: Spreading fire...
+2026-01-07 15:01:53: Updating burn time
+2026-01-07 15:01:53: Finished updating burn time
+2026-01-07 15:01:53: Finished spreading fire
+2026-01-07 15:07:18: loading instructions
+2026-01-07 15:07:18: Loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=4, seed=2369188212981400
+2026-01-07 15:07:18: Generating forest...
+2026-01-07 15:07:18: Generating grass tiles
+2026-01-07 15:07:18: Generating beautiful trees
+2026-01-07 15:07:18: Successfully generated forest
+2026-01-07 15:07:18: Starting ignition...
+2026-01-07 15:07:18: Finished ignition
+2026-01-07 15:07:18: Spreading fire...
+2026-01-07 15:07:18: Updating burn time
+2026-01-07 15:07:18: Finished updating burn time
+2026-01-07 15:07:18: Finished spreading fire
+2026-01-07 15:07:18: Spreading fire...
+2026-01-07 15:07:18: Updating burn time
+2026-01-07 15:07:18: Finished updating burn time
+2026-01-07 15:07:18: Finished spreading fire
+2026-01-07 15:07:18: Spreading fire...
+2026-01-07 15:07:18: Updating burn time
+2026-01-07 15:07:18: Finished updating burn time
+2026-01-07 15:07:18: Finished spreading fire
+2026-01-07 15:07:18: Spreading fire...
+2026-01-07 15:07:18: Updating burn time
+2026-01-07 15:07:18: Finished updating burn time
+2026-01-07 15:07:18: Finished spreading fire
+2026-01-07 15:07:18: Spreading fire...
+2026-01-07 15:07:18: Updating burn time
+2026-01-07 15:07:18: Finished updating burn time
+2026-01-07 15:07:18: Finished spreading fire
+2026-01-07 15:07:18: Spreading fire...
+2026-01-07 15:07:18: Updating burn time
+2026-01-07 15:07:18: Finished updating burn time
+2026-01-07 15:07:18: Finished spreading fire
+2026-01-07 15:07:18: Spreading fire...
+2026-01-07 15:07:18: Updating burn time
+2026-01-07 15:07:18: Finished updating burn time
+2026-01-07 15:07:18: Finished spreading fire
+2026-01-07 15:07:18: Spreading fire...
+2026-01-07 15:07:18: Updating burn time
+2026-01-07 15:07:18: Finished updating burn time
+2026-01-07 15:07:18: Finished spreading fire
+2026-01-07 15:07:18: Spreading fire...
+2026-01-07 15:07:18: Updating burn time
+2026-01-07 15:07:18: Finished updating burn time
+2026-01-07 15:07:18: Finished spreading fire
+2026-01-07 15:07:18: Spreading fire...
+2026-01-07 15:07:18: Updating burn time
+2026-01-07 15:07:18: Finished updating burn time
+2026-01-07 15:07:18: Finished spreading fire
+2026-01-07 15:07:47: loading instructions
+2026-01-07 15:07:47: Loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=4, seed=2369217227694400
+2026-01-07 15:07:47: Generating forest...
+2026-01-07 15:07:47: Generating grass tiles
+2026-01-07 15:07:47: Generating beautiful trees
+2026-01-07 15:07:47: Successfully generated forest
+2026-01-07 15:07:47: Starting ignition...
+2026-01-07 15:07:47: Finished ignition
+2026-01-07 15:07:47: Spreading fire...
+2026-01-07 15:07:47: Updating burn time
+2026-01-07 15:07:47: Finished updating burn time
+2026-01-07 15:07:47: Finished spreading fire
+2026-01-07 15:07:47: Spreading fire...
+2026-01-07 15:07:47: Updating burn time
+2026-01-07 15:07:47: Finished updating burn time
+2026-01-07 15:07:47: Finished spreading fire
+2026-01-07 15:07:47: Spreading fire...
+2026-01-07 15:07:47: Updating burn time
+2026-01-07 15:07:47: Finished updating burn time
+2026-01-07 15:07:47: Finished spreading fire
+2026-01-07 15:07:47: Spreading fire...
+2026-01-07 15:07:47: Updating burn time
+2026-01-07 15:07:47: Finished updating burn time
+2026-01-07 15:07:47: Finished spreading fire
+2026-01-07 15:07:47: Spreading fire...
+2026-01-07 15:07:47: Updating burn time
+2026-01-07 15:07:47: Finished updating burn time
+2026-01-07 15:07:47: Finished spreading fire
+2026-01-07 15:07:47: Spreading fire...
+2026-01-07 15:07:47: Updating burn time
+2026-01-07 15:07:47: Finished updating burn time
+2026-01-07 15:07:47: Finished spreading fire
+2026-01-07 15:07:47: Spreading fire...
+2026-01-07 15:07:47: Updating burn time
+2026-01-07 15:07:47: Finished updating burn time
+2026-01-07 15:07:47: Finished spreading fire
+2026-01-07 15:07:47: Spreading fire...
+2026-01-07 15:07:47: Updating burn time
+2026-01-07 15:07:47: Finished updating burn time
+2026-01-07 15:07:47: Finished spreading fire
+2026-01-07 15:07:47: Spreading fire...
+2026-01-07 15:07:47: Updating burn time
+2026-01-07 15:07:47: Finished updating burn time
+2026-01-07 15:07:47: Finished spreading fire
+2026-01-07 15:07:47: Spreading fire...
+2026-01-07 15:07:47: Updating burn time
+2026-01-07 15:07:47: Finished updating burn time
+2026-01-07 15:07:47: Finished spreading fire

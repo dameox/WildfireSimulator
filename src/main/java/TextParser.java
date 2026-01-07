@@ -26,7 +26,7 @@ public class TextParser {
             if(k>(n*m)){
                 k=n*m;
             }
-            Logger.log("loaded instructions with values: n="+n+", m="+m+", k="+k +", spread="+spread+", burnTicks="+burnTicks +", seed="+seed);
+            Logger.log("Loaded instructions with values: n="+n+", m="+m+", k="+k +", spread="+spread+", burnTicks="+burnTicks +", seed="+seed);
         }catch(FileNotFoundException e){
             Logger.log("Error: File not found");
         }
