@@ -395,3 +395,1719 @@
 2026-01-07 15:07:47: Updating burn time
 2026-01-07 15:07:47: Finished updating burn time
 2026-01-07 15:07:47: Finished spreading fire
+2026-01-07 15:35:21: loading instructions
+2026-01-07 15:35:21: Loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=4, seed=2370871770533200
+2026-01-07 15:35:21: Generating forest...
+2026-01-07 15:35:21: Generating grass tiles
+2026-01-07 15:35:21: Generating beautiful trees
+2026-01-07 15:35:21: Successfully generated forest
+2026-01-07 15:35:21: Starting ignition...
+2026-01-07 15:35:21: Finished ignition
+2026-01-07 15:35:21: Spreading fire...
+2026-01-07 15:35:21: Updating burn time
+2026-01-07 15:35:21: Finished updating burn time
+2026-01-07 15:35:21: Finished spreading fire
+2026-01-07 15:35:21: Spreading fire...
+2026-01-07 15:35:21: Updating burn time
+2026-01-07 15:35:21: Finished updating burn time
+2026-01-07 15:35:21: Finished spreading fire
+2026-01-07 15:35:21: Spreading fire...
+2026-01-07 15:35:21: Updating burn time
+2026-01-07 15:35:21: Finished updating burn time
+2026-01-07 15:35:21: Finished spreading fire
+2026-01-07 15:35:21: Spreading fire...
+2026-01-07 15:35:21: Updating burn time
+2026-01-07 15:35:21: Finished updating burn time
+2026-01-07 15:35:21: Finished spreading fire
+2026-01-07 15:35:21: Spreading fire...
+2026-01-07 15:35:21: Updating burn time
+2026-01-07 15:35:21: Finished updating burn time
+2026-01-07 15:35:21: Finished spreading fire
+2026-01-07 15:35:21: Spreading fire...
+2026-01-07 15:35:21: Updating burn time
+2026-01-07 15:35:21: Finished updating burn time
+2026-01-07 15:35:21: Finished spreading fire
+2026-01-07 15:35:21: Spreading fire...
+2026-01-07 15:35:21: Updating burn time
+2026-01-07 15:35:21: Finished updating burn time
+2026-01-07 15:35:21: Finished spreading fire
+2026-01-07 15:35:21: Spreading fire...
+2026-01-07 15:35:21: Updating burn time
+2026-01-07 15:35:21: Finished updating burn time
+2026-01-07 15:35:21: Finished spreading fire
+2026-01-07 15:35:21: Spreading fire...
+2026-01-07 15:35:21: Updating burn time
+2026-01-07 15:35:21: Finished updating burn time
+2026-01-07 15:35:21: Finished spreading fire
+2026-01-07 15:35:21: Spreading fire...
+2026-01-07 15:35:21: Updating burn time
+2026-01-07 15:35:21: Finished updating burn time
+2026-01-07 15:35:21: Finished spreading fire
+2026-01-07 15:36:21: loading instructions
+2026-01-07 15:36:21: Loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=4, seed=2370931691392900
+2026-01-07 15:36:21: Generating forest...
+2026-01-07 15:36:21: Generating grass tiles
+2026-01-07 15:36:21: Generating beautiful trees
+2026-01-07 15:36:21: Successfully generated forest
+2026-01-07 15:36:21: Starting ignition...
+2026-01-07 15:36:21: Finished ignition
+2026-01-07 15:36:21: Spreading fire...
+2026-01-07 15:36:21: Updating burn time
+2026-01-07 15:36:21: Finished updating burn time
+2026-01-07 15:36:21: Finished spreading fire
+2026-01-07 15:36:21: Spreading fire...
+2026-01-07 15:36:21: Updating burn time
+2026-01-07 15:36:21: Finished updating burn time
+2026-01-07 15:36:21: Finished spreading fire
+2026-01-07 15:36:21: Spreading fire...
+2026-01-07 15:36:21: Updating burn time
+2026-01-07 15:36:21: Finished updating burn time
+2026-01-07 15:36:21: Finished spreading fire
+2026-01-07 15:36:21: Spreading fire...
+2026-01-07 15:36:21: Updating burn time
+2026-01-07 15:36:21: Finished updating burn time
+2026-01-07 15:36:21: Finished spreading fire
+2026-01-07 15:36:21: Spreading fire...
+2026-01-07 15:36:21: Updating burn time
+2026-01-07 15:36:21: Finished updating burn time
+2026-01-07 15:36:21: Finished spreading fire
+2026-01-07 15:36:21: Spreading fire...
+2026-01-07 15:36:21: Updating burn time
+2026-01-07 15:36:21: Finished updating burn time
+2026-01-07 15:36:21: Finished spreading fire
+2026-01-07 15:36:21: Spreading fire...
+2026-01-07 15:36:21: Updating burn time
+2026-01-07 15:36:21: Finished updating burn time
+2026-01-07 15:36:21: Finished spreading fire
+2026-01-07 15:36:21: Spreading fire...
+2026-01-07 15:36:21: Updating burn time
+2026-01-07 15:36:21: Finished updating burn time
+2026-01-07 15:36:21: Finished spreading fire
+2026-01-07 15:36:21: Spreading fire...
+2026-01-07 15:36:21: Updating burn time
+2026-01-07 15:36:21: Finished updating burn time
+2026-01-07 15:36:21: Finished spreading fire
+2026-01-07 15:36:21: Spreading fire...
+2026-01-07 15:36:21: Updating burn time
+2026-01-07 15:36:21: Finished updating burn time
+2026-01-07 15:36:21: Finished spreading fire
+2026-01-07 15:37:09: loading instructions
+2026-01-07 15:37:09: Loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=4, seed=2370979280220900
+2026-01-07 15:37:09: Generating forest...
+2026-01-07 15:37:09: Generating grass tiles
+2026-01-07 15:37:09: Generating beautiful trees
+2026-01-07 15:37:09: Successfully generated forest
+2026-01-07 15:37:09: Starting ignition...
+2026-01-07 15:37:09: Finished ignition
+2026-01-07 15:37:09: Spreading fire...
+2026-01-07 15:37:09: Updating burn time
+2026-01-07 15:37:09: Finished updating burn time
+2026-01-07 15:37:09: Finished spreading fire
+2026-01-07 15:37:09: Spreading fire...
+2026-01-07 15:37:09: Updating burn time
+2026-01-07 15:37:09: Finished updating burn time
+2026-01-07 15:37:09: Finished spreading fire
+2026-01-07 15:37:09: Spreading fire...
+2026-01-07 15:37:09: Updating burn time
+2026-01-07 15:37:09: Finished updating burn time
+2026-01-07 15:37:09: Finished spreading fire
+2026-01-07 15:37:09: Spreading fire...
+2026-01-07 15:37:09: Updating burn time
+2026-01-07 15:37:09: Finished updating burn time
+2026-01-07 15:37:09: Finished spreading fire
+2026-01-07 15:37:09: Spreading fire...
+2026-01-07 15:37:09: Updating burn time
+2026-01-07 15:37:09: Finished updating burn time
+2026-01-07 15:37:09: Finished spreading fire
+2026-01-07 15:37:09: Spreading fire...
+2026-01-07 15:37:09: Updating burn time
+2026-01-07 15:37:09: Finished updating burn time
+2026-01-07 15:37:09: Finished spreading fire
+2026-01-07 15:37:09: Spreading fire...
+2026-01-07 15:37:09: Updating burn time
+2026-01-07 15:37:09: Finished updating burn time
+2026-01-07 15:37:09: Finished spreading fire
+2026-01-07 15:37:09: Spreading fire...
+2026-01-07 15:37:09: Updating burn time
+2026-01-07 15:37:09: Finished updating burn time
+2026-01-07 15:37:09: Finished spreading fire
+2026-01-07 15:37:09: Spreading fire...
+2026-01-07 15:37:09: Updating burn time
+2026-01-07 15:37:09: Finished updating burn time
+2026-01-07 15:37:09: Finished spreading fire
+2026-01-07 15:37:09: Spreading fire...
+2026-01-07 15:37:09: Updating burn time
+2026-01-07 15:37:09: Finished updating burn time
+2026-01-07 15:37:09: Finished spreading fire
+2026-01-07 15:37:56: loading instructions
+2026-01-07 15:37:56: Loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=4, seed=2371026715257400
+2026-01-07 15:37:56: Generating forest...
+2026-01-07 15:37:56: Generating grass tiles
+2026-01-07 15:37:56: Generating beautiful trees
+2026-01-07 15:37:56: Successfully generated forest
+2026-01-07 15:37:56: Starting ignition...
+2026-01-07 15:37:56: Finished ignition
+2026-01-07 15:37:56: Spreading fire...
+2026-01-07 15:37:56: Updating burn time
+2026-01-07 15:37:56: Finished updating burn time
+2026-01-07 15:37:56: Finished spreading fire
+2026-01-07 15:37:56: Spreading fire...
+2026-01-07 15:37:56: Updating burn time
+2026-01-07 15:37:56: Finished updating burn time
+2026-01-07 15:37:56: Finished spreading fire
+2026-01-07 15:37:56: Spreading fire...
+2026-01-07 15:37:56: Updating burn time
+2026-01-07 15:37:56: Finished updating burn time
+2026-01-07 15:37:56: Finished spreading fire
+2026-01-07 15:37:56: Spreading fire...
+2026-01-07 15:37:56: Updating burn time
+2026-01-07 15:37:56: Finished updating burn time
+2026-01-07 15:37:56: Finished spreading fire
+2026-01-07 15:37:56: Spreading fire...
+2026-01-07 15:37:56: Updating burn time
+2026-01-07 15:37:56: Finished updating burn time
+2026-01-07 15:37:56: Finished spreading fire
+2026-01-07 15:37:56: Spreading fire...
+2026-01-07 15:37:56: Updating burn time
+2026-01-07 15:37:56: Finished updating burn time
+2026-01-07 15:37:56: Finished spreading fire
+2026-01-07 15:37:56: Spreading fire...
+2026-01-07 15:37:56: Updating burn time
+2026-01-07 15:37:56: Finished updating burn time
+2026-01-07 15:37:56: Finished spreading fire
+2026-01-07 15:37:56: Spreading fire...
+2026-01-07 15:37:56: Updating burn time
+2026-01-07 15:37:56: Finished updating burn time
+2026-01-07 15:37:56: Finished spreading fire
+2026-01-07 15:37:56: Spreading fire...
+2026-01-07 15:37:56: Updating burn time
+2026-01-07 15:37:56: Finished updating burn time
+2026-01-07 15:37:56: Finished spreading fire
+2026-01-07 15:37:56: Spreading fire...
+2026-01-07 15:37:56: Updating burn time
+2026-01-07 15:37:56: Finished updating burn time
+2026-01-07 15:37:56: Finished spreading fire
+2026-01-07 15:38:06: loading instructions
+2026-01-07 15:38:06: Loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=4, seed=2371036054836300
+2026-01-07 15:38:06: Generating forest...
+2026-01-07 15:38:06: Generating grass tiles
+2026-01-07 15:38:06: Generating beautiful trees
+2026-01-07 15:38:06: Successfully generated forest
+2026-01-07 15:38:06: Starting ignition...
+2026-01-07 15:38:06: Finished ignition
+2026-01-07 15:38:06: Spreading fire...
+2026-01-07 15:38:06: Updating burn time
+2026-01-07 15:38:06: Finished updating burn time
+2026-01-07 15:38:06: Finished spreading fire
+2026-01-07 15:38:06: Spreading fire...
+2026-01-07 15:38:06: Updating burn time
+2026-01-07 15:38:06: Finished updating burn time
+2026-01-07 15:38:06: Finished spreading fire
+2026-01-07 15:38:06: Spreading fire...
+2026-01-07 15:38:06: Updating burn time
+2026-01-07 15:38:06: Finished updating burn time
+2026-01-07 15:38:06: Finished spreading fire
+2026-01-07 15:38:06: Spreading fire...
+2026-01-07 15:38:06: Updating burn time
+2026-01-07 15:38:06: Finished updating burn time
+2026-01-07 15:38:06: Finished spreading fire
+2026-01-07 15:38:06: Spreading fire...
+2026-01-07 15:38:06: Updating burn time
+2026-01-07 15:38:06: Finished updating burn time
+2026-01-07 15:38:06: Finished spreading fire
+2026-01-07 15:38:06: Spreading fire...
+2026-01-07 15:38:06: Updating burn time
+2026-01-07 15:38:06: Finished updating burn time
+2026-01-07 15:38:06: Finished spreading fire
+2026-01-07 15:38:06: Spreading fire...
+2026-01-07 15:38:06: Updating burn time
+2026-01-07 15:38:06: Finished updating burn time
+2026-01-07 15:38:06: Finished spreading fire
+2026-01-07 15:38:06: Spreading fire...
+2026-01-07 15:38:06: Updating burn time
+2026-01-07 15:38:06: Finished updating burn time
+2026-01-07 15:38:06: Finished spreading fire
+2026-01-07 15:38:06: Spreading fire...
+2026-01-07 15:38:06: Updating burn time
+2026-01-07 15:38:06: Finished updating burn time
+2026-01-07 15:38:06: Finished spreading fire
+2026-01-07 15:38:06: Spreading fire...
+2026-01-07 15:38:06: Updating burn time
+2026-01-07 15:38:06: Finished updating burn time
+2026-01-07 15:38:06: Finished spreading fire
+2026-01-07 15:38:11: loading instructions
+2026-01-07 15:38:11: Loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=4, seed=2371040937709200
+2026-01-07 15:38:11: Generating forest...
+2026-01-07 15:38:11: Generating grass tiles
+2026-01-07 15:38:11: Generating beautiful trees
+2026-01-07 15:38:11: Successfully generated forest
+2026-01-07 15:38:11: Starting ignition...
+2026-01-07 15:38:11: Finished ignition
+2026-01-07 15:38:11: Spreading fire...
+2026-01-07 15:38:11: Updating burn time
+2026-01-07 15:38:11: Finished updating burn time
+2026-01-07 15:38:11: Finished spreading fire
+2026-01-07 15:38:11: Spreading fire...
+2026-01-07 15:38:11: Updating burn time
+2026-01-07 15:38:11: Finished updating burn time
+2026-01-07 15:38:11: Finished spreading fire
+2026-01-07 15:38:11: Spreading fire...
+2026-01-07 15:38:11: Updating burn time
+2026-01-07 15:38:11: Finished updating burn time
+2026-01-07 15:38:11: Finished spreading fire
+2026-01-07 15:38:11: Spreading fire...
+2026-01-07 15:38:11: Updating burn time
+2026-01-07 15:38:11: Finished updating burn time
+2026-01-07 15:38:11: Finished spreading fire
+2026-01-07 15:38:11: Spreading fire...
+2026-01-07 15:38:11: Updating burn time
+2026-01-07 15:38:11: Finished updating burn time
+2026-01-07 15:38:11: Finished spreading fire
+2026-01-07 15:38:11: Spreading fire...
+2026-01-07 15:38:11: Updating burn time
+2026-01-07 15:38:11: Finished updating burn time
+2026-01-07 15:38:11: Finished spreading fire
+2026-01-07 15:38:11: Spreading fire...
+2026-01-07 15:38:11: Updating burn time
+2026-01-07 15:38:11: Finished updating burn time
+2026-01-07 15:38:11: Finished spreading fire
+2026-01-07 15:38:11: Spreading fire...
+2026-01-07 15:38:11: Updating burn time
+2026-01-07 15:38:11: Finished updating burn time
+2026-01-07 15:38:11: Finished spreading fire
+2026-01-07 15:38:11: Spreading fire...
+2026-01-07 15:38:11: Updating burn time
+2026-01-07 15:38:11: Finished updating burn time
+2026-01-07 15:38:11: Finished spreading fire
+2026-01-07 15:38:11: Spreading fire...
+2026-01-07 15:38:11: Updating burn time
+2026-01-07 15:38:11: Finished updating burn time
+2026-01-07 15:38:11: Finished spreading fire
+2026-01-07 15:39:49: loading instructions
+2026-01-07 15:39:49: Loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=4, seed=2371139159758800
+2026-01-07 15:39:49: Generating forest...
+2026-01-07 15:39:49: Generating grass tiles
+2026-01-07 15:39:49: Generating beautiful trees
+2026-01-07 15:39:49: Successfully generated forest
+2026-01-07 15:39:49: Starting ignition...
+2026-01-07 15:39:49: Finished ignition
+2026-01-07 15:39:49: Spreading fire...
+2026-01-07 15:39:49: Updating burn time
+2026-01-07 15:39:49: Finished updating burn time
+2026-01-07 15:39:49: Finished spreading fire
+2026-01-07 15:39:49: Spreading fire...
+2026-01-07 15:39:49: Updating burn time
+2026-01-07 15:39:49: Finished updating burn time
+2026-01-07 15:39:49: Finished spreading fire
+2026-01-07 15:39:49: Spreading fire...
+2026-01-07 15:39:49: Updating burn time
+2026-01-07 15:39:49: Finished updating burn time
+2026-01-07 15:39:49: Finished spreading fire
+2026-01-07 15:39:49: Spreading fire...
+2026-01-07 15:39:49: Updating burn time
+2026-01-07 15:39:49: Finished updating burn time
+2026-01-07 15:39:49: Finished spreading fire
+2026-01-07 15:39:49: Spreading fire...
+2026-01-07 15:39:49: Updating burn time
+2026-01-07 15:39:49: Finished updating burn time
+2026-01-07 15:39:49: Finished spreading fire
+2026-01-07 15:39:49: Spreading fire...
+2026-01-07 15:39:49: Updating burn time
+2026-01-07 15:39:49: Finished updating burn time
+2026-01-07 15:39:49: Finished spreading fire
+2026-01-07 15:39:49: Spreading fire...
+2026-01-07 15:39:49: Updating burn time
+2026-01-07 15:39:49: Finished updating burn time
+2026-01-07 15:39:49: Finished spreading fire
+2026-01-07 15:39:49: Spreading fire...
+2026-01-07 15:39:49: Updating burn time
+2026-01-07 15:39:49: Finished updating burn time
+2026-01-07 15:39:49: Finished spreading fire
+2026-01-07 15:39:49: Spreading fire...
+2026-01-07 15:39:49: Updating burn time
+2026-01-07 15:39:49: Finished updating burn time
+2026-01-07 15:39:49: Finished spreading fire
+2026-01-07 15:39:49: Spreading fire...
+2026-01-07 15:39:49: Updating burn time
+2026-01-07 15:39:49: Finished updating burn time
+2026-01-07 15:39:49: Finished spreading fire
+2026-01-07 15:40:28: loading instructions
+2026-01-07 15:40:28: Loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=4, seed=2371177953672100
+2026-01-07 15:40:28: Generating forest...
+2026-01-07 15:40:28: Generating grass tiles
+2026-01-07 15:40:28: Generating beautiful trees
+2026-01-07 15:40:28: Successfully generated forest
+2026-01-07 15:40:28: Starting ignition...
+2026-01-07 15:40:28: Finished ignition
+2026-01-07 15:40:28: Spreading fire...
+2026-01-07 15:40:28: Updating burn time
+2026-01-07 15:40:28: Finished updating burn time
+2026-01-07 15:40:28: Finished spreading fire
+2026-01-07 15:40:28: Spreading fire...
+2026-01-07 15:40:28: Updating burn time
+2026-01-07 15:40:28: Finished updating burn time
+2026-01-07 15:40:28: Finished spreading fire
+2026-01-07 15:40:28: Spreading fire...
+2026-01-07 15:40:28: Updating burn time
+2026-01-07 15:40:28: Finished updating burn time
+2026-01-07 15:40:28: Finished spreading fire
+2026-01-07 15:40:28: Spreading fire...
+2026-01-07 15:40:28: Updating burn time
+2026-01-07 15:40:28: Finished updating burn time
+2026-01-07 15:40:28: Finished spreading fire
+2026-01-07 15:40:28: Spreading fire...
+2026-01-07 15:40:28: Updating burn time
+2026-01-07 15:40:28: Finished updating burn time
+2026-01-07 15:40:28: Finished spreading fire
+2026-01-07 15:40:28: Spreading fire...
+2026-01-07 15:40:28: Updating burn time
+2026-01-07 15:40:28: Finished updating burn time
+2026-01-07 15:40:28: Finished spreading fire
+2026-01-07 15:40:28: Spreading fire...
+2026-01-07 15:40:28: Updating burn time
+2026-01-07 15:40:28: Finished updating burn time
+2026-01-07 15:40:28: Finished spreading fire
+2026-01-07 15:40:28: Spreading fire...
+2026-01-07 15:40:28: Updating burn time
+2026-01-07 15:40:28: Finished updating burn time
+2026-01-07 15:40:28: Finished spreading fire
+2026-01-07 15:40:28: Spreading fire...
+2026-01-07 15:40:28: Updating burn time
+2026-01-07 15:40:28: Finished updating burn time
+2026-01-07 15:40:28: Finished spreading fire
+2026-01-07 15:40:28: Spreading fire...
+2026-01-07 15:40:28: Updating burn time
+2026-01-07 15:40:28: Finished updating burn time
+2026-01-07 15:40:28: Finished spreading fire
+2026-01-07 15:40:43: loading instructions
+2026-01-07 15:40:43: Loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=4, seed=2371193783891300
+2026-01-07 15:40:43: Generating forest...
+2026-01-07 15:40:43: Generating grass tiles
+2026-01-07 15:40:43: Generating beautiful trees
+2026-01-07 15:40:43: Successfully generated forest
+2026-01-07 15:40:43: Starting ignition...
+2026-01-07 15:40:43: Finished ignition
+2026-01-07 15:40:43: Spreading fire...
+2026-01-07 15:40:43: Updating burn time
+2026-01-07 15:40:43: Finished updating burn time
+2026-01-07 15:40:43: Finished spreading fire
+2026-01-07 15:40:43: Spreading fire...
+2026-01-07 15:40:43: Updating burn time
+2026-01-07 15:40:43: Finished updating burn time
+2026-01-07 15:40:43: Finished spreading fire
+2026-01-07 15:40:43: Spreading fire...
+2026-01-07 15:40:43: Updating burn time
+2026-01-07 15:40:43: Finished updating burn time
+2026-01-07 15:40:43: Finished spreading fire
+2026-01-07 15:40:43: Spreading fire...
+2026-01-07 15:40:43: Updating burn time
+2026-01-07 15:40:43: Finished updating burn time
+2026-01-07 15:40:43: Finished spreading fire
+2026-01-07 15:40:43: Spreading fire...
+2026-01-07 15:40:43: Updating burn time
+2026-01-07 15:40:43: Finished updating burn time
+2026-01-07 15:40:43: Finished spreading fire
+2026-01-07 15:40:43: Spreading fire...
+2026-01-07 15:40:43: Updating burn time
+2026-01-07 15:40:43: Finished updating burn time
+2026-01-07 15:40:43: Finished spreading fire
+2026-01-07 15:40:43: Spreading fire...
+2026-01-07 15:40:43: Updating burn time
+2026-01-07 15:40:43: Finished updating burn time
+2026-01-07 15:40:43: Finished spreading fire
+2026-01-07 15:40:43: Spreading fire...
+2026-01-07 15:40:43: Updating burn time
+2026-01-07 15:40:43: Finished updating burn time
+2026-01-07 15:40:43: Finished spreading fire
+2026-01-07 15:40:43: Spreading fire...
+2026-01-07 15:40:43: Updating burn time
+2026-01-07 15:40:43: Finished updating burn time
+2026-01-07 15:40:43: Finished spreading fire
+2026-01-07 15:40:43: Spreading fire...
+2026-01-07 15:40:43: Updating burn time
+2026-01-07 15:40:43: Finished updating burn time
+2026-01-07 15:40:43: Finished spreading fire
+2026-01-07 15:43:44: loading instructions
+2026-01-07 15:43:44: Loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=4, seed=2371373832658500
+2026-01-07 15:43:44: Generating forest...
+2026-01-07 15:43:44: Generating grass tiles
+2026-01-07 15:43:44: Generating beautiful trees
+2026-01-07 15:43:44: Successfully generated forest
+2026-01-07 15:43:44: Starting ignition...
+2026-01-07 15:43:44: Finished ignition
+2026-01-07 15:43:44: Spreading fire...
+2026-01-07 15:43:44: Updating burn time
+2026-01-07 15:43:44: Finished updating burn time
+2026-01-07 15:43:44: Finished spreading fire
+2026-01-07 15:43:44: Spreading fire...
+2026-01-07 15:43:44: Updating burn time
+2026-01-07 15:43:44: Finished updating burn time
+2026-01-07 15:43:44: Finished spreading fire
+2026-01-07 15:43:44: Spreading fire...
+2026-01-07 15:43:44: Updating burn time
+2026-01-07 15:43:44: Finished updating burn time
+2026-01-07 15:43:44: Finished spreading fire
+2026-01-07 15:43:44: Spreading fire...
+2026-01-07 15:43:44: Updating burn time
+2026-01-07 15:43:44: Finished updating burn time
+2026-01-07 15:43:44: Finished spreading fire
+2026-01-07 15:43:44: Spreading fire...
+2026-01-07 15:43:44: Updating burn time
+2026-01-07 15:43:44: Finished updating burn time
+2026-01-07 15:43:44: Finished spreading fire
+2026-01-07 15:43:44: Spreading fire...
+2026-01-07 15:43:44: Updating burn time
+2026-01-07 15:43:44: Finished updating burn time
+2026-01-07 15:43:44: Finished spreading fire
+2026-01-07 15:43:44: Spreading fire...
+2026-01-07 15:43:44: Updating burn time
+2026-01-07 15:43:44: Finished updating burn time
+2026-01-07 15:43:44: Finished spreading fire
+2026-01-07 15:43:44: Spreading fire...
+2026-01-07 15:43:44: Updating burn time
+2026-01-07 15:43:44: Finished updating burn time
+2026-01-07 15:43:44: Finished spreading fire
+2026-01-07 15:43:44: Spreading fire...
+2026-01-07 15:43:44: Updating burn time
+2026-01-07 15:43:44: Finished updating burn time
+2026-01-07 15:43:44: Finished spreading fire
+2026-01-07 15:43:44: Spreading fire...
+2026-01-07 15:43:44: Updating burn time
+2026-01-07 15:43:44: Finished updating burn time
+2026-01-07 15:43:44: Finished spreading fire
+2026-01-07 15:43:50: loading instructions
+2026-01-07 15:43:50: Loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=4, seed=2371380511796600
+2026-01-07 15:43:50: Generating forest...
+2026-01-07 15:43:50: Generating grass tiles
+2026-01-07 15:43:50: Generating beautiful trees
+2026-01-07 15:43:50: Successfully generated forest
+2026-01-07 15:43:50: Starting ignition...
+2026-01-07 15:43:50: Finished ignition
+2026-01-07 15:43:50: Spreading fire...
+2026-01-07 15:43:50: Updating burn time
+2026-01-07 15:43:50: Finished updating burn time
+2026-01-07 15:43:50: Finished spreading fire
+2026-01-07 15:43:50: Spreading fire...
+2026-01-07 15:43:50: Updating burn time
+2026-01-07 15:43:50: Finished updating burn time
+2026-01-07 15:43:50: Finished spreading fire
+2026-01-07 15:43:50: Spreading fire...
+2026-01-07 15:43:50: Updating burn time
+2026-01-07 15:43:50: Finished updating burn time
+2026-01-07 15:43:50: Finished spreading fire
+2026-01-07 15:43:50: Spreading fire...
+2026-01-07 15:43:50: Updating burn time
+2026-01-07 15:43:50: Finished updating burn time
+2026-01-07 15:43:50: Finished spreading fire
+2026-01-07 15:43:50: Spreading fire...
+2026-01-07 15:43:50: Updating burn time
+2026-01-07 15:43:50: Finished updating burn time
+2026-01-07 15:43:50: Finished spreading fire
+2026-01-07 15:43:50: Spreading fire...
+2026-01-07 15:43:50: Updating burn time
+2026-01-07 15:43:50: Finished updating burn time
+2026-01-07 15:43:50: Finished spreading fire
+2026-01-07 15:43:50: Spreading fire...
+2026-01-07 15:43:50: Updating burn time
+2026-01-07 15:43:50: Finished updating burn time
+2026-01-07 15:43:50: Finished spreading fire
+2026-01-07 15:43:50: Spreading fire...
+2026-01-07 15:43:50: Updating burn time
+2026-01-07 15:43:50: Finished updating burn time
+2026-01-07 15:43:50: Finished spreading fire
+2026-01-07 15:43:50: Spreading fire...
+2026-01-07 15:43:50: Updating burn time
+2026-01-07 15:43:50: Finished updating burn time
+2026-01-07 15:43:50: Finished spreading fire
+2026-01-07 15:43:50: Spreading fire...
+2026-01-07 15:43:50: Updating burn time
+2026-01-07 15:43:50: Finished updating burn time
+2026-01-07 15:43:50: Finished spreading fire
+2026-01-07 15:44:07: loading instructions
+2026-01-07 15:44:07: Loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=4, seed=2371397564044300
+2026-01-07 15:44:07: Generating forest...
+2026-01-07 15:44:07: Generating grass tiles
+2026-01-07 15:44:07: Generating beautiful trees
+2026-01-07 15:44:07: Successfully generated forest
+2026-01-07 15:44:07: Starting ignition...
+2026-01-07 15:44:07: Finished ignition
+2026-01-07 15:44:07: Spreading fire...
+2026-01-07 15:44:07: Updating burn time
+2026-01-07 15:44:07: Finished updating burn time
+2026-01-07 15:44:07: Finished spreading fire
+2026-01-07 15:44:07: Spreading fire...
+2026-01-07 15:44:07: Updating burn time
+2026-01-07 15:44:07: Finished updating burn time
+2026-01-07 15:44:07: Finished spreading fire
+2026-01-07 15:44:07: Spreading fire...
+2026-01-07 15:44:07: Updating burn time
+2026-01-07 15:44:07: Finished updating burn time
+2026-01-07 15:44:07: Finished spreading fire
+2026-01-07 15:44:07: Spreading fire...
+2026-01-07 15:44:07: Updating burn time
+2026-01-07 15:44:07: Finished updating burn time
+2026-01-07 15:44:07: Finished spreading fire
+2026-01-07 15:44:07: Spreading fire...
+2026-01-07 15:44:07: Updating burn time
+2026-01-07 15:44:07: Finished updating burn time
+2026-01-07 15:44:07: Finished spreading fire
+2026-01-07 15:44:07: Spreading fire...
+2026-01-07 15:44:07: Updating burn time
+2026-01-07 15:44:07: Finished updating burn time
+2026-01-07 15:44:07: Finished spreading fire
+2026-01-07 15:44:07: Spreading fire...
+2026-01-07 15:44:07: Updating burn time
+2026-01-07 15:44:07: Finished updating burn time
+2026-01-07 15:44:07: Finished spreading fire
+2026-01-07 15:44:07: Spreading fire...
+2026-01-07 15:44:07: Updating burn time
+2026-01-07 15:44:07: Finished updating burn time
+2026-01-07 15:44:07: Finished spreading fire
+2026-01-07 15:44:07: Spreading fire...
+2026-01-07 15:44:07: Updating burn time
+2026-01-07 15:44:07: Finished updating burn time
+2026-01-07 15:44:07: Finished spreading fire
+2026-01-07 15:44:07: Spreading fire...
+2026-01-07 15:44:07: Updating burn time
+2026-01-07 15:44:07: Finished updating burn time
+2026-01-07 15:44:07: Finished spreading fire
+2026-01-07 15:44:15: loading instructions
+2026-01-07 15:44:15: Loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=4, seed=2371405033259400
+2026-01-07 15:44:15: Generating forest...
+2026-01-07 15:44:15: Generating grass tiles
+2026-01-07 15:44:15: Generating beautiful trees
+2026-01-07 15:44:15: Successfully generated forest
+2026-01-07 15:44:15: Starting ignition...
+2026-01-07 15:44:15: Finished ignition
+2026-01-07 15:44:15: Spreading fire...
+2026-01-07 15:44:15: Updating burn time
+2026-01-07 15:44:15: Finished updating burn time
+2026-01-07 15:44:15: Finished spreading fire
+2026-01-07 15:44:15: Spreading fire...
+2026-01-07 15:44:15: Updating burn time
+2026-01-07 15:44:15: Finished updating burn time
+2026-01-07 15:44:15: Finished spreading fire
+2026-01-07 15:44:15: Spreading fire...
+2026-01-07 15:44:15: Updating burn time
+2026-01-07 15:44:15: Finished updating burn time
+2026-01-07 15:44:15: Finished spreading fire
+2026-01-07 15:44:15: Spreading fire...
+2026-01-07 15:44:15: Updating burn time
+2026-01-07 15:44:15: Finished updating burn time
+2026-01-07 15:44:15: Finished spreading fire
+2026-01-07 15:44:15: Spreading fire...
+2026-01-07 15:44:15: Updating burn time
+2026-01-07 15:44:15: Finished updating burn time
+2026-01-07 15:44:15: Finished spreading fire
+2026-01-07 15:44:15: Spreading fire...
+2026-01-07 15:44:15: Updating burn time
+2026-01-07 15:44:15: Finished updating burn time
+2026-01-07 15:44:15: Finished spreading fire
+2026-01-07 15:44:15: Spreading fire...
+2026-01-07 15:44:15: Updating burn time
+2026-01-07 15:44:15: Finished updating burn time
+2026-01-07 15:44:15: Finished spreading fire
+2026-01-07 15:44:15: Spreading fire...
+2026-01-07 15:44:15: Updating burn time
+2026-01-07 15:44:15: Finished updating burn time
+2026-01-07 15:44:15: Finished spreading fire
+2026-01-07 15:44:15: Spreading fire...
+2026-01-07 15:44:15: Updating burn time
+2026-01-07 15:44:15: Finished updating burn time
+2026-01-07 15:44:15: Finished spreading fire
+2026-01-07 15:44:15: Spreading fire...
+2026-01-07 15:44:15: Updating burn time
+2026-01-07 15:44:15: Finished updating burn time
+2026-01-07 15:44:15: Finished spreading fire
+2026-01-07 15:44:35: loading instructions
+2026-01-07 15:44:35: Loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=4, seed=2371425234376300
+2026-01-07 15:44:35: Generating forest...
+2026-01-07 15:44:35: Generating grass tiles
+2026-01-07 15:44:35: Generating beautiful trees
+2026-01-07 15:44:35: Successfully generated forest
+2026-01-07 15:44:35: Starting ignition...
+2026-01-07 15:44:35: Finished ignition
+2026-01-07 15:44:35: Spreading fire...
+2026-01-07 15:44:35: Updating burn time
+2026-01-07 15:44:35: Finished updating burn time
+2026-01-07 15:44:35: Finished spreading fire
+2026-01-07 15:44:35: Spreading fire...
+2026-01-07 15:44:35: Updating burn time
+2026-01-07 15:44:35: Finished updating burn time
+2026-01-07 15:44:35: Finished spreading fire
+2026-01-07 15:44:35: Spreading fire...
+2026-01-07 15:44:35: Updating burn time
+2026-01-07 15:44:35: Finished updating burn time
+2026-01-07 15:44:35: Finished spreading fire
+2026-01-07 15:44:35: Spreading fire...
+2026-01-07 15:44:35: Updating burn time
+2026-01-07 15:44:35: Finished updating burn time
+2026-01-07 15:44:35: Finished spreading fire
+2026-01-07 15:44:35: Spreading fire...
+2026-01-07 15:44:35: Updating burn time
+2026-01-07 15:44:35: Finished updating burn time
+2026-01-07 15:44:35: Finished spreading fire
+2026-01-07 15:44:35: Spreading fire...
+2026-01-07 15:44:35: Updating burn time
+2026-01-07 15:44:35: Finished updating burn time
+2026-01-07 15:44:35: Finished spreading fire
+2026-01-07 15:44:35: Spreading fire...
+2026-01-07 15:44:35: Updating burn time
+2026-01-07 15:44:35: Finished updating burn time
+2026-01-07 15:44:35: Finished spreading fire
+2026-01-07 15:44:35: Spreading fire...
+2026-01-07 15:44:35: Updating burn time
+2026-01-07 15:44:35: Finished updating burn time
+2026-01-07 15:44:35: Finished spreading fire
+2026-01-07 15:44:35: Spreading fire...
+2026-01-07 15:44:35: Updating burn time
+2026-01-07 15:44:35: Finished updating burn time
+2026-01-07 15:44:35: Finished spreading fire
+2026-01-07 15:44:35: Spreading fire...
+2026-01-07 15:44:35: Updating burn time
+2026-01-07 15:44:35: Finished updating burn time
+2026-01-07 15:44:35: Finished spreading fire
+2026-01-07 15:47:50: loading instructions
+2026-01-07 15:47:50: Loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=4, seed=2371620446140100
+2026-01-07 15:47:50: Generating forest...
+2026-01-07 15:47:50: Generating grass tiles
+2026-01-07 15:47:50: Generating beautiful trees
+2026-01-07 15:47:50: Successfully generated forest
+2026-01-07 15:47:50: Starting ignition...
+2026-01-07 15:47:50: Finished ignition
+2026-01-07 15:47:50: Spreading fire...
+2026-01-07 15:47:50: Updating burn time
+2026-01-07 15:47:50: Finished updating burn time
+2026-01-07 15:47:50: Finished spreading fire
+2026-01-07 15:47:50: Spreading fire...
+2026-01-07 15:47:50: Updating burn time
+2026-01-07 15:47:50: Finished updating burn time
+2026-01-07 15:47:50: Finished spreading fire
+2026-01-07 15:47:50: Spreading fire...
+2026-01-07 15:47:50: Updating burn time
+2026-01-07 15:47:50: Finished updating burn time
+2026-01-07 15:47:50: Finished spreading fire
+2026-01-07 15:47:50: Spreading fire...
+2026-01-07 15:47:50: Updating burn time
+2026-01-07 15:47:50: Finished updating burn time
+2026-01-07 15:47:50: Finished spreading fire
+2026-01-07 15:47:50: Spreading fire...
+2026-01-07 15:47:50: Updating burn time
+2026-01-07 15:47:50: Finished updating burn time
+2026-01-07 15:47:50: Finished spreading fire
+2026-01-07 15:47:50: Spreading fire...
+2026-01-07 15:47:50: Updating burn time
+2026-01-07 15:47:50: Finished updating burn time
+2026-01-07 15:47:50: Finished spreading fire
+2026-01-07 15:47:50: Spreading fire...
+2026-01-07 15:47:50: Updating burn time
+2026-01-07 15:47:50: Finished updating burn time
+2026-01-07 15:47:50: Finished spreading fire
+2026-01-07 15:47:50: Spreading fire...
+2026-01-07 15:47:50: Updating burn time
+2026-01-07 15:47:50: Finished updating burn time
+2026-01-07 15:47:50: Finished spreading fire
+2026-01-07 15:47:50: Spreading fire...
+2026-01-07 15:47:50: Updating burn time
+2026-01-07 15:47:50: Finished updating burn time
+2026-01-07 15:47:50: Finished spreading fire
+2026-01-07 15:47:50: Spreading fire...
+2026-01-07 15:47:50: Updating burn time
+2026-01-07 15:47:50: Finished updating burn time
+2026-01-07 15:47:50: Finished spreading fire
+2026-01-07 15:51:46: loading instructions
+2026-01-07 15:51:46: Loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=4, seed=2371856338740400
+2026-01-07 15:51:46: Generating forest...
+2026-01-07 15:51:46: Generating grass tiles
+2026-01-07 15:51:46: Generating beautiful trees
+2026-01-07 15:51:46: Successfully generated forest
+2026-01-07 15:51:46: Starting ignition...
+2026-01-07 15:51:46: Finished ignition
+2026-01-07 15:51:46: Spreading fire...
+2026-01-07 15:51:46: Updating burn time
+2026-01-07 15:51:46: Finished updating burn time
+2026-01-07 15:51:46: Finished spreading fire
+2026-01-07 15:51:46: Spreading fire...
+2026-01-07 15:51:46: Updating burn time
+2026-01-07 15:51:46: Finished updating burn time
+2026-01-07 15:51:46: Finished spreading fire
+2026-01-07 15:51:46: Spreading fire...
+2026-01-07 15:51:46: Updating burn time
+2026-01-07 15:51:46: Finished updating burn time
+2026-01-07 15:51:46: Finished spreading fire
+2026-01-07 15:51:46: Spreading fire...
+2026-01-07 15:51:46: Updating burn time
+2026-01-07 15:51:46: Finished updating burn time
+2026-01-07 15:51:46: Finished spreading fire
+2026-01-07 15:51:46: Spreading fire...
+2026-01-07 15:51:46: Updating burn time
+2026-01-07 15:51:46: Finished updating burn time
+2026-01-07 15:51:46: Finished spreading fire
+2026-01-07 15:51:46: Spreading fire...
+2026-01-07 15:51:46: Updating burn time
+2026-01-07 15:51:46: Finished updating burn time
+2026-01-07 15:51:46: Finished spreading fire
+2026-01-07 15:51:46: Spreading fire...
+2026-01-07 15:51:46: Updating burn time
+2026-01-07 15:51:46: Finished updating burn time
+2026-01-07 15:51:46: Finished spreading fire
+2026-01-07 15:51:46: Spreading fire...
+2026-01-07 15:51:46: Updating burn time
+2026-01-07 15:51:46: Finished updating burn time
+2026-01-07 15:51:46: Finished spreading fire
+2026-01-07 15:51:46: Spreading fire...
+2026-01-07 15:51:46: Updating burn time
+2026-01-07 15:51:46: Finished updating burn time
+2026-01-07 15:51:46: Finished spreading fire
+2026-01-07 15:51:46: Spreading fire...
+2026-01-07 15:51:46: Updating burn time
+2026-01-07 15:51:46: Finished updating burn time
+2026-01-07 15:51:46: Finished spreading fire
+2026-01-07 16:26:04: loading instructions
+2026-01-07 16:26:04: Loaded instructions with values: n=4, m=4, k=1, spread=0.324, burnTicks=4, seed=2373914211364900
+2026-01-07 16:26:04: Generating forest...
+2026-01-07 16:26:04: Generating grass tiles
+2026-01-07 16:26:04: Generating beautiful trees
+2026-01-07 16:26:04: Successfully generated forest
+2026-01-07 16:26:04: Starting ignition...
+2026-01-07 16:26:04: Finished ignition
+2026-01-07 16:26:04: Spreading fire...
+2026-01-07 16:26:04: Updating burn time
+2026-01-07 16:26:04: Finished updating burn time
+2026-01-07 16:26:04: Finished spreading fire
+2026-01-07 16:26:04: Spreading fire...
+2026-01-07 16:26:04: Updating burn time
+2026-01-07 16:26:04: Finished updating burn time
+2026-01-07 16:26:04: Finished spreading fire
+2026-01-07 16:26:04: Spreading fire...
+2026-01-07 16:26:04: Updating burn time
+2026-01-07 16:26:04: Finished updating burn time
+2026-01-07 16:26:04: Finished spreading fire
+2026-01-07 16:26:04: Spreading fire...
+2026-01-07 16:26:04: Updating burn time
+2026-01-07 16:26:04: Finished updating burn time
+2026-01-07 16:26:04: Finished spreading fire
+2026-01-07 16:26:05: Spreading fire...
+2026-01-07 16:26:05: Updating burn time
+2026-01-07 16:26:05: Finished updating burn time
+2026-01-07 16:26:05: Finished spreading fire
+2026-01-07 16:26:05: Spreading fire...
+2026-01-07 16:26:05: Updating burn time
+2026-01-07 16:26:05: Finished updating burn time
+2026-01-07 16:26:05: Finished spreading fire
+2026-01-07 16:26:05: Spreading fire...
+2026-01-07 16:26:05: Updating burn time
+2026-01-07 16:26:05: Finished updating burn time
+2026-01-07 16:26:05: Finished spreading fire
+2026-01-07 16:26:05: Spreading fire...
+2026-01-07 16:26:05: Updating burn time
+2026-01-07 16:26:05: Finished updating burn time
+2026-01-07 16:26:05: Finished spreading fire
+2026-01-07 16:26:05: Spreading fire...
+2026-01-07 16:26:05: Updating burn time
+2026-01-07 16:26:05: Finished updating burn time
+2026-01-07 16:26:05: Finished spreading fire
+2026-01-07 16:26:05: Spreading fire...
+2026-01-07 16:26:05: Updating burn time
+2026-01-07 16:26:05: Finished updating burn time
+2026-01-07 16:26:05: Finished spreading fire
+2026-01-07 16:26:05: Spreading fire...
+2026-01-07 16:26:05: Updating burn time
+2026-01-07 16:26:05: Finished updating burn time
+2026-01-07 16:26:05: Finished spreading fire
+2026-01-07 16:26:35: loading instructions
+2026-01-07 16:26:35: Loaded instructions with values: n=50, m=50, k=5, spread=0.324, burnTicks=4, seed=2373945317401200
+2026-01-07 16:26:35: Generating forest...
+2026-01-07 16:26:35: Generating grass tiles
+2026-01-07 16:26:35: Generating beautiful trees
+2026-01-07 16:26:35: Successfully generated forest
+2026-01-07 16:26:35: Starting ignition...
+2026-01-07 16:26:35: Finished ignition
+2026-01-07 16:26:35: Spreading fire...
+2026-01-07 16:26:35: Updating burn time
+2026-01-07 16:26:35: Finished updating burn time
+2026-01-07 16:26:35: Finished spreading fire
+2026-01-07 16:26:35: Spreading fire...
+2026-01-07 16:26:35: Updating burn time
+2026-01-07 16:26:35: Finished updating burn time
+2026-01-07 16:26:35: Finished spreading fire
+2026-01-07 16:26:36: Spreading fire...
+2026-01-07 16:26:36: Updating burn time
+2026-01-07 16:26:36: Finished updating burn time
+2026-01-07 16:26:36: Finished spreading fire
+2026-01-07 16:26:36: Spreading fire...
+2026-01-07 16:26:36: Updating burn time
+2026-01-07 16:26:36: Finished updating burn time
+2026-01-07 16:26:36: Finished spreading fire
+2026-01-07 16:26:36: Spreading fire...
+2026-01-07 16:26:36: Updating burn time
+2026-01-07 16:26:36: Finished updating burn time
+2026-01-07 16:26:36: Finished spreading fire
+2026-01-07 16:26:36: Spreading fire...
+2026-01-07 16:26:36: Updating burn time
+2026-01-07 16:26:36: Finished updating burn time
+2026-01-07 16:26:36: Finished spreading fire
+2026-01-07 16:26:36: Spreading fire...
+2026-01-07 16:26:36: Updating burn time
+2026-01-07 16:26:36: Finished updating burn time
+2026-01-07 16:26:36: Finished spreading fire
+2026-01-07 16:26:36: Spreading fire...
+2026-01-07 16:26:36: Updating burn time
+2026-01-07 16:26:36: Finished updating burn time
+2026-01-07 16:26:36: Finished spreading fire
+2026-01-07 16:26:36: Spreading fire...
+2026-01-07 16:26:36: Updating burn time
+2026-01-07 16:26:36: Finished updating burn time
+2026-01-07 16:26:36: Finished spreading fire
+2026-01-07 16:26:36: Spreading fire...
+2026-01-07 16:26:36: Updating burn time
+2026-01-07 16:26:36: Finished updating burn time
+2026-01-07 16:26:36: Finished spreading fire
+2026-01-07 16:26:36: Spreading fire...
+2026-01-07 16:26:36: Updating burn time
+2026-01-07 16:26:36: Finished updating burn time
+2026-01-07 16:26:36: Finished spreading fire
+2026-01-07 16:26:37: Spreading fire...
+2026-01-07 16:26:37: Updating burn time
+2026-01-07 16:26:37: Finished updating burn time
+2026-01-07 16:26:37: Finished spreading fire
+2026-01-07 16:26:37: Spreading fire...
+2026-01-07 16:26:37: Updating burn time
+2026-01-07 16:26:37: Finished updating burn time
+2026-01-07 16:26:37: Finished spreading fire
+2026-01-07 16:26:37: Spreading fire...
+2026-01-07 16:26:37: Updating burn time
+2026-01-07 16:26:37: Finished updating burn time
+2026-01-07 16:26:37: Finished spreading fire
+2026-01-07 16:26:37: Spreading fire...
+2026-01-07 16:26:37: Updating burn time
+2026-01-07 16:26:37: Finished updating burn time
+2026-01-07 16:26:37: Finished spreading fire
+2026-01-07 16:26:37: Spreading fire...
+2026-01-07 16:26:37: Updating burn time
+2026-01-07 16:26:37: Finished updating burn time
+2026-01-07 16:26:37: Finished spreading fire
+2026-01-07 16:26:37: Spreading fire...
+2026-01-07 16:26:37: Updating burn time
+2026-01-07 16:26:37: Finished updating burn time
+2026-01-07 16:26:37: Finished spreading fire
+2026-01-07 16:26:37: Spreading fire...
+2026-01-07 16:26:37: Updating burn time
+2026-01-07 16:26:37: Finished updating burn time
+2026-01-07 16:26:37: Finished spreading fire
+2026-01-07 16:26:37: Spreading fire...
+2026-01-07 16:26:37: Updating burn time
+2026-01-07 16:26:37: Finished updating burn time
+2026-01-07 16:26:37: Finished spreading fire
+2026-01-07 16:26:37: Spreading fire...
+2026-01-07 16:26:37: Updating burn time
+2026-01-07 16:26:37: Finished updating burn time
+2026-01-07 16:26:37: Finished spreading fire
+2026-01-07 16:26:38: Spreading fire...
+2026-01-07 16:26:38: Updating burn time
+2026-01-07 16:26:38: Finished updating burn time
+2026-01-07 16:26:38: Finished spreading fire
+2026-01-07 16:26:38: Spreading fire...
+2026-01-07 16:26:38: Updating burn time
+2026-01-07 16:26:38: Finished updating burn time
+2026-01-07 16:26:38: Finished spreading fire
+2026-01-07 16:26:38: Spreading fire...
+2026-01-07 16:26:38: Updating burn time
+2026-01-07 16:26:38: Finished updating burn time
+2026-01-07 16:26:38: Finished spreading fire
+2026-01-07 16:26:38: Spreading fire...
+2026-01-07 16:26:38: Updating burn time
+2026-01-07 16:26:38: Finished updating burn time
+2026-01-07 16:26:38: Finished spreading fire
+2026-01-07 16:26:38: Spreading fire...
+2026-01-07 16:26:38: Updating burn time
+2026-01-07 16:26:38: Finished updating burn time
+2026-01-07 16:26:38: Finished spreading fire
+2026-01-07 16:26:38: Spreading fire...
+2026-01-07 16:26:38: Updating burn time
+2026-01-07 16:26:38: Finished updating burn time
+2026-01-07 16:26:38: Finished spreading fire
+2026-01-07 16:26:38: Spreading fire...
+2026-01-07 16:26:38: Updating burn time
+2026-01-07 16:26:38: Finished updating burn time
+2026-01-07 16:26:38: Finished spreading fire
+2026-01-07 16:26:38: Spreading fire...
+2026-01-07 16:26:38: Updating burn time
+2026-01-07 16:26:38: Finished updating burn time
+2026-01-07 16:26:38: Finished spreading fire
+2026-01-07 16:26:38: Spreading fire...
+2026-01-07 16:26:38: Updating burn time
+2026-01-07 16:26:38: Finished updating burn time
+2026-01-07 16:26:38: Finished spreading fire
+2026-01-07 16:26:39: Spreading fire...
+2026-01-07 16:26:39: Updating burn time
+2026-01-07 16:26:39: Finished updating burn time
+2026-01-07 16:26:39: Finished spreading fire
+2026-01-07 16:26:39: Spreading fire...
+2026-01-07 16:26:39: Updating burn time
+2026-01-07 16:26:39: Finished updating burn time
+2026-01-07 16:26:39: Finished spreading fire
+2026-01-07 16:26:39: Spreading fire...
+2026-01-07 16:26:39: Updating burn time
+2026-01-07 16:26:39: Finished updating burn time
+2026-01-07 16:26:39: Finished spreading fire
+2026-01-07 16:26:39: Spreading fire...
+2026-01-07 16:26:39: Updating burn time
+2026-01-07 16:26:39: Finished updating burn time
+2026-01-07 16:26:39: Finished spreading fire
+2026-01-07 16:26:39: Spreading fire...
+2026-01-07 16:26:39: Updating burn time
+2026-01-07 16:26:39: Finished updating burn time
+2026-01-07 16:26:39: Finished spreading fire
+2026-01-07 16:26:39: Spreading fire...
+2026-01-07 16:26:39: Updating burn time
+2026-01-07 16:26:39: Finished updating burn time
+2026-01-07 16:26:39: Finished spreading fire
+2026-01-07 16:26:39: Spreading fire...
+2026-01-07 16:26:39: Updating burn time
+2026-01-07 16:26:39: Finished updating burn time
+2026-01-07 16:26:39: Finished spreading fire
+2026-01-07 16:26:39: Spreading fire...
+2026-01-07 16:26:39: Updating burn time
+2026-01-07 16:26:39: Finished updating burn time
+2026-01-07 16:26:39: Finished spreading fire
+2026-01-07 16:26:39: Spreading fire...
+2026-01-07 16:26:39: Updating burn time
+2026-01-07 16:26:39: Finished updating burn time
+2026-01-07 16:26:39: Finished spreading fire
+2026-01-07 16:26:40: Spreading fire...
+2026-01-07 16:26:40: Updating burn time
+2026-01-07 16:26:40: Finished updating burn time
+2026-01-07 16:26:40: Finished spreading fire
+2026-01-07 16:26:40: Spreading fire...
+2026-01-07 16:26:40: Updating burn time
+2026-01-07 16:26:40: Finished updating burn time
+2026-01-07 16:26:40: Finished spreading fire
+2026-01-07 16:26:40: Spreading fire...
+2026-01-07 16:26:40: Updating burn time
+2026-01-07 16:26:40: Finished updating burn time
+2026-01-07 16:26:40: Finished spreading fire
+2026-01-07 16:26:40: Spreading fire...
+2026-01-07 16:26:40: Updating burn time
+2026-01-07 16:26:40: Finished updating burn time
+2026-01-07 16:26:40: Finished spreading fire
+2026-01-07 16:26:40: Spreading fire...
+2026-01-07 16:26:40: Updating burn time
+2026-01-07 16:26:40: Finished updating burn time
+2026-01-07 16:26:40: Finished spreading fire
+2026-01-07 16:26:40: Spreading fire...
+2026-01-07 16:26:40: Updating burn time
+2026-01-07 16:26:40: Finished updating burn time
+2026-01-07 16:26:40: Finished spreading fire
+2026-01-07 16:26:40: Spreading fire...
+2026-01-07 16:26:40: Updating burn time
+2026-01-07 16:26:40: Finished updating burn time
+2026-01-07 16:26:40: Finished spreading fire
+2026-01-07 16:26:40: Spreading fire...
+2026-01-07 16:26:40: Updating burn time
+2026-01-07 16:26:40: Finished updating burn time
+2026-01-07 16:26:40: Finished spreading fire
+2026-01-07 16:26:40: Spreading fire...
+2026-01-07 16:26:40: Updating burn time
+2026-01-07 16:26:40: Finished updating burn time
+2026-01-07 16:26:40: Finished spreading fire
+2026-01-07 16:26:40: Spreading fire...
+2026-01-07 16:26:40: Updating burn time
+2026-01-07 16:26:40: Finished updating burn time
+2026-01-07 16:26:40: Finished spreading fire
+2026-01-07 16:26:41: Spreading fire...
+2026-01-07 16:26:41: Updating burn time
+2026-01-07 16:26:41: Finished updating burn time
+2026-01-07 16:26:41: Finished spreading fire
+2026-01-07 16:26:41: Spreading fire...
+2026-01-07 16:26:41: Updating burn time
+2026-01-07 16:26:41: Finished updating burn time
+2026-01-07 16:26:41: Finished spreading fire
+2026-01-07 16:26:41: Spreading fire...
+2026-01-07 16:26:41: Updating burn time
+2026-01-07 16:26:41: Finished updating burn time
+2026-01-07 16:26:41: Finished spreading fire
+2026-01-07 16:26:41: Spreading fire...
+2026-01-07 16:26:41: Updating burn time
+2026-01-07 16:26:41: Finished updating burn time
+2026-01-07 16:26:41: Finished spreading fire
+2026-01-07 16:26:41: Spreading fire...
+2026-01-07 16:26:41: Updating burn time
+2026-01-07 16:26:41: Finished updating burn time
+2026-01-07 16:26:41: Finished spreading fire
+2026-01-07 16:26:41: Spreading fire...
+2026-01-07 16:26:41: Updating burn time
+2026-01-07 16:26:41: Finished updating burn time
+2026-01-07 16:26:41: Finished spreading fire
+2026-01-07 16:26:41: Spreading fire...
+2026-01-07 16:26:41: Updating burn time
+2026-01-07 16:26:41: Finished updating burn time
+2026-01-07 16:26:41: Finished spreading fire
+2026-01-07 16:26:41: Spreading fire...
+2026-01-07 16:26:41: Updating burn time
+2026-01-07 16:26:41: Finished updating burn time
+2026-01-07 16:26:41: Finished spreading fire
+2026-01-07 16:26:41: Spreading fire...
+2026-01-07 16:26:41: Updating burn time
+2026-01-07 16:26:41: Finished updating burn time
+2026-01-07 16:26:41: Finished spreading fire
+2026-01-07 16:26:42: Spreading fire...
+2026-01-07 16:26:42: Updating burn time
+2026-01-07 16:26:42: Finished updating burn time
+2026-01-07 16:26:42: Finished spreading fire
+2026-01-07 16:26:42: Spreading fire...
+2026-01-07 16:26:42: Updating burn time
+2026-01-07 16:26:42: Finished updating burn time
+2026-01-07 16:26:42: Finished spreading fire
+2026-01-07 16:26:42: Spreading fire...
+2026-01-07 16:26:42: Updating burn time
+2026-01-07 16:26:42: Finished updating burn time
+2026-01-07 16:26:42: Finished spreading fire
+2026-01-07 16:26:42: Spreading fire...
+2026-01-07 16:26:42: Updating burn time
+2026-01-07 16:26:42: Finished updating burn time
+2026-01-07 16:26:42: Finished spreading fire
+2026-01-07 16:26:42: Spreading fire...
+2026-01-07 16:26:42: Updating burn time
+2026-01-07 16:26:42: Finished updating burn time
+2026-01-07 16:26:42: Finished spreading fire
+2026-01-07 16:26:42: Spreading fire...
+2026-01-07 16:26:42: Updating burn time
+2026-01-07 16:26:42: Finished updating burn time
+2026-01-07 16:26:42: Finished spreading fire
+2026-01-07 16:26:42: Spreading fire...
+2026-01-07 16:26:42: Updating burn time
+2026-01-07 16:26:42: Finished updating burn time
+2026-01-07 16:26:42: Finished spreading fire
+2026-01-07 16:26:42: Spreading fire...
+2026-01-07 16:26:42: Updating burn time
+2026-01-07 16:26:42: Finished updating burn time
+2026-01-07 16:26:42: Finished spreading fire
+2026-01-07 16:27:27: loading instructions
+2026-01-07 16:27:27: Loaded instructions with values: n=50, m=50, k=5, spread=0.324, burnTicks=4, seed=2373997376677000
+2026-01-07 16:27:27: Generating forest...
+2026-01-07 16:27:27: Generating grass tiles
+2026-01-07 16:27:27: Generating beautiful trees
+2026-01-07 16:27:27: Successfully generated forest
+2026-01-07 16:27:27: Starting ignition...
+2026-01-07 16:27:27: Finished ignition
+2026-01-07 16:27:27: Spreading fire...
+2026-01-07 16:27:27: Updating burn time
+2026-01-07 16:27:27: Finished updating burn time
+2026-01-07 16:27:27: Finished spreading fire
+2026-01-07 16:27:28: Spreading fire...
+2026-01-07 16:27:28: Updating burn time
+2026-01-07 16:27:28: Finished updating burn time
+2026-01-07 16:27:28: Finished spreading fire
+2026-01-07 16:27:28: Spreading fire...
+2026-01-07 16:27:28: Updating burn time
+2026-01-07 16:27:28: Finished updating burn time
+2026-01-07 16:27:28: Finished spreading fire
+2026-01-07 16:27:28: Spreading fire...
+2026-01-07 16:27:28: Updating burn time
+2026-01-07 16:27:28: Finished updating burn time
+2026-01-07 16:27:28: Finished spreading fire
+2026-01-07 16:27:28: Spreading fire...
+2026-01-07 16:27:28: Updating burn time
+2026-01-07 16:27:28: Finished updating burn time
+2026-01-07 16:27:28: Finished spreading fire
+2026-01-07 16:27:28: Spreading fire...
+2026-01-07 16:27:28: Updating burn time
+2026-01-07 16:27:28: Finished updating burn time
+2026-01-07 16:27:28: Finished spreading fire
+2026-01-07 16:27:28: Spreading fire...
+2026-01-07 16:27:28: Updating burn time
+2026-01-07 16:27:28: Finished updating burn time
+2026-01-07 16:27:28: Finished spreading fire
+2026-01-07 16:27:28: Spreading fire...
+2026-01-07 16:27:28: Updating burn time
+2026-01-07 16:27:28: Finished updating burn time
+2026-01-07 16:27:28: Finished spreading fire
+2026-01-07 16:27:28: Spreading fire...
+2026-01-07 16:27:28: Updating burn time
+2026-01-07 16:27:28: Finished updating burn time
+2026-01-07 16:27:28: Finished spreading fire
+2026-01-07 16:27:28: Spreading fire...
+2026-01-07 16:27:28: Updating burn time
+2026-01-07 16:27:28: Finished updating burn time
+2026-01-07 16:27:28: Finished spreading fire
+2026-01-07 16:27:29: Spreading fire...
+2026-01-07 16:27:29: Updating burn time
+2026-01-07 16:27:29: Finished updating burn time
+2026-01-07 16:27:29: Finished spreading fire
+2026-01-07 16:27:29: Spreading fire...
+2026-01-07 16:27:29: Updating burn time
+2026-01-07 16:27:29: Finished updating burn time
+2026-01-07 16:27:29: Finished spreading fire
+2026-01-07 16:27:29: Spreading fire...
+2026-01-07 16:27:29: Updating burn time
+2026-01-07 16:27:29: Finished updating burn time
+2026-01-07 16:27:29: Finished spreading fire
+2026-01-07 16:27:29: Spreading fire...
+2026-01-07 16:27:29: Updating burn time
+2026-01-07 16:27:29: Finished updating burn time
+2026-01-07 16:27:29: Finished spreading fire
+2026-01-07 16:27:29: Spreading fire...
+2026-01-07 16:27:29: Updating burn time
+2026-01-07 16:27:29: Finished updating burn time
+2026-01-07 16:27:29: Finished spreading fire
+2026-01-07 16:27:29: Spreading fire...
+2026-01-07 16:27:29: Updating burn time
+2026-01-07 16:27:29: Finished updating burn time
+2026-01-07 16:27:29: Finished spreading fire
+2026-01-07 16:27:43: loading instructions
+2026-01-07 16:27:43: Loaded instructions with values: n=50, m=50, k=5, spread=0.324, burnTicks=4, seed=2374013184468900
+2026-01-07 16:27:43: Generating forest...
+2026-01-07 16:27:43: Generating grass tiles
+2026-01-07 16:27:43: Generating beautiful trees
+2026-01-07 16:27:43: Successfully generated forest
+2026-01-07 16:27:43: Starting ignition...
+2026-01-07 16:27:43: Finished ignition
+2026-01-07 16:27:44: Spreading fire...
+2026-01-07 16:27:44: Updating burn time
+2026-01-07 16:27:44: Finished updating burn time
+2026-01-07 16:27:44: Finished spreading fire
+2026-01-07 16:27:45: Spreading fire...
+2026-01-07 16:27:45: Updating burn time
+2026-01-07 16:27:45: Finished updating burn time
+2026-01-07 16:27:45: Finished spreading fire
+2026-01-07 16:27:46: Spreading fire...
+2026-01-07 16:27:46: Updating burn time
+2026-01-07 16:27:46: Finished updating burn time
+2026-01-07 16:27:46: Finished spreading fire
+2026-01-07 16:27:47: Spreading fire...
+2026-01-07 16:27:47: Updating burn time
+2026-01-07 16:27:47: Finished updating burn time
+2026-01-07 16:27:47: Finished spreading fire
+2026-01-07 16:27:48: Spreading fire...
+2026-01-07 16:27:48: Updating burn time
+2026-01-07 16:27:48: Finished updating burn time
+2026-01-07 16:27:48: Finished spreading fire
+2026-01-07 16:27:49: Spreading fire...
+2026-01-07 16:27:49: Updating burn time
+2026-01-07 16:27:49: Finished updating burn time
+2026-01-07 16:27:49: Finished spreading fire
+2026-01-07 16:27:50: Spreading fire...
+2026-01-07 16:27:50: Updating burn time
+2026-01-07 16:27:50: Finished updating burn time
+2026-01-07 16:27:50: Finished spreading fire
+2026-01-07 16:27:51: Spreading fire...
+2026-01-07 16:27:51: Updating burn time
+2026-01-07 16:27:51: Finished updating burn time
+2026-01-07 16:27:51: Finished spreading fire
+2026-01-07 16:27:52: Spreading fire...
+2026-01-07 16:27:52: Updating burn time
+2026-01-07 16:27:52: Finished updating burn time
+2026-01-07 16:27:52: Finished spreading fire
+2026-01-07 16:28:39: loading instructions
+2026-01-07 16:28:39: Loaded instructions with values: n=50, m=50, k=5, spread=0.324, burnTicks=4, seed=2374069498722400
+2026-01-07 16:28:39: Generating forest...
+2026-01-07 16:28:39: Generating grass tiles
+2026-01-07 16:28:39: Generating beautiful trees
+2026-01-07 16:28:39: Successfully generated forest
+2026-01-07 16:28:39: Starting ignition...
+2026-01-07 16:28:39: Finished ignition
+2026-01-07 16:28:40: Spreading fire...
+2026-01-07 16:28:40: Updating burn time
+2026-01-07 16:28:40: Finished updating burn time
+2026-01-07 16:28:40: Finished spreading fire
+2026-01-07 16:28:41: Spreading fire...
+2026-01-07 16:28:41: Updating burn time
+2026-01-07 16:28:41: Finished updating burn time
+2026-01-07 16:28:41: Finished spreading fire
+2026-01-07 16:28:42: Spreading fire...
+2026-01-07 16:28:42: Updating burn time
+2026-01-07 16:28:42: Finished updating burn time
+2026-01-07 16:28:42: Finished spreading fire
+2026-01-07 16:28:43: Spreading fire...
+2026-01-07 16:28:43: Updating burn time
+2026-01-07 16:28:43: Finished updating burn time
+2026-01-07 16:28:43: Finished spreading fire
+2026-01-07 16:28:44: Spreading fire...
+2026-01-07 16:28:44: Updating burn time
+2026-01-07 16:28:44: Finished updating burn time
+2026-01-07 16:28:44: Finished spreading fire
+2026-01-07 16:29:02: loading instructions
+2026-01-07 16:29:02: Loaded instructions with values: n=50, m=50, k=5, spread=0.324, burnTicks=4, seed=2374092334661700
+2026-01-07 16:29:02: Generating forest...
+2026-01-07 16:29:02: Generating grass tiles
+2026-01-07 16:29:02: Generating beautiful trees
+2026-01-07 16:29:02: Successfully generated forest
+2026-01-07 16:31:11: loading instructions
+2026-01-07 16:31:11: Loaded instructions with values: n=50, m=50, k=5, spread=0.324, burnTicks=4, seed=2374221198964700
+2026-01-07 16:31:11: Generating forest...
+2026-01-07 16:31:11: Generating grass tiles
+2026-01-07 16:31:11: Generating beautiful trees
+2026-01-07 16:31:11: Successfully generated forest
+2026-01-07 16:34:06: loading instructions
+2026-01-07 16:34:06: Loaded instructions with values: n=50, m=50, k=5, spread=0.324, burnTicks=4, seed=2374396578721100
+2026-01-07 16:34:06: Generating forest...
+2026-01-07 16:34:06: Generating grass tiles
+2026-01-07 16:34:06: Generating beautiful trees
+2026-01-07 16:34:06: Successfully generated forest
+2026-01-07 16:34:39: loading instructions
+2026-01-07 16:34:39: Loaded instructions with values: n=50, m=50, k=5, spread=0.324, burnTicks=4, seed=2374429137056100
+2026-01-07 16:34:39: Generating forest...
+2026-01-07 16:34:39: Generating grass tiles
+2026-01-07 16:34:39: Generating beautiful trees
+2026-01-07 16:34:39: Successfully generated forest
+2026-01-07 16:36:13: loading instructions
+2026-01-07 16:36:13: Loaded instructions with values: n=50, m=50, k=5, spread=0.324, burnTicks=4, seed=2374523372938400
+2026-01-07 16:36:13: Generating forest...
+2026-01-07 16:36:13: Generating grass tiles
+2026-01-07 16:36:13: Generating beautiful trees
+2026-01-07 16:36:13: Successfully generated forest
+2026-01-07 16:36:28: loading instructions
+2026-01-07 16:36:28: Loaded instructions with values: n=50, m=50, k=5, spread=0.324, burnTicks=4, seed=2374538448794000
+2026-01-07 16:36:28: Generating forest...
+2026-01-07 16:36:28: Generating grass tiles
+2026-01-07 16:36:28: Generating beautiful trees
+2026-01-07 16:36:28: Successfully generated forest
+2026-01-07 16:36:41: loading instructions
+2026-01-07 16:36:41: Loaded instructions with values: n=50, m=50, k=5, spread=0.324, burnTicks=4, seed=2374551085379000
+2026-01-07 16:36:41: Generating forest...
+2026-01-07 16:36:41: Generating grass tiles
+2026-01-07 16:36:41: Generating beautiful trees
+2026-01-07 16:36:41: Successfully generated forest
+2026-01-07 16:36:45: loading instructions
+2026-01-07 16:36:45: Loaded instructions with values: n=50, m=50, k=5, spread=0.324, burnTicks=4, seed=2374554977042300
+2026-01-07 16:36:45: Generating forest...
+2026-01-07 16:36:45: Generating grass tiles
+2026-01-07 16:36:45: Generating beautiful trees
+2026-01-07 16:36:45: Successfully generated forest
+2026-01-07 16:37:12: loading instructions
+2026-01-07 16:37:12: Loaded instructions with values: n=10, m=10, k=5, spread=0.324, burnTicks=4, seed=2374582818603800
+2026-01-07 16:37:13: Generating forest...
+2026-01-07 16:37:13: Generating grass tiles
+2026-01-07 16:37:13: Generating beautiful trees
+2026-01-07 16:37:13: Successfully generated forest
+2026-01-07 16:39:15: loading instructions
+2026-01-07 16:39:15: Loaded instructions with values: n=50, m=50, k=5, spread=0.324, burnTicks=4, seed=2374705511638700
+2026-01-07 16:39:15: Generating forest...
+2026-01-07 16:39:15: Generating grass tiles
+2026-01-07 16:39:15: Generating beautiful trees
+2026-01-07 16:39:15: Successfully generated forest
+2026-01-07 16:40:05: loading instructions
+2026-01-07 16:40:05: Loaded instructions with values: n=50, m=50, k=5, spread=0.324, burnTicks=4, seed=2374755213767000
+2026-01-07 16:40:05: Generating forest...
+2026-01-07 16:40:05: Generating grass tiles
+2026-01-07 16:40:05: Generating beautiful trees
+2026-01-07 16:40:05: Successfully generated forest
+2026-01-07 16:41:03: loading instructions
+2026-01-07 16:41:03: Loaded instructions with values: n=50, m=50, k=5, spread=0.324, burnTicks=4, seed=2374813782890900
+2026-01-07 16:41:04: Generating forest...
+2026-01-07 16:41:04: Generating grass tiles
+2026-01-07 16:41:04: Generating beautiful trees
+2026-01-07 16:41:04: Successfully generated forest
+2026-01-07 16:41:54: loading instructions
+2026-01-07 16:41:54: Loaded instructions with values: n=50, m=50, k=5, spread=0.324, burnTicks=4, seed=2374864184423500
+2026-01-07 16:41:54: Generating forest...
+2026-01-07 16:41:54: Generating grass tiles
+2026-01-07 16:41:54: Generating beautiful trees
+2026-01-07 16:41:54: Successfully generated forest
+2026-01-07 16:42:30: loading instructions
+2026-01-07 16:42:30: Loaded instructions with values: n=50, m=50, k=5, spread=0.324, burnTicks=4, seed=2374900333676400
+2026-01-07 16:42:30: Generating forest...
+2026-01-07 16:42:30: Generating grass tiles
+2026-01-07 16:42:30: Generating beautiful trees
+2026-01-07 16:42:30: Successfully generated forest
+2026-01-07 16:42:50: loading instructions
+2026-01-07 16:42:50: Loaded instructions with values: n=50, m=50, k=5, spread=0.324, burnTicks=4, seed=2374920349242800
+2026-01-07 16:42:50: Generating forest...
+2026-01-07 16:42:50: Generating grass tiles
+2026-01-07 16:42:50: Generating beautiful trees
+2026-01-07 16:42:50: Successfully generated forest
+2026-01-07 16:42:50: Starting ignition...
+2026-01-07 16:42:50: Finished ignition
+2026-01-07 16:42:51: Spreading fire...
+2026-01-07 16:42:51: Updating burn time
+2026-01-07 16:42:51: Finished updating burn time
+2026-01-07 16:42:51: Finished spreading fire
+2026-01-07 16:42:52: Spreading fire...
+2026-01-07 16:42:52: Updating burn time
+2026-01-07 16:42:52: Finished updating burn time
+2026-01-07 16:42:52: Finished spreading fire
+2026-01-07 16:42:53: Spreading fire...
+2026-01-07 16:42:53: Updating burn time
+2026-01-07 16:42:53: Finished updating burn time
+2026-01-07 16:42:53: Finished spreading fire
+2026-01-07 16:42:54: Spreading fire...
+2026-01-07 16:42:54: Updating burn time
+2026-01-07 16:42:54: Finished updating burn time
+2026-01-07 16:42:54: Finished spreading fire
+2026-01-07 16:42:55: Spreading fire...
+2026-01-07 16:42:55: Updating burn time
+2026-01-07 16:42:55: Finished updating burn time
+2026-01-07 16:42:55: Finished spreading fire
+2026-01-07 16:42:56: Spreading fire...
+2026-01-07 16:42:56: Updating burn time
+2026-01-07 16:42:56: Finished updating burn time
+2026-01-07 16:42:56: Finished spreading fire
+2026-01-07 16:42:57: Spreading fire...
+2026-01-07 16:42:57: Updating burn time
+2026-01-07 16:42:57: Finished updating burn time
+2026-01-07 16:42:57: Finished spreading fire
+2026-01-07 16:42:58: Spreading fire...
+2026-01-07 16:42:58: Updating burn time
+2026-01-07 16:42:58: Finished updating burn time
+2026-01-07 16:42:58: Finished spreading fire
+2026-01-07 16:42:59: Spreading fire...
+2026-01-07 16:42:59: Updating burn time
+2026-01-07 16:42:59: Finished updating burn time
+2026-01-07 16:42:59: Finished spreading fire
+2026-01-07 16:43:00: Spreading fire...
+2026-01-07 16:43:00: Updating burn time
+2026-01-07 16:43:00: Finished updating burn time
+2026-01-07 16:43:00: Finished spreading fire
+2026-01-07 16:43:01: Spreading fire...
+2026-01-07 16:43:01: Updating burn time
+2026-01-07 16:43:01: Finished updating burn time
+2026-01-07 16:43:01: Finished spreading fire
+2026-01-07 16:43:02: Spreading fire...
+2026-01-07 16:43:02: Updating burn time
+2026-01-07 16:43:02: Finished updating burn time
+2026-01-07 16:43:02: Finished spreading fire
+2026-01-07 16:43:03: Spreading fire...
+2026-01-07 16:43:03: Updating burn time
+2026-01-07 16:43:03: Finished updating burn time
+2026-01-07 16:43:03: Finished spreading fire
+2026-01-07 16:43:04: Spreading fire...
+2026-01-07 16:43:04: Updating burn time
+2026-01-07 16:43:04: Finished updating burn time
+2026-01-07 16:43:04: Finished spreading fire
+2026-01-07 16:43:05: Spreading fire...
+2026-01-07 16:43:05: Updating burn time
+2026-01-07 16:43:05: Finished updating burn time
+2026-01-07 16:43:05: Finished spreading fire
+2026-01-07 16:43:06: Spreading fire...
+2026-01-07 16:43:06: Updating burn time
+2026-01-07 16:43:06: Finished updating burn time
+2026-01-07 16:43:06: Finished spreading fire
+2026-01-07 16:43:19: loading instructions
+2026-01-07 16:43:19: Loaded instructions with values: n=100, m=100, k=5, spread=0.324, burnTicks=4, seed=2374949318418400
+2026-01-07 16:43:20: Generating forest...
+2026-01-07 16:43:20: Generating grass tiles
+2026-01-07 16:43:20: Generating beautiful trees
+2026-01-07 16:43:20: Successfully generated forest
+2026-01-07 16:43:20: Starting ignition...
+2026-01-07 16:43:20: Finished ignition
+2026-01-07 16:43:21: Spreading fire...
+2026-01-07 16:43:21: Updating burn time
+2026-01-07 16:43:21: Finished updating burn time
+2026-01-07 16:43:21: Finished spreading fire
+2026-01-07 16:43:22: Spreading fire...
+2026-01-07 16:43:22: Updating burn time
+2026-01-07 16:43:22: Finished updating burn time
+2026-01-07 16:43:22: Finished spreading fire
+2026-01-07 16:43:23: Spreading fire...
+2026-01-07 16:43:23: Updating burn time
+2026-01-07 16:43:23: Finished updating burn time
+2026-01-07 16:43:23: Finished spreading fire
+2026-01-07 16:43:24: Spreading fire...
+2026-01-07 16:43:24: Updating burn time
+2026-01-07 16:43:24: Finished updating burn time
+2026-01-07 16:43:24: Finished spreading fire
+2026-01-07 16:43:25: Spreading fire...
+2026-01-07 16:43:25: Updating burn time
+2026-01-07 16:43:25: Finished updating burn time
+2026-01-07 16:43:25: Finished spreading fire
+2026-01-07 16:43:26: Spreading fire...
+2026-01-07 16:43:26: Updating burn time
+2026-01-07 16:43:26: Finished updating burn time
+2026-01-07 16:43:26: Finished spreading fire
+2026-01-07 16:43:27: Spreading fire...
+2026-01-07 16:43:27: Updating burn time
+2026-01-07 16:43:27: Finished updating burn time
+2026-01-07 16:43:27: Finished spreading fire
+2026-01-07 16:43:28: Spreading fire...
+2026-01-07 16:43:28: Updating burn time
+2026-01-07 16:43:28: Finished updating burn time
+2026-01-07 16:43:28: Finished spreading fire
+2026-01-07 16:43:29: Spreading fire...
+2026-01-07 16:43:29: Updating burn time
+2026-01-07 16:43:29: Finished updating burn time
+2026-01-07 16:43:29: Finished spreading fire
+2026-01-07 16:43:30: Spreading fire...
+2026-01-07 16:43:30: Updating burn time
+2026-01-07 16:43:30: Finished updating burn time
+2026-01-07 16:43:30: Finished spreading fire
+2026-01-07 16:43:31: Spreading fire...
+2026-01-07 16:43:31: Updating burn time
+2026-01-07 16:43:31: Finished updating burn time
+2026-01-07 16:43:31: Finished spreading fire
+2026-01-07 16:43:32: Spreading fire...
+2026-01-07 16:43:32: Updating burn time
+2026-01-07 16:43:32: Finished updating burn time
+2026-01-07 16:43:32: Finished spreading fire
+2026-01-07 16:43:33: Spreading fire...
+2026-01-07 16:43:33: Updating burn time
+2026-01-07 16:43:33: Finished updating burn time
+2026-01-07 16:43:33: Finished spreading fire
+2026-01-07 16:43:34: Spreading fire...
+2026-01-07 16:43:34: Updating burn time
+2026-01-07 16:43:34: Finished updating burn time
+2026-01-07 16:43:34: Finished spreading fire
+2026-01-07 16:43:35: Spreading fire...
+2026-01-07 16:43:35: Updating burn time
+2026-01-07 16:43:35: Finished updating burn time
+2026-01-07 16:43:35: Finished spreading fire
+2026-01-07 16:43:36: Spreading fire...
+2026-01-07 16:43:36: Updating burn time
+2026-01-07 16:43:36: Finished updating burn time
+2026-01-07 16:43:36: Finished spreading fire
+2026-01-07 16:43:37: Spreading fire...
+2026-01-07 16:43:37: Updating burn time
+2026-01-07 16:43:37: Finished updating burn time
+2026-01-07 16:43:37: Finished spreading fire
+2026-01-07 16:43:38: Spreading fire...
+2026-01-07 16:43:38: Updating burn time
+2026-01-07 16:43:38: Finished updating burn time
+2026-01-07 16:43:38: Finished spreading fire
+2026-01-07 16:43:39: Spreading fire...
+2026-01-07 16:43:39: Updating burn time
+2026-01-07 16:43:39: Finished updating burn time
+2026-01-07 16:43:39: Finished spreading fire
+2026-01-07 16:43:40: Spreading fire...
+2026-01-07 16:43:40: Updating burn time
+2026-01-07 16:43:40: Finished updating burn time
+2026-01-07 16:43:40: Finished spreading fire
+2026-01-07 16:43:41: Spreading fire...
+2026-01-07 16:43:41: Updating burn time
+2026-01-07 16:43:41: Finished updating burn time
+2026-01-07 16:43:41: Finished spreading fire
+2026-01-07 16:43:42: Spreading fire...
+2026-01-07 16:43:42: Updating burn time
+2026-01-07 16:43:42: Finished updating burn time
+2026-01-07 16:43:42: Finished spreading fire
+2026-01-07 16:43:43: Spreading fire...
+2026-01-07 16:43:43: Updating burn time
+2026-01-07 16:43:43: Finished updating burn time
+2026-01-07 16:43:43: Finished spreading fire
+2026-01-07 16:43:44: Spreading fire...
+2026-01-07 16:43:44: Updating burn time
+2026-01-07 16:43:44: Finished updating burn time
+2026-01-07 16:43:44: Finished spreading fire
+2026-01-07 16:43:45: Spreading fire...
+2026-01-07 16:43:45: Updating burn time
+2026-01-07 16:43:45: Finished updating burn time
+2026-01-07 16:43:45: Finished spreading fire
+2026-01-07 16:43:46: Spreading fire...
+2026-01-07 16:43:46: Updating burn time
+2026-01-07 16:43:46: Finished updating burn time
+2026-01-07 16:43:46: Finished spreading fire
+2026-01-07 16:43:47: Spreading fire...
+2026-01-07 16:43:47: Updating burn time
+2026-01-07 16:43:47: Finished updating burn time
+2026-01-07 16:43:47: Finished spreading fire
+2026-01-07 16:43:48: Spreading fire...
+2026-01-07 16:43:48: Updating burn time
+2026-01-07 16:43:48: Finished updating burn time
+2026-01-07 16:43:48: Finished spreading fire
+2026-01-07 16:43:49: Spreading fire...
+2026-01-07 16:43:49: Updating burn time
+2026-01-07 16:43:49: Finished updating burn time
+2026-01-07 16:43:49: Finished spreading fire
+2026-01-07 16:43:50: Spreading fire...
+2026-01-07 16:43:50: Updating burn time
+2026-01-07 16:43:50: Finished updating burn time
+2026-01-07 16:43:50: Finished spreading fire
+2026-01-07 16:43:51: Spreading fire...
+2026-01-07 16:43:51: Updating burn time
+2026-01-07 16:43:51: Finished updating burn time
+2026-01-07 16:43:51: Finished spreading fire
+2026-01-07 16:43:52: Spreading fire...
+2026-01-07 16:43:52: Updating burn time
+2026-01-07 16:43:52: Finished updating burn time
+2026-01-07 16:43:52: Finished spreading fire
+2026-01-07 16:43:53: Spreading fire...
+2026-01-07 16:43:53: Updating burn time
+2026-01-07 16:43:53: Finished updating burn time
+2026-01-07 16:43:53: Finished spreading fire
+2026-01-07 16:43:54: Spreading fire...
+2026-01-07 16:43:54: Updating burn time
+2026-01-07 16:43:54: Finished updating burn time
+2026-01-07 16:43:54: Finished spreading fire
+2026-01-07 16:43:55: Spreading fire...
+2026-01-07 16:43:55: Updating burn time
+2026-01-07 16:43:55: Finished updating burn time
+2026-01-07 16:43:55: Finished spreading fire
+2026-01-07 16:43:56: Spreading fire...
+2026-01-07 16:43:56: Updating burn time
+2026-01-07 16:43:56: Finished updating burn time
+2026-01-07 16:43:56: Finished spreading fire
+2026-01-07 16:43:57: Spreading fire...
+2026-01-07 16:43:57: Updating burn time
+2026-01-07 16:43:57: Finished updating burn time
+2026-01-07 16:43:57: Finished spreading fire
+2026-01-07 16:43:58: Spreading fire...
+2026-01-07 16:43:58: Updating burn time
+2026-01-07 16:43:58: Finished updating burn time
+2026-01-07 16:43:58: Finished spreading fire
+2026-01-07 16:43:59: Spreading fire...
+2026-01-07 16:43:59: Updating burn time
+2026-01-07 16:43:59: Finished updating burn time
+2026-01-07 16:43:59: Finished spreading fire
+2026-01-07 16:44:00: Spreading fire...
+2026-01-07 16:44:00: Updating burn time
+2026-01-07 16:44:00: Finished updating burn time
+2026-01-07 16:44:00: Finished spreading fire
+2026-01-07 16:44:01: Spreading fire...
+2026-01-07 16:44:01: Updating burn time
+2026-01-07 16:44:01: Finished updating burn time
+2026-01-07 16:44:01: Finished spreading fire
+2026-01-07 16:44:02: Spreading fire...
+2026-01-07 16:44:02: Updating burn time
+2026-01-07 16:44:02: Finished updating burn time
+2026-01-07 16:44:02: Finished spreading fire
+2026-01-07 16:44:03: Spreading fire...
+2026-01-07 16:44:03: Updating burn time
+2026-01-07 16:44:03: Finished updating burn time
+2026-01-07 16:44:03: Finished spreading fire
+2026-01-07 16:44:04: Spreading fire...
+2026-01-07 16:44:04: Updating burn time
+2026-01-07 16:44:04: Finished updating burn time
+2026-01-07 16:44:04: Finished spreading fire
+2026-01-07 16:44:05: Spreading fire...
+2026-01-07 16:44:05: Updating burn time
+2026-01-07 16:44:05: Finished updating burn time
+2026-01-07 16:44:05: Finished spreading fire
+2026-01-07 16:44:06: Spreading fire...
+2026-01-07 16:44:06: Updating burn time
+2026-01-07 16:44:06: Finished updating burn time
+2026-01-07 16:44:06: Finished spreading fire
+2026-01-07 16:44:07: Spreading fire...
+2026-01-07 16:44:07: Updating burn time
+2026-01-07 16:44:07: Finished updating burn time
+2026-01-07 16:44:07: Finished spreading fire
+2026-01-07 16:44:08: Spreading fire...
+2026-01-07 16:44:08: Updating burn time
+2026-01-07 16:44:08: Finished updating burn time
+2026-01-07 16:44:08: Finished spreading fire
+2026-01-07 16:44:09: Spreading fire...
+2026-01-07 16:44:09: Updating burn time
+2026-01-07 16:44:09: Finished updating burn time
+2026-01-07 16:44:09: Finished spreading fire
+2026-01-07 16:44:10: Spreading fire...
+2026-01-07 16:44:10: Updating burn time
+2026-01-07 16:44:10: Finished updating burn time
+2026-01-07 16:44:10: Finished spreading fire
+2026-01-07 16:44:11: Spreading fire...
+2026-01-07 16:44:11: Updating burn time
+2026-01-07 16:44:11: Finished updating burn time
+2026-01-07 16:44:11: Finished spreading fire
+2026-01-07 16:44:12: Spreading fire...
+2026-01-07 16:44:12: Updating burn time
+2026-01-07 16:44:12: Finished updating burn time
+2026-01-07 16:44:12: Finished spreading fire
+2026-01-07 16:44:13: Spreading fire...
+2026-01-07 16:44:13: Updating burn time
+2026-01-07 16:44:13: Finished updating burn time
+2026-01-07 16:44:13: Finished spreading fire
+2026-01-07 16:44:14: Spreading fire...
+2026-01-07 16:44:14: Updating burn time
+2026-01-07 16:44:14: Finished updating burn time
+2026-01-07 16:44:14: Finished spreading fire
+2026-01-07 16:44:15: Spreading fire...
+2026-01-07 16:44:15: Updating burn time
+2026-01-07 16:44:15: Finished updating burn time
+2026-01-07 16:44:15: Finished spreading fire
+2026-01-07 16:44:16: Spreading fire...
+2026-01-07 16:44:16: Updating burn time
+2026-01-07 16:44:16: Finished updating burn time
+2026-01-07 16:44:16: Finished spreading fire
+2026-01-07 16:44:17: Spreading fire...
+2026-01-07 16:44:17: Updating burn time
+2026-01-07 16:44:17: Finished updating burn time
+2026-01-07 16:44:17: Finished spreading fire
+2026-01-07 16:44:18: Spreading fire...
+2026-01-07 16:44:18: Updating burn time
+2026-01-07 16:44:18: Finished updating burn time
+2026-01-07 16:44:18: Finished spreading fire
+2026-01-07 16:44:19: Spreading fire...
+2026-01-07 16:44:19: Updating burn time
+2026-01-07 16:44:19: Finished updating burn time
+2026-01-07 16:44:19: Finished spreading fire
+2026-01-07 16:44:20: Spreading fire...
+2026-01-07 16:44:20: Updating burn time
+2026-01-07 16:44:20: Finished updating burn time
+2026-01-07 16:44:20: Finished spreading fire
+2026-01-07 16:44:21: Spreading fire...
+2026-01-07 16:44:21: Updating burn time
+2026-01-07 16:44:21: Finished updating burn time
+2026-01-07 16:44:21: Finished spreading fire
+2026-01-07 16:44:22: Spreading fire...
+2026-01-07 16:44:22: Updating burn time
+2026-01-07 16:44:22: Finished updating burn time
+2026-01-07 16:44:22: Finished spreading fire
+2026-01-07 16:44:23: Spreading fire...
+2026-01-07 16:44:23: Updating burn time
+2026-01-07 16:44:23: Finished updating burn time
+2026-01-07 16:44:23: Finished spreading fire
+2026-01-07 16:44:24: Spreading fire...
+2026-01-07 16:44:24: Updating burn time
+2026-01-07 16:44:24: Finished updating burn time
+2026-01-07 16:44:24: Finished spreading fire
+2026-01-07 16:44:25: Spreading fire...
+2026-01-07 16:44:25: Updating burn time
+2026-01-07 16:44:25: Finished updating burn time
+2026-01-07 16:44:25: Finished spreading fire
+2026-01-07 16:44:26: Spreading fire...
+2026-01-07 16:44:26: Updating burn time
+2026-01-07 16:44:26: Finished updating burn time
+2026-01-07 16:44:26: Finished spreading fire
+2026-01-07 16:44:27: Spreading fire...
+2026-01-07 16:44:27: Updating burn time
+2026-01-07 16:44:27: Finished updating burn time
+2026-01-07 16:44:27: Finished spreading fire
+2026-01-07 16:44:57: loading instructions
+2026-01-07 16:44:57: Loaded instructions with values: n=100, m=100, k=5, spread=0.324, burnTicks=4, seed=2375047809945000
+2026-01-07 16:44:58: Generating forest...
+2026-01-07 16:44:58: Generating grass tiles
+2026-01-07 16:44:58: Generating beautiful trees
+2026-01-07 16:44:58: Successfully generated forest
+2026-01-07 16:44:58: Starting ignition...
+2026-01-07 16:44:58: Finished ignition
+2026-01-07 16:44:59: Spreading fire...
+2026-01-07 16:44:59: Updating burn time
+2026-01-07 16:44:59: Finished updating burn time
+2026-01-07 16:44:59: Finished spreading fire
+2026-01-07 16:45:00: Spreading fire...
+2026-01-07 16:45:00: Updating burn time
+2026-01-07 16:45:00: Finished updating burn time
+2026-01-07 16:45:00: Finished spreading fire
+2026-01-07 16:45:01: Spreading fire...
+2026-01-07 16:45:01: Updating burn time
+2026-01-07 16:45:01: Finished updating burn time
+2026-01-07 16:45:01: Finished spreading fire
+2026-01-07 16:45:02: Spreading fire...
+2026-01-07 16:45:02: Updating burn time
+2026-01-07 16:45:02: Finished updating burn time
+2026-01-07 16:45:02: Finished spreading fire
+2026-01-07 16:45:03: Spreading fire...
+2026-01-07 16:45:03: Updating burn time
+2026-01-07 16:45:03: Finished updating burn time
+2026-01-07 16:45:03: Finished spreading fire
+2026-01-07 16:45:04: Spreading fire...
+2026-01-07 16:45:04: Updating burn time
+2026-01-07 16:45:04: Finished updating burn time
+2026-01-07 16:45:04: Finished spreading fire
+2026-01-07 16:45:05: Spreading fire...
+2026-01-07 16:45:05: Updating burn time
+2026-01-07 16:45:05: Finished updating burn time
+2026-01-07 16:45:05: Finished spreading fire
+2026-01-07 16:45:06: Spreading fire...
+2026-01-07 16:45:06: Updating burn time
+2026-01-07 16:45:06: Finished updating burn time
+2026-01-07 16:45:06: Finished spreading fire
+2026-01-07 16:45:07: Spreading fire...
+2026-01-07 16:45:07: Updating burn time
+2026-01-07 16:45:07: Finished updating burn time
+2026-01-07 16:45:07: Finished spreading fire
+2026-01-07 16:45:08: Spreading fire...
+2026-01-07 16:45:08: Updating burn time
+2026-01-07 16:45:08: Finished updating burn time
+2026-01-07 16:45:08: Finished spreading fire
+2026-01-07 16:45:09: Spreading fire...
+2026-01-07 16:45:09: Updating burn time
+2026-01-07 16:45:09: Finished updating burn time
+2026-01-07 16:45:09: Finished spreading fire
