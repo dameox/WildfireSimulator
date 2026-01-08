@@ -126,4 +126,15 @@ public class WalkAlgorithm {
         Logger.log("Finished updating burn time");
     }
 
+    public void restartSimulation(){
+        Grid.treePositions.clear();
+        Grid.burningPositions.clear();
+        count=0;
+        for(int i=0;i<TextParser.n;i++){
+            for(int j=0;j<TextParser.m;j++){
+                Grid.grid[i][j].tileState=TileState.EMPTY;
+            }
+        }
+        generateForest();
+    }
 }

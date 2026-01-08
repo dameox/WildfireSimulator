@@ -3,9 +3,31 @@ import java.awt.*;
 
 public class VisualRenderer extends JFrame {
     JPanel[][] panelTiles;
+    JPanel buttonPanel;
+    JButton startButton;
+    private Timer simulationTimer;
+    JLabel stepLabel;
+    int step = 0;
+
     public VisualRenderer(){
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setTitle("Wildfire Simulator");
+        buttonPanel = new JPanel();
+        startButton = new JButton("Start");
+        stepLabel = new JLabel("Step: 0");
+        stepLabel.setFont(new Font("Serif", Font.BOLD, 12));
+        buttonPanel.setPreferredSize(new Dimension(100, 100));
+        startButton.setPreferredSize(new Dimension(100, 50));
+        startButton.addActionListener(e -> {
+            if (simulationTimer != null) {
+                simulationTimer.start();
+                startButton.setEnabled(false);
+            }
+        });
+
+        buttonPanel.add(startButton);
+        buttonPanel.add(stepLabel);
+        add(buttonPanel, BorderLayout.SOUTH);
         panelTiles = new JPanel[TextParser.n][TextParser.m];
         JPanel gridPanel = new JPanel(new GridLayout(TextParser.n, TextParser.m, 1, 1));
 
@@ -40,8 +62,20 @@ public class VisualRenderer extends JFrame {
                 }
             }
         }
+        step++;
+        stepLabel.setText("Step: " + step);
         this.getContentPane().validate();
         this.getContentPane().repaint();
+    }
+
+    public void showFinishBox(){
+        JOptionPane.showMessageDialog(null, "Simulation finished!");
+        step=0;
+        startButton.setEnabled(true);
+    }
+
+    public void startTimer(Timer timer) {
+        simulationTimer = timer;
     }
 
 }
