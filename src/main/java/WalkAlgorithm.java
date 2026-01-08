@@ -60,11 +60,11 @@ public class WalkAlgorithm {
         Logger.log("Successfully generated forest");
     }
 
-    public void startIgnition(int k){
+    public void startIgnition(){
         ArrayList<Point> treePositions = Grid.treePositions;
         Collections.shuffle(treePositions);
         Logger.log("Starting ignition...");
-        for(int i=0;i<k;i++){
+        for(int i=0;i<TextParser.k;i++){
             Point p = treePositions.get(i);
             Grid.grid[p.x][p.y].tileState=TileState.BURNING;
             Grid.grid[p.x][p.y].burnTime=1;
@@ -135,6 +135,5 @@ public class WalkAlgorithm {
                 Grid.grid[i][j].tileState=TileState.EMPTY;
             }
         }
-        generateForest();
     }
 }

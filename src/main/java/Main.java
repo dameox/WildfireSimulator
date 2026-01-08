@@ -13,11 +13,11 @@ public class Main {
 
 
 
-        Timer timer = new Timer(20, null);
+        Timer timer = new Timer(200, null);
         timer.addActionListener(e -> {
             if(timeCount==0){
                 timeCount++;
-                algo.startIgnition(TextParser.k);
+                algo.startIgnition();
                 vr.updateRender();
             } else {
                 algo.spreadFire(TextParser.n, TextParser.m, TextParser.spread, TextParser.burnTicks);
@@ -27,6 +27,7 @@ public class Main {
                     timer.stop();
                     vr.showFinishBox();
                     algo.restartSimulation();
+                    algo.generateForest();
                     vr.updateRender();
                 }
             }
