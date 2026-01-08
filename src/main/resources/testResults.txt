@@ -1,0 +1,31 @@
+==========================================
+WILD FIRE SIMULATION TEST
+==========================================
+
+Grid scaling test with k=1
+
+test parameters: n=50 m=50 k=1 tests=10
+avg ticks: 80.8
+avg absolute time: 7.5 ms
+
+test parameters: n=100 m=100 k=1 tests=10
+avg ticks: 158.2
+avg absolute time: 7.4 ms
+
+test parameters: n=200 m=200 k=1 tests=10
+avg ticks: 317.8
+avg absolute time: 33.8 ms
+
+Ignition points test with 100x100 grid)
+test parameters: n=100 m=100 k=5 tests=10
+avg ticks: 110.1
+avg absolute time: 9.0 ms
+
+test parameters: n=100 m=100 k=10 tests=10
+avg ticks: 85.3
+avg absolute time: 6.7 ms
+
+test parameters: n=100 m=100 k=50 tests=10
+avg ticks: 55.3
+avg absolute time: 4.2 ms
+
