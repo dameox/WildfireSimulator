@@ -4,7 +4,7 @@ public class Testing {
 
         public static void main(String[] args) {
 
-            try (PrintWriter out = new PrintWriter(new FileWriter(System.getProperty("user.dir") + "/src/main/resources/testResults.txt"))) {
+            try (PrintWriter out = new PrintWriter(new FileWriter("testResults.txt"))) {
             WalkAlgorithm algo = new WalkAlgorithm();
             int tests=10;
             out.println("==========================================");
@@ -29,6 +29,8 @@ public class Testing {
 
         }
 
+        // runs tests with the passed parameters a number of times (specified with the int tests parameter) and
+        // writes the average ticks and average absolute time it took.
         public static void runBatch(WalkAlgorithm algo, int n, int m,int k, int tests, PrintWriter out) {
             long sumTicks = 0;
             long sumTime =0;

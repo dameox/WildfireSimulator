@@ -9,6 +9,7 @@ public class VisualRenderer extends JFrame {
     JLabel stepLabel;
     int step = 0;
 
+    // constructor to set up the basic visual elements
     public VisualRenderer(){
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setTitle("Wildfire Simulator");
@@ -48,6 +49,7 @@ public class VisualRenderer extends JFrame {
         setVisible(true);
     }
 
+    // repaints the visual elements to match game logic
     public void updateRender(){
         for(int i = 0; i < TextParser.n; i++) {
             for(int j = 0; j < TextParser.m; j++) {
@@ -68,12 +70,14 @@ public class VisualRenderer extends JFrame {
         this.getContentPane().repaint();
     }
 
+    // shows a simple message box after finishing the simulation
     public void showFinishBox(){
         JOptionPane.showMessageDialog(null, "Simulation finished!");
         step=0;
         startButton.setEnabled(true);
     }
 
+    // connects timer in Main class and timer for the visuals
     public void startTimer(Timer timer) {
         simulationTimer = timer;
     }

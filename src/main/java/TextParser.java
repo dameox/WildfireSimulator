@@ -10,10 +10,11 @@ public class TextParser {
     static int burnTicks = 5;
     static long seed = System.nanoTime();
 
+    // sets the values found in config instructions.txt as starting values, if none sets default
     public static void loadInstruction(){
         Logger.log("loading instructions");
         try{
-            File f = new File( System.getProperty("user.dir") + "/src/main/resources/instructions.txt");
+            File f = new File("instructions.txt");
             Scanner sc = new Scanner(f);
 
             if(sc.hasNextInt()){ n = sc.nextInt();}

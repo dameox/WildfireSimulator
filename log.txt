@@ -1,0 +1,1420 @@
+2026-01-08 23:52:32: loading instructions
+2026-01-08 23:52:32: Loaded instructions with values: n=50, m=50, k=1, spread=0.3, burnTicks=5, seed=2487109780028400
+2026-01-08 23:52:33: Generating forest...
+2026-01-08 23:52:33: Generating grass tiles
+2026-01-08 23:52:33: Generating beautiful trees
+2026-01-08 23:52:33: Successfully generated forest
+2026-01-08 23:52:35: Starting ignition...
+2026-01-08 23:52:35: Finished ignition
+2026-01-08 23:52:36: Spreading fire...
+2026-01-08 23:52:36: Updating burn time
+2026-01-08 23:52:36: Finished updating burn time
+2026-01-08 23:52:36: Finished spreading fire
+2026-01-08 23:52:36: Spreading fire...
+2026-01-08 23:52:36: Updating burn time
+2026-01-08 23:52:36: Finished updating burn time
+2026-01-08 23:52:36: Finished spreading fire
+2026-01-08 23:52:36: Spreading fire...
+2026-01-08 23:52:36: Updating burn time
+2026-01-08 23:52:36: Finished updating burn time
+2026-01-08 23:52:36: Finished spreading fire
+2026-01-08 23:52:36: Spreading fire...
+2026-01-08 23:52:36: Updating burn time
+2026-01-08 23:52:36: Finished updating burn time
+2026-01-08 23:52:36: Finished spreading fire
+2026-01-08 23:52:36: Spreading fire...
+2026-01-08 23:52:36: Updating burn time
+2026-01-08 23:52:36: Finished updating burn time
+2026-01-08 23:52:36: Finished spreading fire
+2026-01-08 23:52:36: Spreading fire...
+2026-01-08 23:52:36: Updating burn time
+2026-01-08 23:52:36: Finished updating burn time
+2026-01-08 23:52:36: Finished spreading fire
+2026-01-08 23:52:36: Spreading fire...
+2026-01-08 23:52:36: Updating burn time
+2026-01-08 23:52:36: Finished updating burn time
+2026-01-08 23:52:36: Finished spreading fire
+2026-01-08 23:52:36: Spreading fire...
+2026-01-08 23:52:36: Updating burn time
+2026-01-08 23:52:36: Finished updating burn time
+2026-01-08 23:52:36: Finished spreading fire
+2026-01-08 23:52:36: Spreading fire...
+2026-01-08 23:52:36: Updating burn time
+2026-01-08 23:52:36: Finished updating burn time
+2026-01-08 23:52:36: Finished spreading fire
+2026-01-08 23:52:37: Spreading fire...
+2026-01-08 23:52:37: Updating burn time
+2026-01-08 23:52:37: Finished updating burn time
+2026-01-08 23:52:37: Finished spreading fire
+2026-01-08 23:52:37: Spreading fire...
+2026-01-08 23:52:37: Updating burn time
+2026-01-08 23:52:37: Finished updating burn time
+2026-01-08 23:52:37: Finished spreading fire
+2026-01-08 23:52:37: Spreading fire...
+2026-01-08 23:52:37: Updating burn time
+2026-01-08 23:52:37: Finished updating burn time
+2026-01-08 23:52:37: Finished spreading fire
+2026-01-08 23:52:37: Spreading fire...
+2026-01-08 23:52:37: Updating burn time
+2026-01-08 23:52:37: Finished updating burn time
+2026-01-08 23:52:37: Finished spreading fire
+2026-01-08 23:52:37: Spreading fire...
+2026-01-08 23:52:37: Updating burn time
+2026-01-08 23:52:37: Finished updating burn time
+2026-01-08 23:52:37: Finished spreading fire
+2026-01-08 23:52:37: Spreading fire...
+2026-01-08 23:52:37: Updating burn time
+2026-01-08 23:52:37: Finished updating burn time
+2026-01-08 23:52:37: Finished spreading fire
+2026-01-08 23:52:37: Spreading fire...
+2026-01-08 23:52:37: Updating burn time
+2026-01-08 23:52:37: Finished updating burn time
+2026-01-08 23:52:37: Finished spreading fire
+2026-01-08 23:52:37: Spreading fire...
+2026-01-08 23:52:37: Updating burn time
+2026-01-08 23:52:37: Finished updating burn time
+2026-01-08 23:52:37: Finished spreading fire
+2026-01-08 23:52:37: Spreading fire...
+2026-01-08 23:52:37: Updating burn time
+2026-01-08 23:52:37: Finished updating burn time
+2026-01-08 23:52:37: Finished spreading fire
+2026-01-08 23:52:38: Spreading fire...
+2026-01-08 23:52:38: Updating burn time
+2026-01-08 23:52:38: Finished updating burn time
+2026-01-08 23:52:38: Finished spreading fire
+2026-01-08 23:52:38: Spreading fire...
+2026-01-08 23:52:38: Updating burn time
+2026-01-08 23:52:38: Finished updating burn time
+2026-01-08 23:52:38: Finished spreading fire
+2026-01-08 23:52:38: Spreading fire...
+2026-01-08 23:52:38: Updating burn time
+2026-01-08 23:52:38: Finished updating burn time
+2026-01-08 23:52:38: Finished spreading fire
+2026-01-08 23:52:38: Spreading fire...
+2026-01-08 23:52:38: Updating burn time
+2026-01-08 23:52:38: Finished updating burn time
+2026-01-08 23:52:38: Finished spreading fire
+2026-01-08 23:52:38: Spreading fire...
+2026-01-08 23:52:38: Updating burn time
+2026-01-08 23:52:38: Finished updating burn time
+2026-01-08 23:52:38: Finished spreading fire
+2026-01-08 23:52:38: Spreading fire...
+2026-01-08 23:52:38: Updating burn time
+2026-01-08 23:52:38: Finished updating burn time
+2026-01-08 23:52:38: Finished spreading fire
+2026-01-08 23:52:38: Spreading fire...
+2026-01-08 23:52:38: Updating burn time
+2026-01-08 23:52:38: Finished updating burn time
+2026-01-08 23:52:38: Finished spreading fire
+2026-01-08 23:52:38: Spreading fire...
+2026-01-08 23:52:38: Updating burn time
+2026-01-08 23:52:38: Finished updating burn time
+2026-01-08 23:52:38: Finished spreading fire
+2026-01-08 23:52:38: Spreading fire...
+2026-01-08 23:52:38: Updating burn time
+2026-01-08 23:52:38: Finished updating burn time
+2026-01-08 23:52:38: Finished spreading fire
+2026-01-08 23:52:39: Spreading fire...
+2026-01-08 23:52:39: Updating burn time
+2026-01-08 23:52:39: Finished updating burn time
+2026-01-08 23:52:39: Finished spreading fire
+2026-01-08 23:52:39: Spreading fire...
+2026-01-08 23:52:39: Updating burn time
+2026-01-08 23:52:39: Finished updating burn time
+2026-01-08 23:52:39: Finished spreading fire
+2026-01-08 23:52:39: Spreading fire...
+2026-01-08 23:52:39: Updating burn time
+2026-01-08 23:52:39: Finished updating burn time
+2026-01-08 23:52:39: Finished spreading fire
+2026-01-08 23:52:39: Spreading fire...
+2026-01-08 23:52:39: Updating burn time
+2026-01-08 23:52:39: Finished updating burn time
+2026-01-08 23:52:39: Finished spreading fire
+2026-01-08 23:52:39: Spreading fire...
+2026-01-08 23:52:39: Updating burn time
+2026-01-08 23:52:39: Finished updating burn time
+2026-01-08 23:52:39: Finished spreading fire
+2026-01-08 23:52:39: Spreading fire...
+2026-01-08 23:52:39: Updating burn time
+2026-01-08 23:52:39: Finished updating burn time
+2026-01-08 23:52:39: Finished spreading fire
+2026-01-08 23:52:39: Spreading fire...
+2026-01-08 23:52:39: Updating burn time
+2026-01-08 23:52:39: Finished updating burn time
+2026-01-08 23:52:39: Finished spreading fire
+2026-01-08 23:52:39: Spreading fire...
+2026-01-08 23:52:39: Updating burn time
+2026-01-08 23:52:39: Finished updating burn time
+2026-01-08 23:52:39: Finished spreading fire
+2026-01-08 23:52:39: Spreading fire...
+2026-01-08 23:52:39: Updating burn time
+2026-01-08 23:52:39: Finished updating burn time
+2026-01-08 23:52:39: Finished spreading fire
+2026-01-08 23:52:40: Spreading fire...
+2026-01-08 23:52:40: Updating burn time
+2026-01-08 23:52:40: Finished updating burn time
+2026-01-08 23:52:40: Finished spreading fire
+2026-01-08 23:52:40: Spreading fire...
+2026-01-08 23:52:40: Updating burn time
+2026-01-08 23:52:40: Finished updating burn time
+2026-01-08 23:52:40: Finished spreading fire
+2026-01-08 23:52:40: Spreading fire...
+2026-01-08 23:52:40: Updating burn time
+2026-01-08 23:52:40: Finished updating burn time
+2026-01-08 23:52:40: Finished spreading fire
+2026-01-08 23:52:40: Spreading fire...
+2026-01-08 23:52:40: Updating burn time
+2026-01-08 23:52:40: Finished updating burn time
+2026-01-08 23:52:40: Finished spreading fire
+2026-01-08 23:52:40: Spreading fire...
+2026-01-08 23:52:40: Updating burn time
+2026-01-08 23:52:40: Finished updating burn time
+2026-01-08 23:52:40: Finished spreading fire
+2026-01-08 23:52:40: Spreading fire...
+2026-01-08 23:52:40: Updating burn time
+2026-01-08 23:52:40: Finished updating burn time
+2026-01-08 23:52:40: Finished spreading fire
+2026-01-08 23:52:40: Spreading fire...
+2026-01-08 23:52:40: Updating burn time
+2026-01-08 23:52:40: Finished updating burn time
+2026-01-08 23:52:40: Finished spreading fire
+2026-01-08 23:52:40: Spreading fire...
+2026-01-08 23:52:40: Updating burn time
+2026-01-08 23:52:40: Finished updating burn time
+2026-01-08 23:52:40: Finished spreading fire
+2026-01-08 23:52:40: Spreading fire...
+2026-01-08 23:52:40: Updating burn time
+2026-01-08 23:52:40: Finished updating burn time
+2026-01-08 23:52:40: Finished spreading fire
+2026-01-08 23:52:41: Spreading fire...
+2026-01-08 23:52:41: Updating burn time
+2026-01-08 23:52:41: Finished updating burn time
+2026-01-08 23:52:41: Finished spreading fire
+2026-01-08 23:52:41: Spreading fire...
+2026-01-08 23:52:41: Updating burn time
+2026-01-08 23:52:41: Finished updating burn time
+2026-01-08 23:52:41: Finished spreading fire
+2026-01-08 23:52:41: Spreading fire...
+2026-01-08 23:52:41: Updating burn time
+2026-01-08 23:52:41: Finished updating burn time
+2026-01-08 23:52:41: Finished spreading fire
+2026-01-08 23:52:41: Spreading fire...
+2026-01-08 23:52:41: Updating burn time
+2026-01-08 23:52:41: Finished updating burn time
+2026-01-08 23:52:41: Finished spreading fire
+2026-01-08 23:52:41: Spreading fire...
+2026-01-08 23:52:41: Updating burn time
+2026-01-08 23:52:41: Finished updating burn time
+2026-01-08 23:52:41: Finished spreading fire
+2026-01-08 23:52:41: Spreading fire...
+2026-01-08 23:52:41: Updating burn time
+2026-01-08 23:52:41: Finished updating burn time
+2026-01-08 23:52:41: Finished spreading fire
+2026-01-08 23:52:41: Spreading fire...
+2026-01-08 23:52:41: Updating burn time
+2026-01-08 23:52:41: Finished updating burn time
+2026-01-08 23:52:41: Finished spreading fire
+2026-01-08 23:52:41: Spreading fire...
+2026-01-08 23:52:41: Updating burn time
+2026-01-08 23:52:41: Finished updating burn time
+2026-01-08 23:52:41: Finished spreading fire
+2026-01-08 23:52:41: Spreading fire...
+2026-01-08 23:52:41: Updating burn time
+2026-01-08 23:52:41: Finished updating burn time
+2026-01-08 23:52:41: Finished spreading fire
+2026-01-08 23:52:42: Spreading fire...
+2026-01-08 23:52:42: Updating burn time
+2026-01-08 23:52:42: Finished updating burn time
+2026-01-08 23:52:42: Finished spreading fire
+2026-01-08 23:52:42: Spreading fire...
+2026-01-08 23:52:42: Updating burn time
+2026-01-08 23:52:42: Finished updating burn time
+2026-01-08 23:52:42: Finished spreading fire
+2026-01-08 23:52:42: Spreading fire...
+2026-01-08 23:52:42: Updating burn time
+2026-01-08 23:52:42: Finished updating burn time
+2026-01-08 23:52:42: Finished spreading fire
+2026-01-08 23:52:42: Spreading fire...
+2026-01-08 23:52:42: Updating burn time
+2026-01-08 23:52:42: Finished updating burn time
+2026-01-08 23:52:42: Finished spreading fire
+2026-01-08 23:52:42: Spreading fire...
+2026-01-08 23:52:42: Updating burn time
+2026-01-08 23:52:42: Finished updating burn time
+2026-01-08 23:52:42: Finished spreading fire
+2026-01-08 23:52:42: Spreading fire...
+2026-01-08 23:52:42: Updating burn time
+2026-01-08 23:52:42: Finished updating burn time
+2026-01-08 23:52:42: Finished spreading fire
+2026-01-08 23:52:42: Spreading fire...
+2026-01-08 23:52:42: Updating burn time
+2026-01-08 23:52:42: Finished updating burn time
+2026-01-08 23:52:42: Finished spreading fire
+2026-01-08 23:52:42: Spreading fire...
+2026-01-08 23:52:42: Updating burn time
+2026-01-08 23:52:42: Finished updating burn time
+2026-01-08 23:52:42: Finished spreading fire
+2026-01-08 23:52:42: Spreading fire...
+2026-01-08 23:52:42: Updating burn time
+2026-01-08 23:52:42: Finished updating burn time
+2026-01-08 23:52:42: Finished spreading fire
+2026-01-08 23:52:43: Spreading fire...
+2026-01-08 23:52:43: Updating burn time
+2026-01-08 23:52:43: Finished updating burn time
+2026-01-08 23:52:43: Finished spreading fire
+2026-01-08 23:52:43: Spreading fire...
+2026-01-08 23:52:43: Updating burn time
+2026-01-08 23:52:43: Finished updating burn time
+2026-01-08 23:52:43: Finished spreading fire
+2026-01-08 23:52:43: Spreading fire...
+2026-01-08 23:52:43: Updating burn time
+2026-01-08 23:52:43: Finished updating burn time
+2026-01-08 23:52:43: Finished spreading fire
+2026-01-08 23:52:43: Spreading fire...
+2026-01-08 23:52:43: Updating burn time
+2026-01-08 23:52:43: Finished updating burn time
+2026-01-08 23:52:43: Finished spreading fire
+2026-01-08 23:52:43: Spreading fire...
+2026-01-08 23:52:43: Updating burn time
+2026-01-08 23:52:43: Finished updating burn time
+2026-01-08 23:52:43: Finished spreading fire
+2026-01-08 23:52:43: Spreading fire...
+2026-01-08 23:52:43: Updating burn time
+2026-01-08 23:52:43: Finished updating burn time
+2026-01-08 23:52:43: Finished spreading fire
+2026-01-08 23:52:43: Spreading fire...
+2026-01-08 23:52:43: Updating burn time
+2026-01-08 23:52:43: Finished updating burn time
+2026-01-08 23:52:43: Finished spreading fire
+2026-01-08 23:52:43: Spreading fire...
+2026-01-08 23:52:43: Updating burn time
+2026-01-08 23:52:43: Finished updating burn time
+2026-01-08 23:52:43: Finished spreading fire
+2026-01-08 23:52:43: Spreading fire...
+2026-01-08 23:52:43: Updating burn time
+2026-01-08 23:52:43: Finished updating burn time
+2026-01-08 23:52:43: Finished spreading fire
+2026-01-08 23:52:44: Spreading fire...
+2026-01-08 23:52:44: Updating burn time
+2026-01-08 23:52:44: Finished updating burn time
+2026-01-08 23:52:44: Finished spreading fire
+2026-01-08 23:52:44: Spreading fire...
+2026-01-08 23:52:44: Updating burn time
+2026-01-08 23:52:44: Finished updating burn time
+2026-01-08 23:52:44: Finished spreading fire
+2026-01-08 23:52:44: Spreading fire...
+2026-01-08 23:52:44: Updating burn time
+2026-01-08 23:52:44: Finished updating burn time
+2026-01-08 23:52:44: Finished spreading fire
+2026-01-08 23:52:44: Spreading fire...
+2026-01-08 23:52:44: Updating burn time
+2026-01-08 23:52:44: Finished updating burn time
+2026-01-08 23:52:44: Finished spreading fire
+2026-01-08 23:52:44: Spreading fire...
+2026-01-08 23:52:44: Updating burn time
+2026-01-08 23:52:44: Finished updating burn time
+2026-01-08 23:52:44: Finished spreading fire
+2026-01-08 23:52:44: Spreading fire...
+2026-01-08 23:52:44: Updating burn time
+2026-01-08 23:52:44: Finished updating burn time
+2026-01-08 23:52:44: Finished spreading fire
+2026-01-08 23:52:44: Spreading fire...
+2026-01-08 23:52:44: Updating burn time
+2026-01-08 23:52:44: Finished updating burn time
+2026-01-08 23:52:44: Finished spreading fire
+2026-01-08 23:52:44: Spreading fire...
+2026-01-08 23:52:44: Updating burn time
+2026-01-08 23:52:44: Finished updating burn time
+2026-01-08 23:52:44: Finished spreading fire
+2026-01-08 23:52:44: Spreading fire...
+2026-01-08 23:52:44: Updating burn time
+2026-01-08 23:52:44: Finished updating burn time
+2026-01-08 23:52:44: Finished spreading fire
+2026-01-08 23:52:45: Spreading fire...
+2026-01-08 23:52:45: Updating burn time
+2026-01-08 23:52:45: Finished updating burn time
+2026-01-08 23:52:45: Finished spreading fire
+2026-01-08 23:52:45: Spreading fire...
+2026-01-08 23:52:45: Updating burn time
+2026-01-08 23:52:45: Finished updating burn time
+2026-01-08 23:52:45: Finished spreading fire
+2026-01-08 23:52:45: Spreading fire...
+2026-01-08 23:52:45: Updating burn time
+2026-01-08 23:52:45: Finished updating burn time
+2026-01-08 23:52:45: Finished spreading fire
+2026-01-08 23:52:45: Spreading fire...
+2026-01-08 23:52:45: Updating burn time
+2026-01-08 23:52:45: Finished updating burn time
+2026-01-08 23:52:45: Finished spreading fire
+2026-01-08 23:52:45: Spreading fire...
+2026-01-08 23:52:45: Updating burn time
+2026-01-08 23:52:45: Finished updating burn time
+2026-01-08 23:52:45: Finished spreading fire
+2026-01-08 23:52:45: Spreading fire...
+2026-01-08 23:52:45: Updating burn time
+2026-01-08 23:52:45: Finished updating burn time
+2026-01-08 23:52:45: Finished spreading fire
+2026-01-08 23:52:45: Spreading fire...
+2026-01-08 23:52:45: Updating burn time
+2026-01-08 23:52:45: Finished updating burn time
+2026-01-08 23:52:45: Finished spreading fire
+2026-01-08 23:52:45: Spreading fire...
+2026-01-08 23:52:45: Updating burn time
+2026-01-08 23:52:45: Finished updating burn time
+2026-01-08 23:52:45: Finished spreading fire
+2026-01-08 23:52:45: Spreading fire...
+2026-01-08 23:52:45: Updating burn time
+2026-01-08 23:52:45: Finished updating burn time
+2026-01-08 23:52:45: Finished spreading fire
+2026-01-08 23:52:46: Spreading fire...
+2026-01-08 23:52:46: Updating burn time
+2026-01-08 23:52:46: Finished updating burn time
+2026-01-08 23:52:46: Finished spreading fire
+2026-01-08 23:52:46: Spreading fire...
+2026-01-08 23:52:46: Updating burn time
+2026-01-08 23:52:46: Finished updating burn time
+2026-01-08 23:52:46: Finished spreading fire
+2026-01-08 23:52:46: Spreading fire...
+2026-01-08 23:52:46: Updating burn time
+2026-01-08 23:52:46: Finished updating burn time
+2026-01-08 23:52:46: Finished spreading fire
+2026-01-08 23:52:46: Spreading fire...
+2026-01-08 23:52:46: Updating burn time
+2026-01-08 23:52:46: Finished updating burn time
+2026-01-08 23:52:46: Finished spreading fire
+2026-01-08 23:52:46: Spreading fire...
+2026-01-08 23:52:46: Updating burn time
+2026-01-08 23:52:46: Finished updating burn time
+2026-01-08 23:52:46: Finished spreading fire
+2026-01-08 23:52:46: Spreading fire...
+2026-01-08 23:52:46: Updating burn time
+2026-01-08 23:52:46: Finished updating burn time
+2026-01-08 23:52:46: Finished spreading fire
+2026-01-08 23:52:46: Spreading fire...
+2026-01-08 23:52:46: Updating burn time
+2026-01-08 23:52:46: Finished updating burn time
+2026-01-08 23:52:46: Finished spreading fire
+2026-01-08 23:52:46: Spreading fire...
+2026-01-08 23:52:46: Updating burn time
+2026-01-08 23:52:46: Finished updating burn time
+2026-01-08 23:52:46: Finished spreading fire
+2026-01-08 23:52:54: Generating forest...
+2026-01-08 23:52:54: Generating grass tiles
+2026-01-08 23:52:54: Generating beautiful trees
+2026-01-08 23:52:54: Successfully generated forest
+2026-01-09 00:00:33: loading instructions
+2026-01-09 00:00:33: Loaded instructions with values: n=50, m=50, k=1, spread=0.3, burnTicks=5, seed=2487590865828000
+2026-01-09 00:00:34: Generating forest...
+2026-01-09 00:00:34: Generating grass tiles
+2026-01-09 00:00:34: Generating beautiful trees
+2026-01-09 00:00:34: Successfully generated forest
+2026-01-09 00:00:36: Starting ignition...
+2026-01-09 00:00:36: Finished ignition
+2026-01-09 00:00:36: Spreading fire...
+2026-01-09 00:00:36: Updating burn time
+2026-01-09 00:00:36: Finished updating burn time
+2026-01-09 00:00:36: Finished spreading fire
+2026-01-09 00:00:36: Spreading fire...
+2026-01-09 00:00:36: Updating burn time
+2026-01-09 00:00:36: Finished updating burn time
+2026-01-09 00:00:36: Finished spreading fire
+2026-01-09 00:00:36: Spreading fire...
+2026-01-09 00:00:36: Updating burn time
+2026-01-09 00:00:36: Finished updating burn time
+2026-01-09 00:00:36: Finished spreading fire
+2026-01-09 00:00:36: Spreading fire...
+2026-01-09 00:00:36: Updating burn time
+2026-01-09 00:00:36: Finished updating burn time
+2026-01-09 00:00:36: Finished spreading fire
+2026-01-09 00:00:36: Spreading fire...
+2026-01-09 00:00:36: Updating burn time
+2026-01-09 00:00:36: Finished updating burn time
+2026-01-09 00:00:36: Finished spreading fire
+2026-01-09 00:00:36: Spreading fire...
+2026-01-09 00:00:36: Updating burn time
+2026-01-09 00:00:36: Finished updating burn time
+2026-01-09 00:00:36: Finished spreading fire
+2026-01-09 00:00:36: Spreading fire...
+2026-01-09 00:00:36: Updating burn time
+2026-01-09 00:00:36: Finished updating burn time
+2026-01-09 00:00:36: Finished spreading fire
+2026-01-09 00:00:36: Spreading fire...
+2026-01-09 00:00:36: Updating burn time
+2026-01-09 00:00:36: Finished updating burn time
+2026-01-09 00:00:36: Finished spreading fire
+2026-01-09 00:00:37: Spreading fire...
+2026-01-09 00:00:37: Updating burn time
+2026-01-09 00:00:37: Finished updating burn time
+2026-01-09 00:00:37: Finished spreading fire
+2026-01-09 00:00:37: Spreading fire...
+2026-01-09 00:00:37: Updating burn time
+2026-01-09 00:00:37: Finished updating burn time
+2026-01-09 00:00:37: Finished spreading fire
+2026-01-09 00:00:37: Spreading fire...
+2026-01-09 00:00:37: Updating burn time
+2026-01-09 00:00:37: Finished updating burn time
+2026-01-09 00:00:37: Finished spreading fire
+2026-01-09 00:00:37: Spreading fire...
+2026-01-09 00:00:37: Updating burn time
+2026-01-09 00:00:37: Finished updating burn time
+2026-01-09 00:00:37: Finished spreading fire
+2026-01-09 00:00:37: Spreading fire...
+2026-01-09 00:00:37: Updating burn time
+2026-01-09 00:00:37: Finished updating burn time
+2026-01-09 00:00:37: Finished spreading fire
+2026-01-09 00:00:37: Spreading fire...
+2026-01-09 00:00:37: Updating burn time
+2026-01-09 00:00:37: Finished updating burn time
+2026-01-09 00:00:37: Finished spreading fire
+2026-01-09 00:00:37: Spreading fire...
+2026-01-09 00:00:37: Updating burn time
+2026-01-09 00:00:37: Finished updating burn time
+2026-01-09 00:00:37: Finished spreading fire
+2026-01-09 00:00:37: Spreading fire...
+2026-01-09 00:00:37: Updating burn time
+2026-01-09 00:00:37: Finished updating burn time
+2026-01-09 00:00:37: Finished spreading fire
+2026-01-09 00:00:37: Spreading fire...
+2026-01-09 00:00:37: Updating burn time
+2026-01-09 00:00:37: Finished updating burn time
+2026-01-09 00:00:37: Finished spreading fire
+2026-01-09 00:00:37: Spreading fire...
+2026-01-09 00:00:38: Updating burn time
+2026-01-09 00:00:38: Finished updating burn time
+2026-01-09 00:00:38: Finished spreading fire
+2026-01-09 00:00:38: Spreading fire...
+2026-01-09 00:00:38: Updating burn time
+2026-01-09 00:00:38: Finished updating burn time
+2026-01-09 00:00:38: Finished spreading fire
+2026-01-09 00:00:38: Spreading fire...
+2026-01-09 00:00:38: Updating burn time
+2026-01-09 00:00:38: Finished updating burn time
+2026-01-09 00:00:38: Finished spreading fire
+2026-01-09 00:00:38: Spreading fire...
+2026-01-09 00:00:38: Updating burn time
+2026-01-09 00:00:38: Finished updating burn time
+2026-01-09 00:00:38: Finished spreading fire
+2026-01-09 00:00:38: Spreading fire...
+2026-01-09 00:00:38: Updating burn time
+2026-01-09 00:00:38: Finished updating burn time
+2026-01-09 00:00:38: Finished spreading fire
+2026-01-09 00:00:38: Spreading fire...
+2026-01-09 00:00:38: Updating burn time
+2026-01-09 00:00:38: Finished updating burn time
+2026-01-09 00:00:38: Finished spreading fire
+2026-01-09 00:00:38: Spreading fire...
+2026-01-09 00:00:38: Updating burn time
+2026-01-09 00:00:38: Finished updating burn time
+2026-01-09 00:00:38: Finished spreading fire
+2026-01-09 00:00:38: Spreading fire...
+2026-01-09 00:00:38: Updating burn time
+2026-01-09 00:00:38: Finished updating burn time
+2026-01-09 00:00:38: Finished spreading fire
+2026-01-09 00:00:38: Spreading fire...
+2026-01-09 00:00:38: Updating burn time
+2026-01-09 00:00:38: Finished updating burn time
+2026-01-09 00:00:38: Finished spreading fire
+2026-01-09 00:00:38: Spreading fire...
+2026-01-09 00:00:38: Updating burn time
+2026-01-09 00:00:38: Finished updating burn time
+2026-01-09 00:00:38: Finished spreading fire
+2026-01-09 00:00:39: Spreading fire...
+2026-01-09 00:00:39: Updating burn time
+2026-01-09 00:00:39: Finished updating burn time
+2026-01-09 00:00:39: Finished spreading fire
+2026-01-09 00:00:39: Spreading fire...
+2026-01-09 00:00:39: Updating burn time
+2026-01-09 00:00:39: Finished updating burn time
+2026-01-09 00:00:39: Finished spreading fire
+2026-01-09 00:00:39: Spreading fire...
+2026-01-09 00:00:39: Updating burn time
+2026-01-09 00:00:39: Finished updating burn time
+2026-01-09 00:00:39: Finished spreading fire
+2026-01-09 00:00:39: Spreading fire...
+2026-01-09 00:00:39: Updating burn time
+2026-01-09 00:00:39: Finished updating burn time
+2026-01-09 00:00:39: Finished spreading fire
+2026-01-09 00:00:39: Spreading fire...
+2026-01-09 00:00:39: Updating burn time
+2026-01-09 00:00:39: Finished updating burn time
+2026-01-09 00:00:39: Finished spreading fire
+2026-01-09 00:00:39: Spreading fire...
+2026-01-09 00:00:39: Updating burn time
+2026-01-09 00:00:39: Finished updating burn time
+2026-01-09 00:00:39: Finished spreading fire
+2026-01-09 00:00:39: Spreading fire...
+2026-01-09 00:00:39: Updating burn time
+2026-01-09 00:00:39: Finished updating burn time
+2026-01-09 00:00:39: Finished spreading fire
+2026-01-09 00:00:39: Spreading fire...
+2026-01-09 00:00:39: Updating burn time
+2026-01-09 00:00:39: Finished updating burn time
+2026-01-09 00:00:39: Finished spreading fire
+2026-01-09 00:00:39: Spreading fire...
+2026-01-09 00:00:39: Updating burn time
+2026-01-09 00:00:39: Finished updating burn time
+2026-01-09 00:00:39: Finished spreading fire
+2026-01-09 00:00:40: Spreading fire...
+2026-01-09 00:00:40: Updating burn time
+2026-01-09 00:00:40: Finished updating burn time
+2026-01-09 00:00:40: Finished spreading fire
+2026-01-09 00:00:40: Spreading fire...
+2026-01-09 00:00:40: Updating burn time
+2026-01-09 00:00:40: Finished updating burn time
+2026-01-09 00:00:40: Finished spreading fire
+2026-01-09 00:00:40: Spreading fire...
+2026-01-09 00:00:40: Updating burn time
+2026-01-09 00:00:40: Finished updating burn time
+2026-01-09 00:00:40: Finished spreading fire
+2026-01-09 00:00:40: Spreading fire...
+2026-01-09 00:00:40: Updating burn time
+2026-01-09 00:00:40: Finished updating burn time
+2026-01-09 00:00:40: Finished spreading fire
+2026-01-09 00:00:40: Spreading fire...
+2026-01-09 00:00:40: Updating burn time
+2026-01-09 00:00:40: Finished updating burn time
+2026-01-09 00:00:40: Finished spreading fire
+2026-01-09 00:00:40: Spreading fire...
+2026-01-09 00:00:40: Updating burn time
+2026-01-09 00:00:40: Finished updating burn time
+2026-01-09 00:00:40: Finished spreading fire
+2026-01-09 00:00:40: Spreading fire...
+2026-01-09 00:00:40: Updating burn time
+2026-01-09 00:00:40: Finished updating burn time
+2026-01-09 00:00:40: Finished spreading fire
+2026-01-09 00:00:40: Spreading fire...
+2026-01-09 00:00:40: Updating burn time
+2026-01-09 00:00:40: Finished updating burn time
+2026-01-09 00:00:40: Finished spreading fire
+2026-01-09 00:00:40: Spreading fire...
+2026-01-09 00:00:40: Updating burn time
+2026-01-09 00:00:40: Finished updating burn time
+2026-01-09 00:00:40: Finished spreading fire
+2026-01-09 00:00:41: Spreading fire...
+2026-01-09 00:00:41: Updating burn time
+2026-01-09 00:00:41: Finished updating burn time
+2026-01-09 00:00:41: Finished spreading fire
+2026-01-09 00:00:41: Spreading fire...
+2026-01-09 00:00:41: Updating burn time
+2026-01-09 00:00:41: Finished updating burn time
+2026-01-09 00:00:41: Finished spreading fire
+2026-01-09 00:00:41: Spreading fire...
+2026-01-09 00:00:41: Updating burn time
+2026-01-09 00:00:41: Finished updating burn time
+2026-01-09 00:00:41: Finished spreading fire
+2026-01-09 00:00:41: Spreading fire...
+2026-01-09 00:00:41: Updating burn time
+2026-01-09 00:00:41: Finished updating burn time
+2026-01-09 00:00:41: Finished spreading fire
+2026-01-09 00:00:41: Spreading fire...
+2026-01-09 00:00:41: Updating burn time
+2026-01-09 00:00:41: Finished updating burn time
+2026-01-09 00:00:41: Finished spreading fire
+2026-01-09 00:00:41: Spreading fire...
+2026-01-09 00:00:41: Updating burn time
+2026-01-09 00:00:41: Finished updating burn time
+2026-01-09 00:00:41: Finished spreading fire
+2026-01-09 00:00:41: Spreading fire...
+2026-01-09 00:00:41: Updating burn time
+2026-01-09 00:00:41: Finished updating burn time
+2026-01-09 00:00:41: Finished spreading fire
+2026-01-09 00:00:41: Spreading fire...
+2026-01-09 00:00:41: Updating burn time
+2026-01-09 00:00:41: Finished updating burn time
+2026-01-09 00:00:41: Finished spreading fire
+2026-01-09 00:00:41: Spreading fire...
+2026-01-09 00:00:41: Updating burn time
+2026-01-09 00:00:41: Finished updating burn time
+2026-01-09 00:00:41: Finished spreading fire
+2026-01-09 00:00:42: Spreading fire...
+2026-01-09 00:00:42: Updating burn time
+2026-01-09 00:00:42: Finished updating burn time
+2026-01-09 00:00:42: Finished spreading fire
+2026-01-09 00:00:42: Spreading fire...
+2026-01-09 00:00:42: Updating burn time
+2026-01-09 00:00:42: Finished updating burn time
+2026-01-09 00:00:42: Finished spreading fire
+2026-01-09 00:00:42: Spreading fire...
+2026-01-09 00:00:42: Updating burn time
+2026-01-09 00:00:42: Finished updating burn time
+2026-01-09 00:00:42: Finished spreading fire
+2026-01-09 00:00:42: Spreading fire...
+2026-01-09 00:00:42: Updating burn time
+2026-01-09 00:00:42: Finished updating burn time
+2026-01-09 00:00:42: Finished spreading fire
+2026-01-09 00:00:42: Spreading fire...
+2026-01-09 00:00:42: Updating burn time
+2026-01-09 00:00:42: Finished updating burn time
+2026-01-09 00:00:42: Finished spreading fire
+2026-01-09 00:00:42: Spreading fire...
+2026-01-09 00:00:42: Updating burn time
+2026-01-09 00:00:42: Finished updating burn time
+2026-01-09 00:00:42: Finished spreading fire
+2026-01-09 00:00:42: Spreading fire...
+2026-01-09 00:00:42: Updating burn time
+2026-01-09 00:00:42: Finished updating burn time
+2026-01-09 00:00:42: Finished spreading fire
+2026-01-09 00:00:42: Spreading fire...
+2026-01-09 00:00:42: Updating burn time
+2026-01-09 00:00:42: Finished updating burn time
+2026-01-09 00:00:42: Finished spreading fire
+2026-01-09 00:00:42: Spreading fire...
+2026-01-09 00:00:42: Updating burn time
+2026-01-09 00:00:42: Finished updating burn time
+2026-01-09 00:00:42: Finished spreading fire
+2026-01-09 00:00:43: Spreading fire...
+2026-01-09 00:00:43: Updating burn time
+2026-01-09 00:00:43: Finished updating burn time
+2026-01-09 00:00:43: Finished spreading fire
+2026-01-09 00:00:43: Spreading fire...
+2026-01-09 00:00:43: Updating burn time
+2026-01-09 00:00:43: Finished updating burn time
+2026-01-09 00:00:43: Finished spreading fire
+2026-01-09 00:00:43: Spreading fire...
+2026-01-09 00:00:43: Updating burn time
+2026-01-09 00:00:43: Finished updating burn time
+2026-01-09 00:00:43: Finished spreading fire
+2026-01-09 00:00:43: Spreading fire...
+2026-01-09 00:00:43: Updating burn time
+2026-01-09 00:00:43: Finished updating burn time
+2026-01-09 00:00:43: Finished spreading fire
+2026-01-09 00:00:43: Spreading fire...
+2026-01-09 00:00:43: Updating burn time
+2026-01-09 00:00:43: Finished updating burn time
+2026-01-09 00:00:43: Finished spreading fire
+2026-01-09 00:00:43: Spreading fire...
+2026-01-09 00:00:43: Updating burn time
+2026-01-09 00:00:43: Finished updating burn time
+2026-01-09 00:00:43: Finished spreading fire
+2026-01-09 00:00:43: Spreading fire...
+2026-01-09 00:00:43: Updating burn time
+2026-01-09 00:00:43: Finished updating burn time
+2026-01-09 00:00:43: Finished spreading fire
+2026-01-09 00:00:43: Spreading fire...
+2026-01-09 00:00:43: Updating burn time
+2026-01-09 00:00:43: Finished updating burn time
+2026-01-09 00:00:43: Finished spreading fire
+2026-01-09 00:00:43: Spreading fire...
+2026-01-09 00:00:43: Updating burn time
+2026-01-09 00:00:43: Finished updating burn time
+2026-01-09 00:00:43: Finished spreading fire
+2026-01-09 00:00:44: Spreading fire...
+2026-01-09 00:00:44: Updating burn time
+2026-01-09 00:00:44: Finished updating burn time
+2026-01-09 00:00:44: Finished spreading fire
+2026-01-09 00:00:44: Spreading fire...
+2026-01-09 00:00:44: Updating burn time
+2026-01-09 00:00:44: Finished updating burn time
+2026-01-09 00:00:44: Finished spreading fire
+2026-01-09 00:00:44: Spreading fire...
+2026-01-09 00:00:44: Updating burn time
+2026-01-09 00:00:44: Finished updating burn time
+2026-01-09 00:00:44: Finished spreading fire
+2026-01-09 00:00:44: Spreading fire...
+2026-01-09 00:00:44: Updating burn time
+2026-01-09 00:00:44: Finished updating burn time
+2026-01-09 00:00:44: Finished spreading fire
+2026-01-09 00:00:44: Spreading fire...
+2026-01-09 00:00:44: Updating burn time
+2026-01-09 00:00:44: Finished updating burn time
+2026-01-09 00:00:44: Finished spreading fire
+2026-01-09 00:00:44: Spreading fire...
+2026-01-09 00:00:44: Updating burn time
+2026-01-09 00:00:44: Finished updating burn time
+2026-01-09 00:00:44: Finished spreading fire
+2026-01-09 00:00:44: Spreading fire...
+2026-01-09 00:00:44: Updating burn time
+2026-01-09 00:00:44: Finished updating burn time
+2026-01-09 00:00:44: Finished spreading fire
+2026-01-09 00:00:44: Spreading fire...
+2026-01-09 00:00:44: Updating burn time
+2026-01-09 00:00:44: Finished updating burn time
+2026-01-09 00:00:44: Finished spreading fire
+2026-01-09 00:00:44: Spreading fire...
+2026-01-09 00:00:44: Updating burn time
+2026-01-09 00:00:44: Finished updating burn time
+2026-01-09 00:00:44: Finished spreading fire
+2026-01-09 00:00:45: Spreading fire...
+2026-01-09 00:00:45: Updating burn time
+2026-01-09 00:00:45: Finished updating burn time
+2026-01-09 00:00:45: Finished spreading fire
+2026-01-09 00:00:45: Spreading fire...
+2026-01-09 00:00:45: Updating burn time
+2026-01-09 00:00:45: Finished updating burn time
+2026-01-09 00:00:45: Finished spreading fire
+2026-01-09 00:00:45: Spreading fire...
+2026-01-09 00:00:45: Updating burn time
+2026-01-09 00:00:45: Finished updating burn time
+2026-01-09 00:00:45: Finished spreading fire
+2026-01-09 00:00:45: Spreading fire...
+2026-01-09 00:00:45: Updating burn time
+2026-01-09 00:00:45: Finished updating burn time
+2026-01-09 00:00:45: Finished spreading fire
+2026-01-09 00:00:45: Spreading fire...
+2026-01-09 00:00:45: Updating burn time
+2026-01-09 00:00:45: Finished updating burn time
+2026-01-09 00:00:45: Finished spreading fire
+2026-01-09 00:00:45: Spreading fire...
+2026-01-09 00:00:45: Updating burn time
+2026-01-09 00:00:45: Finished updating burn time
+2026-01-09 00:00:45: Finished spreading fire
+2026-01-09 00:00:45: Spreading fire...
+2026-01-09 00:00:45: Updating burn time
+2026-01-09 00:00:45: Finished updating burn time
+2026-01-09 00:00:45: Finished spreading fire
+2026-01-09 00:00:45: Spreading fire...
+2026-01-09 00:00:45: Updating burn time
+2026-01-09 00:00:45: Finished updating burn time
+2026-01-09 00:00:45: Finished spreading fire
+2026-01-09 00:00:45: Spreading fire...
+2026-01-09 00:00:45: Updating burn time
+2026-01-09 00:00:45: Finished updating burn time
+2026-01-09 00:00:45: Finished spreading fire
+2026-01-09 00:00:46: Spreading fire...
+2026-01-09 00:00:46: Updating burn time
+2026-01-09 00:00:46: Finished updating burn time
+2026-01-09 00:00:46: Finished spreading fire
+2026-01-09 00:00:46: Spreading fire...
+2026-01-09 00:00:46: Updating burn time
+2026-01-09 00:00:46: Finished updating burn time
+2026-01-09 00:00:46: Finished spreading fire
+2026-01-09 00:00:46: Spreading fire...
+2026-01-09 00:00:46: Updating burn time
+2026-01-09 00:00:46: Finished updating burn time
+2026-01-09 00:00:46: Finished spreading fire
+2026-01-09 00:00:49: Generating forest...
+2026-01-09 00:00:49: Generating grass tiles
+2026-01-09 00:00:49: Generating beautiful trees
+2026-01-09 00:00:49: Successfully generated forest
+2026-01-09 00:02:49: loading instructions
+2026-01-09 00:02:49: Loaded instructions with values: n=50, m=50, k=1, spread=0.3, burnTicks=5, seed=2487726433985400
+2026-01-09 00:02:49: Generating forest...
+2026-01-09 00:02:49: Generating grass tiles
+2026-01-09 00:02:49: Generating beautiful trees
+2026-01-09 00:02:49: Successfully generated forest
+2026-01-09 00:02:51: Starting ignition...
+2026-01-09 00:02:51: Finished ignition
+2026-01-09 00:02:51: Spreading fire...
+2026-01-09 00:02:51: Updating burn time
+2026-01-09 00:02:51: Finished updating burn time
+2026-01-09 00:02:51: Finished spreading fire
+2026-01-09 00:02:51: Spreading fire...
+2026-01-09 00:02:51: Updating burn time
+2026-01-09 00:02:51: Finished updating burn time
+2026-01-09 00:02:51: Finished spreading fire
+2026-01-09 00:02:51: Spreading fire...
+2026-01-09 00:02:51: Updating burn time
+2026-01-09 00:02:51: Finished updating burn time
+2026-01-09 00:02:51: Finished spreading fire
+2026-01-09 00:02:51: Spreading fire...
+2026-01-09 00:02:51: Updating burn time
+2026-01-09 00:02:51: Finished updating burn time
+2026-01-09 00:02:51: Finished spreading fire
+2026-01-09 00:02:52: Spreading fire...
+2026-01-09 00:02:52: Updating burn time
+2026-01-09 00:02:52: Finished updating burn time
+2026-01-09 00:02:52: Finished spreading fire
+2026-01-09 00:02:52: Spreading fire...
+2026-01-09 00:02:52: Updating burn time
+2026-01-09 00:02:52: Finished updating burn time
+2026-01-09 00:02:52: Finished spreading fire
+2026-01-09 00:02:52: Spreading fire...
+2026-01-09 00:02:52: Updating burn time
+2026-01-09 00:02:52: Finished updating burn time
+2026-01-09 00:02:52: Finished spreading fire
+2026-01-09 00:02:52: Spreading fire...
+2026-01-09 00:02:52: Updating burn time
+2026-01-09 00:02:52: Finished updating burn time
+2026-01-09 00:02:52: Finished spreading fire
+2026-01-09 00:02:52: Spreading fire...
+2026-01-09 00:02:52: Updating burn time
+2026-01-09 00:02:52: Finished updating burn time
+2026-01-09 00:02:52: Finished spreading fire
+2026-01-09 00:02:52: Spreading fire...
+2026-01-09 00:02:52: Updating burn time
+2026-01-09 00:02:52: Finished updating burn time
+2026-01-09 00:02:52: Finished spreading fire
+2026-01-09 00:02:52: Spreading fire...
+2026-01-09 00:02:52: Updating burn time
+2026-01-09 00:02:52: Finished updating burn time
+2026-01-09 00:02:52: Finished spreading fire
+2026-01-09 00:02:52: Spreading fire...
+2026-01-09 00:02:52: Updating burn time
+2026-01-09 00:02:52: Finished updating burn time
+2026-01-09 00:02:52: Finished spreading fire
+2026-01-09 00:02:52: Spreading fire...
+2026-01-09 00:02:52: Updating burn time
+2026-01-09 00:02:52: Finished updating burn time
+2026-01-09 00:02:52: Finished spreading fire
+2026-01-09 00:02:53: Spreading fire...
+2026-01-09 00:02:53: Updating burn time
+2026-01-09 00:02:53: Finished updating burn time
+2026-01-09 00:02:53: Finished spreading fire
+2026-01-09 00:02:53: Spreading fire...
+2026-01-09 00:02:53: Updating burn time
+2026-01-09 00:02:53: Finished updating burn time
+2026-01-09 00:02:53: Finished spreading fire
+2026-01-09 00:02:53: Spreading fire...
+2026-01-09 00:02:53: Updating burn time
+2026-01-09 00:02:53: Finished updating burn time
+2026-01-09 00:02:53: Finished spreading fire
+2026-01-09 00:02:53: Spreading fire...
+2026-01-09 00:02:53: Updating burn time
+2026-01-09 00:02:53: Finished updating burn time
+2026-01-09 00:02:53: Finished spreading fire
+2026-01-09 00:02:53: Spreading fire...
+2026-01-09 00:02:53: Updating burn time
+2026-01-09 00:02:53: Finished updating burn time
+2026-01-09 00:02:53: Finished spreading fire
+2026-01-09 00:02:53: Spreading fire...
+2026-01-09 00:02:53: Updating burn time
+2026-01-09 00:02:53: Finished updating burn time
+2026-01-09 00:02:53: Finished spreading fire
+2026-01-09 00:02:53: Spreading fire...
+2026-01-09 00:02:53: Updating burn time
+2026-01-09 00:02:53: Finished updating burn time
+2026-01-09 00:02:53: Finished spreading fire
+2026-01-09 00:02:53: Spreading fire...
+2026-01-09 00:02:53: Updating burn time
+2026-01-09 00:02:53: Finished updating burn time
+2026-01-09 00:02:53: Finished spreading fire
+2026-01-09 00:02:53: Spreading fire...
+2026-01-09 00:02:53: Updating burn time
+2026-01-09 00:02:53: Finished updating burn time
+2026-01-09 00:02:53: Finished spreading fire
+2026-01-09 00:02:54: Spreading fire...
+2026-01-09 00:02:54: Updating burn time
+2026-01-09 00:02:54: Finished updating burn time
+2026-01-09 00:02:54: Finished spreading fire
+2026-01-09 00:02:54: Spreading fire...
+2026-01-09 00:02:54: Updating burn time
+2026-01-09 00:02:54: Finished updating burn time
+2026-01-09 00:02:54: Finished spreading fire
+2026-01-09 00:02:54: Spreading fire...
+2026-01-09 00:02:54: Updating burn time
+2026-01-09 00:02:54: Finished updating burn time
+2026-01-09 00:02:54: Finished spreading fire
+2026-01-09 00:02:54: Spreading fire...
+2026-01-09 00:02:54: Updating burn time
+2026-01-09 00:02:54: Finished updating burn time
+2026-01-09 00:02:54: Finished spreading fire
+2026-01-09 00:02:54: Spreading fire...
+2026-01-09 00:02:54: Updating burn time
+2026-01-09 00:02:54: Finished updating burn time
+2026-01-09 00:02:54: Finished spreading fire
+2026-01-09 00:02:54: Spreading fire...
+2026-01-09 00:02:54: Updating burn time
+2026-01-09 00:02:54: Finished updating burn time
+2026-01-09 00:02:54: Finished spreading fire
+2026-01-09 00:02:54: Spreading fire...
+2026-01-09 00:02:54: Updating burn time
+2026-01-09 00:02:54: Finished updating burn time
+2026-01-09 00:02:54: Finished spreading fire
+2026-01-09 00:02:54: Spreading fire...
+2026-01-09 00:02:54: Updating burn time
+2026-01-09 00:02:54: Finished updating burn time
+2026-01-09 00:02:54: Finished spreading fire
+2026-01-09 00:02:55: Spreading fire...
+2026-01-09 00:02:55: Updating burn time
+2026-01-09 00:02:55: Finished updating burn time
+2026-01-09 00:02:55: Finished spreading fire
+2026-01-09 00:02:55: Spreading fire...
+2026-01-09 00:02:55: Updating burn time
+2026-01-09 00:02:55: Finished updating burn time
+2026-01-09 00:02:55: Finished spreading fire
+2026-01-09 00:02:55: Spreading fire...
+2026-01-09 00:02:55: Updating burn time
+2026-01-09 00:02:55: Finished updating burn time
+2026-01-09 00:02:55: Finished spreading fire
+2026-01-09 00:02:55: Spreading fire...
+2026-01-09 00:02:55: Updating burn time
+2026-01-09 00:02:55: Finished updating burn time
+2026-01-09 00:02:55: Finished spreading fire
+2026-01-09 00:02:55: Spreading fire...
+2026-01-09 00:02:55: Updating burn time
+2026-01-09 00:02:55: Finished updating burn time
+2026-01-09 00:02:55: Finished spreading fire
+2026-01-09 00:02:55: Spreading fire...
+2026-01-09 00:02:55: Updating burn time
+2026-01-09 00:02:55: Finished updating burn time
+2026-01-09 00:02:55: Finished spreading fire
+2026-01-09 00:02:55: Spreading fire...
+2026-01-09 00:02:55: Updating burn time
+2026-01-09 00:02:55: Finished updating burn time
+2026-01-09 00:02:55: Finished spreading fire
+2026-01-09 00:02:55: Spreading fire...
+2026-01-09 00:02:55: Updating burn time
+2026-01-09 00:02:55: Finished updating burn time
+2026-01-09 00:02:55: Finished spreading fire
+2026-01-09 00:02:55: Spreading fire...
+2026-01-09 00:02:55: Updating burn time
+2026-01-09 00:02:55: Finished updating burn time
+2026-01-09 00:02:55: Finished spreading fire
+2026-01-09 00:02:56: Spreading fire...
+2026-01-09 00:02:56: Updating burn time
+2026-01-09 00:02:56: Finished updating burn time
+2026-01-09 00:02:56: Finished spreading fire
+2026-01-09 00:02:56: Spreading fire...
+2026-01-09 00:02:56: Updating burn time
+2026-01-09 00:02:56: Finished updating burn time
+2026-01-09 00:02:56: Finished spreading fire
+2026-01-09 00:02:56: Spreading fire...
+2026-01-09 00:02:56: Updating burn time
+2026-01-09 00:02:56: Finished updating burn time
+2026-01-09 00:02:56: Finished spreading fire
+2026-01-09 00:02:56: Spreading fire...
+2026-01-09 00:02:56: Updating burn time
+2026-01-09 00:02:56: Finished updating burn time
+2026-01-09 00:02:56: Finished spreading fire
+2026-01-09 00:02:56: Spreading fire...
+2026-01-09 00:02:56: Updating burn time
+2026-01-09 00:02:56: Finished updating burn time
+2026-01-09 00:02:56: Finished spreading fire
+2026-01-09 00:02:56: Spreading fire...
+2026-01-09 00:02:56: Updating burn time
+2026-01-09 00:02:56: Finished updating burn time
+2026-01-09 00:02:56: Finished spreading fire
+2026-01-09 00:02:56: Spreading fire...
+2026-01-09 00:02:56: Updating burn time
+2026-01-09 00:02:56: Finished updating burn time
+2026-01-09 00:02:56: Finished spreading fire
+2026-01-09 00:02:56: Spreading fire...
+2026-01-09 00:02:56: Updating burn time
+2026-01-09 00:02:56: Finished updating burn time
+2026-01-09 00:02:56: Finished spreading fire
+2026-01-09 00:02:56: Spreading fire...
+2026-01-09 00:02:56: Updating burn time
+2026-01-09 00:02:56: Finished updating burn time
+2026-01-09 00:02:56: Finished spreading fire
+2026-01-09 00:02:57: Spreading fire...
+2026-01-09 00:02:57: Updating burn time
+2026-01-09 00:02:57: Finished updating burn time
+2026-01-09 00:02:57: Finished spreading fire
+2026-01-09 00:02:57: Spreading fire...
+2026-01-09 00:02:57: Updating burn time
+2026-01-09 00:02:57: Finished updating burn time
+2026-01-09 00:02:57: Finished spreading fire
+2026-01-09 00:02:57: Spreading fire...
+2026-01-09 00:02:57: Updating burn time
+2026-01-09 00:02:57: Finished updating burn time
+2026-01-09 00:02:57: Finished spreading fire
+2026-01-09 00:02:57: Spreading fire...
+2026-01-09 00:02:57: Updating burn time
+2026-01-09 00:02:57: Finished updating burn time
+2026-01-09 00:02:57: Finished spreading fire
+2026-01-09 00:02:57: Spreading fire...
+2026-01-09 00:02:57: Updating burn time
+2026-01-09 00:02:57: Finished updating burn time
+2026-01-09 00:02:57: Finished spreading fire
+2026-01-09 00:02:57: Spreading fire...
+2026-01-09 00:02:57: Updating burn time
+2026-01-09 00:02:57: Finished updating burn time
+2026-01-09 00:02:57: Finished spreading fire
+2026-01-09 00:02:57: Spreading fire...
+2026-01-09 00:02:57: Updating burn time
+2026-01-09 00:02:57: Finished updating burn time
+2026-01-09 00:02:57: Finished spreading fire
+2026-01-09 00:02:57: Spreading fire...
+2026-01-09 00:02:57: Updating burn time
+2026-01-09 00:02:57: Finished updating burn time
+2026-01-09 00:02:57: Finished spreading fire
+2026-01-09 00:02:57: Spreading fire...
+2026-01-09 00:02:57: Updating burn time
+2026-01-09 00:02:57: Finished updating burn time
+2026-01-09 00:02:57: Finished spreading fire
+2026-01-09 00:02:58: Spreading fire...
+2026-01-09 00:02:58: Updating burn time
+2026-01-09 00:02:58: Finished updating burn time
+2026-01-09 00:02:58: Finished spreading fire
+2026-01-09 00:02:58: Spreading fire...
+2026-01-09 00:02:58: Updating burn time
+2026-01-09 00:02:58: Finished updating burn time
+2026-01-09 00:02:58: Finished spreading fire
+2026-01-09 00:02:58: Spreading fire...
+2026-01-09 00:02:58: Updating burn time
+2026-01-09 00:02:58: Finished updating burn time
+2026-01-09 00:02:58: Finished spreading fire
+2026-01-09 00:02:58: Spreading fire...
+2026-01-09 00:02:58: Updating burn time
+2026-01-09 00:02:58: Finished updating burn time
+2026-01-09 00:02:58: Finished spreading fire
+2026-01-09 00:02:58: Spreading fire...
+2026-01-09 00:02:58: Updating burn time
+2026-01-09 00:02:58: Finished updating burn time
+2026-01-09 00:02:58: Finished spreading fire
+2026-01-09 00:02:58: Spreading fire...
+2026-01-09 00:02:58: Updating burn time
+2026-01-09 00:02:58: Finished updating burn time
+2026-01-09 00:02:58: Finished spreading fire
+2026-01-09 00:02:58: Spreading fire...
+2026-01-09 00:02:58: Updating burn time
+2026-01-09 00:02:58: Finished updating burn time
+2026-01-09 00:02:58: Finished spreading fire
+2026-01-09 00:02:58: Spreading fire...
+2026-01-09 00:02:58: Updating burn time
+2026-01-09 00:02:58: Finished updating burn time
+2026-01-09 00:02:58: Finished spreading fire
+2026-01-09 11:05:18: loading instructions
+2026-01-09 11:05:18: Loaded instructions with values: n=50, m=50, k=1, spread=0.3, burnTicks=5, seed=2527479213209500
+2026-01-09 11:05:19: Generating forest...
+2026-01-09 11:05:19: Generating grass tiles
+2026-01-09 11:05:19: Generating beautiful trees
+2026-01-09 11:05:19: Successfully generated forest
+2026-01-09 11:05:21: Starting ignition...
+2026-01-09 11:05:21: Finished ignition
+2026-01-09 11:05:21: Spreading fire...
+2026-01-09 11:05:21: Updating burn time
+2026-01-09 11:05:21: Finished updating burn time
+2026-01-09 11:05:21: Finished spreading fire
+2026-01-09 11:05:21: Spreading fire...
+2026-01-09 11:05:21: Updating burn time
+2026-01-09 11:05:21: Finished updating burn time
+2026-01-09 11:05:21: Finished spreading fire
+2026-01-09 11:05:21: Spreading fire...
+2026-01-09 11:05:21: Updating burn time
+2026-01-09 11:05:21: Finished updating burn time
+2026-01-09 11:05:21: Finished spreading fire
+2026-01-09 11:05:21: Spreading fire...
+2026-01-09 11:05:21: Updating burn time
+2026-01-09 11:05:21: Finished updating burn time
+2026-01-09 11:05:21: Finished spreading fire
+2026-01-09 11:05:21: Spreading fire...
+2026-01-09 11:05:21: Updating burn time
+2026-01-09 11:05:21: Finished updating burn time
+2026-01-09 11:05:21: Finished spreading fire
+2026-01-09 11:05:21: Spreading fire...
+2026-01-09 11:05:21: Updating burn time
+2026-01-09 11:05:21: Finished updating burn time
+2026-01-09 11:05:21: Finished spreading fire
+2026-01-09 11:05:22: Spreading fire...
+2026-01-09 11:05:22: Updating burn time
+2026-01-09 11:05:22: Finished updating burn time
+2026-01-09 11:05:22: Finished spreading fire
+2026-01-09 11:05:22: Spreading fire...
+2026-01-09 11:05:22: Updating burn time
+2026-01-09 11:05:22: Finished updating burn time
+2026-01-09 11:05:22: Finished spreading fire
+2026-01-09 11:05:22: Spreading fire...
+2026-01-09 11:05:22: Updating burn time
+2026-01-09 11:05:22: Finished updating burn time
+2026-01-09 11:05:22: Finished spreading fire
+2026-01-09 11:05:22: Spreading fire...
+2026-01-09 11:05:22: Updating burn time
+2026-01-09 11:05:22: Finished updating burn time
+2026-01-09 11:05:22: Finished spreading fire
+2026-01-09 11:05:22: Spreading fire...
+2026-01-09 11:05:22: Updating burn time
+2026-01-09 11:05:22: Finished updating burn time
+2026-01-09 11:05:22: Finished spreading fire
+2026-01-09 11:05:22: Spreading fire...
+2026-01-09 11:05:22: Updating burn time
+2026-01-09 11:05:22: Finished updating burn time
+2026-01-09 11:05:22: Finished spreading fire
+2026-01-09 11:05:22: Spreading fire...
+2026-01-09 11:05:22: Updating burn time
+2026-01-09 11:05:22: Finished updating burn time
+2026-01-09 11:05:22: Finished spreading fire
+2026-01-09 11:05:22: Spreading fire...
+2026-01-09 11:05:22: Updating burn time
+2026-01-09 11:05:22: Finished updating burn time
+2026-01-09 11:05:22: Finished spreading fire
+2026-01-09 11:05:22: Spreading fire...
+2026-01-09 11:05:22: Updating burn time
+2026-01-09 11:05:22: Finished updating burn time
+2026-01-09 11:05:22: Finished spreading fire
+2026-01-09 11:05:23: Spreading fire...
+2026-01-09 11:05:23: Updating burn time
+2026-01-09 11:05:23: Finished updating burn time
+2026-01-09 11:05:23: Finished spreading fire
+2026-01-09 11:05:23: Spreading fire...
+2026-01-09 11:05:23: Updating burn time
+2026-01-09 11:05:23: Finished updating burn time
+2026-01-09 11:05:23: Finished spreading fire
+2026-01-09 11:05:23: Spreading fire...
+2026-01-09 11:05:23: Updating burn time
+2026-01-09 11:05:23: Finished updating burn time
+2026-01-09 11:05:23: Finished spreading fire
+2026-01-09 11:05:23: Spreading fire...
+2026-01-09 11:05:23: Updating burn time
+2026-01-09 11:05:23: Finished updating burn time
+2026-01-09 11:05:23: Finished spreading fire
+2026-01-09 11:05:23: Spreading fire...
+2026-01-09 11:05:23: Updating burn time
+2026-01-09 11:05:23: Finished updating burn time
+2026-01-09 11:05:23: Finished spreading fire
+2026-01-09 11:05:23: Spreading fire...
+2026-01-09 11:05:23: Updating burn time
+2026-01-09 11:05:23: Finished updating burn time
+2026-01-09 11:05:23: Finished spreading fire
+2026-01-09 11:05:23: Spreading fire...
+2026-01-09 11:05:23: Updating burn time
+2026-01-09 11:05:23: Finished updating burn time
+2026-01-09 11:05:23: Finished spreading fire
+2026-01-09 11:05:23: Spreading fire...
+2026-01-09 11:05:23: Updating burn time
+2026-01-09 11:05:23: Finished updating burn time
+2026-01-09 11:05:23: Finished spreading fire
+2026-01-09 11:05:23: Spreading fire...
+2026-01-09 11:05:23: Updating burn time
+2026-01-09 11:05:23: Finished updating burn time
+2026-01-09 11:05:23: Finished spreading fire
+2026-01-09 11:05:24: Spreading fire...
+2026-01-09 11:05:24: Updating burn time
+2026-01-09 11:05:24: Finished updating burn time
+2026-01-09 11:05:24: Finished spreading fire
+2026-01-09 11:05:24: Spreading fire...
+2026-01-09 11:05:24: Updating burn time
+2026-01-09 11:05:24: Finished updating burn time
+2026-01-09 11:05:24: Finished spreading fire
+2026-01-09 11:05:24: Spreading fire...
+2026-01-09 11:05:24: Updating burn time
+2026-01-09 11:05:24: Finished updating burn time
+2026-01-09 11:05:24: Finished spreading fire
+2026-01-09 11:05:24: Spreading fire...
+2026-01-09 11:05:24: Updating burn time
+2026-01-09 11:05:24: Finished updating burn time
+2026-01-09 11:05:24: Finished spreading fire
+2026-01-09 11:05:24: Spreading fire...
+2026-01-09 11:05:24: Updating burn time
+2026-01-09 11:05:24: Finished updating burn time
+2026-01-09 11:05:24: Finished spreading fire
+2026-01-09 11:05:24: Spreading fire...
+2026-01-09 11:05:24: Updating burn time
+2026-01-09 11:05:24: Finished updating burn time
+2026-01-09 11:05:24: Finished spreading fire
+2026-01-09 11:05:24: Spreading fire...
+2026-01-09 11:05:24: Updating burn time
+2026-01-09 11:05:24: Finished updating burn time
+2026-01-09 11:05:24: Finished spreading fire
+2026-01-09 11:05:24: Spreading fire...
+2026-01-09 11:05:24: Updating burn time
+2026-01-09 11:05:24: Finished updating burn time
+2026-01-09 11:05:24: Finished spreading fire
+2026-01-09 11:05:24: Spreading fire...
+2026-01-09 11:05:24: Updating burn time
+2026-01-09 11:05:24: Finished updating burn time
+2026-01-09 11:05:24: Finished spreading fire
+2026-01-09 11:05:25: Spreading fire...
+2026-01-09 11:05:25: Updating burn time
+2026-01-09 11:05:25: Finished updating burn time
+2026-01-09 11:05:25: Finished spreading fire
+2026-01-09 11:05:25: Spreading fire...
+2026-01-09 11:05:25: Updating burn time
+2026-01-09 11:05:25: Finished updating burn time
+2026-01-09 11:05:25: Finished spreading fire
+2026-01-09 11:05:25: Spreading fire...
+2026-01-09 11:05:25: Updating burn time
+2026-01-09 11:05:25: Finished updating burn time
+2026-01-09 11:05:25: Finished spreading fire
+2026-01-09 11:05:25: Spreading fire...
+2026-01-09 11:05:25: Updating burn time
+2026-01-09 11:05:25: Finished updating burn time
+2026-01-09 11:05:25: Finished spreading fire
+2026-01-09 11:05:25: Spreading fire...
+2026-01-09 11:05:25: Updating burn time
+2026-01-09 11:05:25: Finished updating burn time
+2026-01-09 11:05:25: Finished spreading fire
+2026-01-09 11:05:25: Spreading fire...
+2026-01-09 11:05:25: Updating burn time
+2026-01-09 11:05:25: Finished updating burn time
+2026-01-09 11:05:25: Finished spreading fire
+2026-01-09 11:05:25: Spreading fire...
+2026-01-09 11:05:25: Updating burn time
+2026-01-09 11:05:25: Finished updating burn time
+2026-01-09 11:05:25: Finished spreading fire
+2026-01-09 11:05:25: Spreading fire...
+2026-01-09 11:05:25: Updating burn time
+2026-01-09 11:05:25: Finished updating burn time
+2026-01-09 11:05:25: Finished spreading fire
+2026-01-09 11:05:25: Spreading fire...
+2026-01-09 11:05:25: Updating burn time
+2026-01-09 11:05:25: Finished updating burn time
+2026-01-09 11:05:25: Finished spreading fire
+2026-01-09 11:05:26: Spreading fire...
+2026-01-09 11:05:26: Updating burn time
+2026-01-09 11:05:26: Finished updating burn time
+2026-01-09 11:05:26: Finished spreading fire
+2026-01-09 11:05:26: Spreading fire...
+2026-01-09 11:05:26: Updating burn time
+2026-01-09 11:05:26: Finished updating burn time
+2026-01-09 11:05:26: Finished spreading fire
+2026-01-09 11:05:26: Spreading fire...
+2026-01-09 11:05:26: Updating burn time
+2026-01-09 11:05:26: Finished updating burn time
+2026-01-09 11:05:26: Finished spreading fire
+2026-01-09 11:05:26: Spreading fire...
+2026-01-09 11:05:26: Updating burn time
+2026-01-09 11:05:26: Finished updating burn time
+2026-01-09 11:05:26: Finished spreading fire
+2026-01-09 11:05:26: Spreading fire...
+2026-01-09 11:05:26: Updating burn time
+2026-01-09 11:05:26: Finished updating burn time
+2026-01-09 11:05:26: Finished spreading fire
+2026-01-09 11:05:26: Spreading fire...
+2026-01-09 11:05:26: Updating burn time
+2026-01-09 11:05:26: Finished updating burn time
+2026-01-09 11:05:26: Finished spreading fire
+2026-01-09 11:05:26: Spreading fire...
+2026-01-09 11:05:26: Updating burn time
+2026-01-09 11:05:26: Finished updating burn time
+2026-01-09 11:05:26: Finished spreading fire
+2026-01-09 11:05:26: Spreading fire...
+2026-01-09 11:05:26: Updating burn time
+2026-01-09 11:05:26: Finished updating burn time
+2026-01-09 11:05:26: Finished spreading fire
+2026-01-09 11:05:26: Spreading fire...
+2026-01-09 11:05:26: Updating burn time
+2026-01-09 11:05:26: Finished updating burn time
+2026-01-09 11:05:26: Finished spreading fire
+2026-01-09 11:05:27: Spreading fire...
+2026-01-09 11:05:27: Updating burn time
+2026-01-09 11:05:27: Finished updating burn time
+2026-01-09 11:05:27: Finished spreading fire
+2026-01-09 11:05:27: Spreading fire...
+2026-01-09 11:05:27: Updating burn time
+2026-01-09 11:05:27: Finished updating burn time
+2026-01-09 11:05:27: Finished spreading fire
+2026-01-09 11:05:27: Spreading fire...
+2026-01-09 11:05:27: Updating burn time
+2026-01-09 11:05:27: Finished updating burn time
+2026-01-09 11:05:27: Finished spreading fire
+2026-01-09 11:05:27: Spreading fire...
+2026-01-09 11:05:27: Updating burn time
+2026-01-09 11:05:27: Finished updating burn time
+2026-01-09 11:05:27: Finished spreading fire
+2026-01-09 11:05:27: Spreading fire...
+2026-01-09 11:05:27: Updating burn time
+2026-01-09 11:05:27: Finished updating burn time
+2026-01-09 11:05:27: Finished spreading fire
+2026-01-09 11:05:27: Spreading fire...
+2026-01-09 11:05:27: Updating burn time
+2026-01-09 11:05:27: Finished updating burn time
+2026-01-09 11:05:27: Finished spreading fire
+2026-01-09 11:05:27: Spreading fire...
+2026-01-09 11:05:27: Updating burn time
+2026-01-09 11:05:27: Finished updating burn time
+2026-01-09 11:05:27: Finished spreading fire
+2026-01-09 11:05:27: Spreading fire...
+2026-01-09 11:05:27: Updating burn time
+2026-01-09 11:05:27: Finished updating burn time
+2026-01-09 11:05:27: Finished spreading fire
+2026-01-09 11:05:27: Spreading fire...
+2026-01-09 11:05:27: Updating burn time
+2026-01-09 11:05:27: Finished updating burn time
+2026-01-09 11:05:27: Finished spreading fire
+2026-01-09 11:05:28: Spreading fire...
+2026-01-09 11:05:28: Updating burn time
+2026-01-09 11:05:28: Finished updating burn time
+2026-01-09 11:05:28: Finished spreading fire
+2026-01-09 11:05:28: Spreading fire...
+2026-01-09 11:05:28: Updating burn time
+2026-01-09 11:05:28: Finished updating burn time
+2026-01-09 11:05:28: Finished spreading fire
+2026-01-09 11:05:28: Spreading fire...
+2026-01-09 11:05:28: Updating burn time
+2026-01-09 11:05:28: Finished updating burn time
+2026-01-09 11:05:28: Finished spreading fire
+2026-01-09 11:05:28: Spreading fire...
+2026-01-09 11:05:28: Updating burn time
+2026-01-09 11:05:28: Finished updating burn time
+2026-01-09 11:05:28: Finished spreading fire
+2026-01-09 11:05:28: Spreading fire...
+2026-01-09 11:05:28: Updating burn time
+2026-01-09 11:05:28: Finished updating burn time
+2026-01-09 11:05:28: Finished spreading fire
+2026-01-09 11:05:28: Spreading fire...
+2026-01-09 11:05:28: Updating burn time
+2026-01-09 11:05:28: Finished updating burn time
+2026-01-09 11:05:28: Finished spreading fire
+2026-01-09 11:05:28: Spreading fire...
+2026-01-09 11:05:28: Updating burn time
+2026-01-09 11:05:28: Finished updating burn time
+2026-01-09 11:05:28: Finished spreading fire
+2026-01-09 11:05:28: Spreading fire...
+2026-01-09 11:05:28: Updating burn time
+2026-01-09 11:05:28: Finished updating burn time
+2026-01-09 11:05:28: Finished spreading fire
+2026-01-09 11:05:28: Spreading fire...
+2026-01-09 11:05:28: Updating burn time
+2026-01-09 11:05:28: Finished updating burn time
+2026-01-09 11:05:28: Finished spreading fire
+2026-01-09 11:05:29: Spreading fire...
+2026-01-09 11:05:29: Updating burn time
+2026-01-09 11:05:29: Finished updating burn time
+2026-01-09 11:05:29: Finished spreading fire
+2026-01-09 11:05:29: Spreading fire...
+2026-01-09 11:05:29: Updating burn time
+2026-01-09 11:05:29: Finished updating burn time
+2026-01-09 11:05:29: Finished spreading fire
+2026-01-09 11:05:29: Spreading fire...
+2026-01-09 11:05:29: Updating burn time
+2026-01-09 11:05:29: Finished updating burn time
+2026-01-09 11:05:29: Finished spreading fire
+2026-01-09 11:05:29: Spreading fire...
+2026-01-09 11:05:29: Updating burn time
+2026-01-09 11:05:29: Finished updating burn time
+2026-01-09 11:05:29: Finished spreading fire
+2026-01-09 11:05:29: Spreading fire...
+2026-01-09 11:05:29: Updating burn time
+2026-01-09 11:05:29: Finished updating burn time
+2026-01-09 11:05:29: Finished spreading fire
+2026-01-09 11:05:29: Spreading fire...
+2026-01-09 11:05:29: Updating burn time
+2026-01-09 11:05:29: Finished updating burn time
+2026-01-09 11:05:29: Finished spreading fire
+2026-01-09 11:05:29: Spreading fire...
+2026-01-09 11:05:29: Updating burn time
+2026-01-09 11:05:29: Finished updating burn time
+2026-01-09 11:05:29: Finished spreading fire
+2026-01-09 11:05:29: Spreading fire...
+2026-01-09 11:05:29: Updating burn time
+2026-01-09 11:05:29: Finished updating burn time
+2026-01-09 11:05:29: Finished spreading fire
+2026-01-09 11:05:29: Spreading fire...
+2026-01-09 11:05:29: Updating burn time
+2026-01-09 11:05:29: Finished updating burn time
+2026-01-09 11:05:29: Finished spreading fire
+2026-01-09 11:05:30: Spreading fire...
+2026-01-09 11:05:30: Updating burn time
+2026-01-09 11:05:30: Finished updating burn time
+2026-01-09 11:05:30: Finished spreading fire
+2026-01-09 11:05:30: Spreading fire...
+2026-01-09 11:05:30: Updating burn time
+2026-01-09 11:05:30: Finished updating burn time
+2026-01-09 11:05:30: Finished spreading fire
+2026-01-09 11:05:30: Spreading fire...
+2026-01-09 11:05:30: Updating burn time
+2026-01-09 11:05:30: Finished updating burn time
+2026-01-09 11:05:30: Finished spreading fire
+2026-01-09 11:05:30: Spreading fire...
+2026-01-09 11:05:30: Updating burn time
+2026-01-09 11:05:30: Finished updating burn time
+2026-01-09 11:05:30: Finished spreading fire
+2026-01-09 11:05:30: Spreading fire...
+2026-01-09 11:05:30: Updating burn time
+2026-01-09 11:05:30: Finished updating burn time
+2026-01-09 11:05:30: Finished spreading fire
+2026-01-09 11:05:30: Spreading fire...
+2026-01-09 11:05:30: Updating burn time
+2026-01-09 11:05:30: Finished updating burn time
+2026-01-09 11:05:30: Finished spreading fire
+2026-01-09 11:05:30: Spreading fire...
+2026-01-09 11:05:30: Updating burn time
+2026-01-09 11:05:30: Finished updating burn time
+2026-01-09 11:05:30: Finished spreading fire
+2026-01-09 11:05:30: Spreading fire...
+2026-01-09 11:05:30: Updating burn time
+2026-01-09 11:05:30: Finished updating burn time
+2026-01-09 11:05:30: Finished spreading fire
+2026-01-09 11:05:30: Spreading fire...
+2026-01-09 11:05:30: Updating burn time
+2026-01-09 11:05:30: Finished updating burn time
+2026-01-09 11:05:30: Finished spreading fire
+2026-01-09 11:05:31: Spreading fire...
+2026-01-09 11:05:31: Updating burn time
+2026-01-09 11:05:31: Finished updating burn time
+2026-01-09 11:05:31: Finished spreading fire
+2026-01-09 11:05:32: Generating forest...
+2026-01-09 11:05:32: Generating grass tiles
+2026-01-09 11:05:32: Generating beautiful trees
+2026-01-09 11:05:32: Successfully generated forest

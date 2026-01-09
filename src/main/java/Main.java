@@ -13,7 +13,8 @@ public class Main {
 
 
 
-        Timer timer = new Timer(200, null);
+        Timer timer = new Timer(100, null);
+
         timer.addActionListener(e -> {
             if(timeCount==0){
                 timeCount++;
@@ -38,6 +39,7 @@ public class Main {
 
     }
 
+    // used in early dev for printing the visuals in the console
     public static void print2D(Tile[][] mat) {
         for(int i = 0; i < mat.length; i++) {
             for (int j = 0; j < mat[i].length; j++) {

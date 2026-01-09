@@ -8,6 +8,7 @@ public class WalkAlgorithm {
     int mPos;
     java.util.Random randomSeed = new java.util.Random(TextParser.seed);
 
+    // generates trees so that 50% of the grid is filled with Trees using a random walk starting from the grid center
     public void generateForest() {
         Logger.log("Generating forest...");
         Grid.grid = new Tile[TextParser.n][TextParser.m];
@@ -60,6 +61,7 @@ public class WalkAlgorithm {
         Logger.log("Successfully generated forest");
     }
 
+    //takes the k number of ignition points and sets k number of random trees in a burning state
     public void startIgnition(){
         ArrayList<Point> treePositions = Grid.treePositions;
         Collections.shuffle(treePositions);
@@ -74,6 +76,7 @@ public class WalkAlgorithm {
 
     }
 
+    // used to get the 'buffer' or the next position of the grid after it has been ignited until the end of the sim
     public void spreadFire(int n, int m, float spread, int burnTicks) {
         ArrayList<Point> toIgnite = new ArrayList<>();
         Logger.log("Spreading fire...");
@@ -111,6 +114,7 @@ public class WalkAlgorithm {
         Logger.log("Finished spreading fire");
     }
 
+    // keeps track of and updates the burn ticks of each burning tree
     public void updateBurnTime(int burnTicks) {
        ArrayList<Point> toRemove = new ArrayList<>();
        Logger.log("Updating burn time");
@@ -126,6 +130,7 @@ public class WalkAlgorithm {
         Logger.log("Finished updating burn time");
     }
 
+    // restarts the game logic variables
     public void restartSimulation(){
         Grid.treePositions.clear();
         Grid.burningPositions.clear();
